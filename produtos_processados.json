@@ -1,10 +1,2250 @@
 {
+  "1623813": {
+    "id": 1623813,
+    "name": "Barra de Choc. Dark 70% Cacau - Vitao (70g)",
+    "category_id": 191993,
+    "custom_code": null,
+    "atualizado_em": "2026-10-30T15:56:05.359Z"
+  },
+  "1623814": {
+    "id": 1623814,
+    "name": "Barra de Choc. Branco (Mor. e Cranberry) - Vitao (70g)",
+    "category_id": 191993,
+    "custom_code": null,
+    "atualizado_em": "2026-10-30T15:56:01.400Z"
+  },
+  "1623817": {
+    "id": 1623817,
+    "name": "Geleia de Pimentões - Adriana Carvalho (200g)",
+    "category_id": 191994,
+    "custom_code": null,
+    "atualizado_em": "2026-10-29T17:52:47.726Z"
+  },
+  "1623818": {
+    "id": 1623818,
+    "name": "Geleia de Frutas Vermelhas - Adriana Carvalho",
+    "category_id": 191994,
+    "custom_code": null,
+    "atualizado_em": "2026-10-29T17:46:12.480Z"
+  },
+  "1623819": {
+    "id": 1623819,
+    "name": "Antepastos Chimichurri - Adriana Carvalho (200g)",
+    "category_id": 191994,
+    "custom_code": null,
+    "atualizado_em": "2026-10-29T17:48:41.954Z"
+  },
+  "1623820": {
+    "id": 1623820,
+    "name": "Geleia de Morango E Castanha Zero Açucar - Vovó Dete (240g)",
+    "category_id": 191994,
+    "custom_code": null,
+    "atualizado_em": "2026-10-29T17:52:55.957Z"
+  },
+  "1623821": {
+    "id": 1623821,
+    "name": "Geleia de Morango Champanhe e Nozes - Vovó Dete (240g)",
+    "category_id": 191994,
+    "custom_code": null,
+    "atualizado_em": "2026-10-29T17:51:20.158Z"
+  },
+  "1623822": {
+    "id": 1623822,
+    "name": "Geleia de Abacaxi com Pimenta - Vovó Dete (240g)",
+    "category_id": 191994,
+    "custom_code": null,
+    "atualizado_em": "2026-10-29T17:49:10.073Z"
+  },
+  "1623823": {
+    "id": 1623823,
+    "name": "Geleia de Morango Abacaxi com Hortelã Zero Açúcar - Vovó Dete (240g)",
+    "category_id": 191994,
+    "custom_code": null,
+    "atualizado_em": "2026-10-29T17:46:23.017Z"
+  },
+  "1623824": {
+    "id": 1623824,
+    "name": "Geleia de Morango com Champanhe - Vovó Dete (240g)",
+    "category_id": 191994,
+    "custom_code": null,
+    "atualizado_em": "2026-10-29T17:52:18.988Z"
+  },
+  "1623825": {
+    "id": 1623825,
+    "name": "Geleia de Morango - Vovó Dete (240g)",
+    "category_id": 191994,
+    "custom_code": null,
+    "atualizado_em": "2026-10-29T17:52:34.054Z"
+  },
+  "1623826": {
+    "id": 1623826,
+    "name": "Molho Pesto Genovês - Adriana Carvalho (200g)",
+    "category_id": 191994,
+    "custom_code": null,
+    "atualizado_em": "2026-10-29T17:54:43.546Z"
+  },
+  "1623827": {
+    "id": 1623827,
+    "name": "Geleia de Amora Zero Açúcar - Queensberry (300g)",
+    "category_id": 191994,
+    "custom_code": null,
+    "atualizado_em": "2026-10-29T17:47:46.219Z"
+  },
+  "1623828": {
+    "id": 1623828,
+    "name": "Geleia de Frutas Vermelhas Zero Açúcar - Queensberry (300g)",
+    "category_id": 191994,
+    "custom_code": null,
+    "atualizado_em": "2026-10-29T17:52:05.773Z"
+  },
+  "1623829": {
+    "id": 1623829,
+    "name": "Geleia de Morango Zero Açúcar - Queensberry (300g)",
+    "category_id": 191994,
+    "custom_code": null,
+    "atualizado_em": "2026-10-29T17:51:32.105Z"
+  },
+  "1623830": {
+    "id": 1623830,
+    "name": "Creme De Avelã Vegano Zero - Vitao (200g)",
+    "category_id": 191994,
+    "custom_code": null,
+    "atualizado_em": "2026-10-29T17:51:46.999Z"
+  },
+  "1623831": {
+    "id": 1623831,
+    "name": "Barra Proteica Crisp Bar (Cheesecake de Frutas Vermelhas) - Integralmedica (45g)",
+    "category_id": 191995,
+    "custom_code": null,
+    "atualizado_em": "2026-10-29T20:20:58.311Z"
+  },
+  "1623832": {
+    "id": 1623832,
+    "name": "Barra Proteica Crisp Bar (Doce de Coco) - Integralmedica (45g)",
+    "category_id": 191995,
+    "custom_code": null,
+    "atualizado_em": "2026-10-29T20:36:53.287Z"
+  },
+  "1623833": {
+    "id": 1623833,
+    "name": "Barra Proteica Crisp Bar (Ninho com Avelã) - Integralmedica (45g)",
+    "category_id": 191995,
+    "custom_code": null,
+    "atualizado_em": "2026-10-29T20:21:01.101Z"
+  },
+  "1623834": {
+    "id": 1623834,
+    "name": "Barra Proteica Crisp Bar (Peanut Butter) - Integralmedica (45g)",
+    "category_id": 191995,
+    "custom_code": null,
+    "atualizado_em": "2026-10-29T20:22:05.496Z"
+  },
+  "1623835": {
+    "id": 1623835,
+    "name": "Barra Proteica Crisp Bar (Torta de Limão) - Integralmedica (45g)",
+    "category_id": 191995,
+    "custom_code": null,
+    "atualizado_em": "2026-10-29T20:36:56.200Z"
+  },
+  "1623836": {
+    "id": 1623836,
+    "name": "Barra Proteica Crisp Bar (Trufa de Avelã) - Integralmedica (45g)",
+    "category_id": 191995,
+    "custom_code": null,
+    "atualizado_em": "2026-10-30T15:29:04.531Z"
+  },
+  "1623841": {
+    "id": 1623841,
+    "name": "Barra de Proteína (Bombom Crocante) - BOLD (60g)",
+    "category_id": 191995,
+    "custom_code": null,
+    "atualizado_em": "2026-10-29T20:20:52.226Z"
+  },
+  "1623858": {
+    "id": 1623858,
+    "name": "Snack de Arroz (Pimenta Calabresa) - Laury (50g)",
+    "category_id": 191997,
+    "custom_code": null,
+    "atualizado_em": "2026-10-30T15:39:31.641Z"
+  },
+  "1623859": {
+    "id": 1623859,
+    "name": "Snack De Arroz (Barbecue) - Laury (50g)",
+    "category_id": 191997,
+    "custom_code": null,
+    "atualizado_em": "2026-10-30T15:39:28.692Z"
+  },
+  "1623860": {
+    "id": 1623860,
+    "name": "Snack De Arroz (Queijo) - Laury (50g)",
+    "category_id": 191997,
+    "custom_code": null,
+    "atualizado_em": "2026-10-30T15:39:41.735Z"
+  },
+  "1623861": {
+    "id": 1623861,
+    "name": "Cookie Infantil (Cacau) - Vitao (80g)",
+    "category_id": 191997,
+    "custom_code": null,
+    "atualizado_em": "2026-10-30T15:39:04.513Z"
+  },
+  "1623862": {
+    "id": 1623862,
+    "name": "Cookie Infantil (Morango) - Vitao (80g)",
+    "category_id": 191997,
+    "custom_code": null,
+    "atualizado_em": "2026-10-30T15:39:13.262Z"
+  },
+  "1623864": {
+    "id": 1623864,
+    "name": "Cookie Sem Glúten (Baunilha) - Vitao (120g)",
+    "category_id": 191997,
+    "custom_code": null,
+    "atualizado_em": "2026-10-30T15:39:34.390Z"
+  },
+  "1623865": {
+    "id": 1623865,
+    "name": "Cookie Sem Glúten (Cacau) - Vitao (120g)",
+    "category_id": 191997,
+    "custom_code": null,
+    "atualizado_em": "2026-10-30T15:36:39.492Z"
+  },
+  "1623869": {
+    "id": 1623869,
+    "name": "Cookies De Côco - Laury (100g)",
+    "category_id": 191997,
+    "custom_code": null,
+    "atualizado_em": "2026-10-30T15:39:10.388Z"
+  },
+  "1623876": {
+    "id": 1623876,
+    "name": "Rosquinha Sem Glúten (Chocolate) - Vitao (110g)",
+    "category_id": 191997,
+    "custom_code": null,
+    "atualizado_em": "2026-10-30T15:36:47.969Z"
+  },
+  "1623877": {
+    "id": 1623877,
+    "name": "Rosquinha Sem Glúten (Leite) - Vitao (110g)",
+    "category_id": 191997,
+    "custom_code": null,
+    "atualizado_em": "2026-10-30T15:36:52.186Z"
+  },
+  "1623878": {
+    "id": 1623878,
+    "name": "Cookies Sem Glúten (Chocolate) - Vitao (60g)",
+    "category_id": 191997,
+    "custom_code": null,
+    "atualizado_em": "2026-10-30T15:36:55.349Z"
+  },
+  "1623879": {
+    "id": 1623879,
+    "name": "Cookies Sem Glúten (Tradicional) - Vitao (60g)",
+    "category_id": 191997,
+    "custom_code": null,
+    "atualizado_em": "2026-10-30T15:36:19.246Z"
+  },
+  "1623880": {
+    "id": 1623880,
+    "name": "Biscoitos Clássicos (Maçã e Canela) - Belfar (86g)",
+    "category_id": 191997,
+    "custom_code": null,
+    "atualizado_em": "2026-10-30T15:36:59.365Z"
+  },
+  "1623881": {
+    "id": 1623881,
+    "name": "Biscoitos Clássicos (Amanteigado) - Belfar (86g)",
+    "category_id": 191997,
+    "custom_code": null,
+    "atualizado_em": "2026-10-30T15:37:02.333Z"
+  },
+  "1623882": {
+    "id": 1623882,
+    "name": "Biscoitos Clássicos (Coco) - Belfar (86g)",
+    "category_id": 191997,
+    "custom_code": null,
+    "atualizado_em": "2026-10-30T15:39:37.640Z"
+  },
+  "1623885": {
+    "id": 1623885,
+    "name": "Cookie Sem Glúten (Castanha do Pará) - Vitao (120g)",
+    "category_id": 191997,
+    "custom_code": null,
+    "atualizado_em": "2026-10-30T15:37:06.094Z"
+  },
+  "1623886": {
+    "id": 1623886,
+    "name": "Biscoito Recheado Zero Açúcares (Dark Vanilla) - Lowçucar (120g)",
+    "category_id": 191997,
+    "custom_code": null,
+    "atualizado_em": "2026-10-30T15:37:21.554Z"
+  },
+  "1623887": {
+    "id": 1623887,
+    "name": "Biscoito Recheado Zero Açúcares (Morango) - Lowçucar (120g)",
+    "category_id": 191997,
+    "custom_code": null,
+    "atualizado_em": "2026-10-30T15:39:24.652Z"
+  },
+  "1623888": {
+    "id": 1623888,
+    "name": "Biscoito Recheado Zero Açúcares (Chocolate) - Lowçucar (120g)",
+    "category_id": 191997,
+    "custom_code": null,
+    "atualizado_em": "2026-10-30T15:39:44.517Z"
+  },
+  "1623889": {
+    "id": 1623889,
+    "name": "Biscoito Maisena Zero Açúcares (Chocolate) - Lowçucar (115g)",
+    "category_id": 191997,
+    "custom_code": null,
+    "atualizado_em": "2026-10-30T15:38:54.822Z"
+  },
+  "1623890": {
+    "id": 1623890,
+    "name": "Biscoito Maisena Zero Açúcares - Lowçucar (115g)",
+    "category_id": 191997,
+    "custom_code": null,
+    "atualizado_em": "2026-10-30T15:39:47.367Z"
+  },
+  "1623891": {
+    "id": 1623891,
+    "name": "Mini Cookies Light (Manteiga Suave) (100g)",
+    "category_id": 191997,
+    "custom_code": null,
+    "atualizado_em": "2026-10-30T15:39:50.488Z"
+  },
+  "1623893": {
+    "id": 1623893,
+    "name": "Mini Cookies Zero (Leite Condensado) (100g)",
+    "category_id": 191997,
+    "custom_code": null,
+    "atualizado_em": "2026-10-30T15:37:24.374Z"
+  },
+  "1623895": {
+    "id": 1623895,
+    "name": "Granola Gourmet - Laury (450g)",
+    "category_id": 191998,
+    "custom_code": null,
+    "atualizado_em": "2026-10-30T15:29:11.412Z"
+  },
+  "1623896": {
+    "id": 1623896,
+    "name": "Granola Zero Adição de Açúcar - Laury (450g)",
+    "category_id": 191998,
+    "custom_code": null,
+    "atualizado_em": "2026-10-30T15:29:22.760Z"
+  },
+  "1623897": {
+    "id": 1623897,
+    "name": "Granola Sem Glúten - Vitalin (200g)",
+    "category_id": 191998,
+    "custom_code": null,
+    "atualizado_em": "2026-10-30T15:29:14.814Z"
+  },
+  "1623898": {
+    "id": 1623898,
+    "name": "Manteiga da Terra (500ml)",
+    "category_id": 191999,
+    "custom_code": null,
+    "atualizado_em": "2026-10-30T15:40:25.782Z"
+  },
+  "1623901": {
+    "id": 1623901,
+    "name": "Óleo Essencial de Hortelã - Nectar Plus (15ml)",
+    "category_id": 191999,
+    "custom_code": null,
+    "atualizado_em": "2026-10-30T15:40:22.815Z"
+  },
+  "1623903": {
+    "id": 1623903,
+    "name": "Óleo De Côco (Refil) - Copra (100ml)",
+    "category_id": 191999,
+    "custom_code": null,
+    "atualizado_em": "2026-10-30T15:59:00.139Z"
+  },
+  "1623905": {
+    "id": 1623905,
+    "name": "Óleo De Gergelim - Nectar Plus (100ml)",
+    "category_id": 191999,
+    "custom_code": null,
+    "atualizado_em": "2026-10-30T15:59:02.898Z"
+  },
+  "1623906": {
+    "id": 1623906,
+    "name": "Óleo de Girassol - Nectar Plus (100ml)",
+    "category_id": 191999,
+    "custom_code": null,
+    "atualizado_em": "2026-10-30T15:40:03.745Z"
+  },
+  "1623907": {
+    "id": 1623907,
+    "name": "Óleo de Girassol Nectar Plus (200ml)",
+    "category_id": 191999,
+    "custom_code": null,
+    "atualizado_em": "2026-10-30T15:40:07.607Z"
+  },
+  "1623908": {
+    "id": 1623908,
+    "name": "Óleo Mineral - Nectar Plus (100ml)",
+    "category_id": 191999,
+    "custom_code": null,
+    "atualizado_em": "2026-10-30T15:40:11.059Z"
+  },
+  "1623909": {
+    "id": 1623909,
+    "name": "Óleo De Côco Extravirgem - Laury (500ml)",
+    "category_id": 191999,
+    "custom_code": null,
+    "atualizado_em": "2026-10-30T15:40:44.621Z"
+  },
+  "1623910": {
+    "id": 1623910,
+    "name": "Óleo De Côco Extravirgem - Laury (200ml)",
+    "category_id": 191999,
+    "custom_code": null,
+    "atualizado_em": "2026-10-30T15:40:29.153Z"
+  },
+  "1623911": {
+    "id": 1623911,
+    "name": "Vinagre De Maçã Orgânico - Puro Pomar (500ml)",
+    "category_id": 191999,
+    "custom_code": null,
+    "atualizado_em": "2026-10-30T15:40:48.836Z"
+  },
+  "1623912": {
+    "id": 1623912,
+    "name": "Mel de Cajú - Laury (276g)",
+    "category_id": 192000,
+    "custom_code": null,
+    "atualizado_em": "2026-10-30T15:56:49.267Z"
+  },
+  "1623913": {
+    "id": 1623913,
+    "name": "Melaço de Cana (400g)",
+    "category_id": 192000,
+    "custom_code": null,
+    "atualizado_em": "2026-10-30T15:56:53.016Z"
+  },
+  "1623914": {
+    "id": 1623914,
+    "name": "Mel Natural - Nectar Plus (290g)",
+    "category_id": 192000,
+    "custom_code": null,
+    "atualizado_em": "2026-10-29T20:23:04.901Z"
+  },
+  "1623915": {
+    "id": 1623915,
+    "name": "Mel Natural - Nectar Plus (720g)",
+    "category_id": 192000,
+    "custom_code": null,
+    "atualizado_em": "2026-10-29T20:22:28.705Z"
+  },
+  "1623916": {
+    "id": 1623916,
+    "name": "Mel de Uruçu - Nectar Plus (290g)",
+    "category_id": 192000,
+    "custom_code": null,
+    "atualizado_em": "2026-10-29T20:22:31.524Z"
+  },
+  "1623917": {
+    "id": 1623917,
+    "name": "Lambedor Eucalipto (290g)",
+    "category_id": 192000,
+    "custom_code": null,
+    "atualizado_em": "2026-10-29T20:22:19.788Z"
+  },
+  "1623918": {
+    "id": 1623918,
+    "name": "Lambedor Cupim de Cajueiro (290g)",
+    "category_id": 192000,
+    "custom_code": null,
+    "atualizado_em": "2026-10-29T20:22:25.922Z"
+  },
+  "1623919": {
+    "id": 1623919,
+    "name": "Lambedor Alho (290g)",
+    "category_id": 192000,
+    "custom_code": null,
+    "atualizado_em": "2026-10-29T20:22:22.998Z"
+  },
+  "1623920": {
+    "id": 1623920,
+    "name": "Lambedor Hortelã (290g)",
+    "category_id": 192000,
+    "custom_code": null,
+    "atualizado_em": "2026-10-29T20:22:56.465Z"
+  },
+  "1623921": {
+    "id": 1623921,
+    "name": "Molho de Pimenta Tipo Arrochada - Chilli & Pig (150ml)",
+    "category_id": 192001,
+    "custom_code": null,
+    "atualizado_em": "2026-10-29T17:36:10.795Z"
+  },
+  "1623922": {
+    "id": 1623922,
+    "name": "Molho de Pimenta Tipo Dainty - Chilli & Pig (140ml)",
+    "category_id": 192001,
+    "custom_code": null,
+    "atualizado_em": "2026-10-29T17:35:57.032Z"
+  },
+  "1623923": {
+    "id": 1623923,
+    "name": "Molho de Pimenta Tipo Sriracha - Chilli & Pig (150ml)",
+    "category_id": 192001,
+    "custom_code": null,
+    "atualizado_em": "2026-10-29T17:36:26.097Z"
+  },
+  "1623924": {
+    "id": 1623924,
+    "name": "Molho de Pimenta Tipo Volcano - Chilli & Pig (140ml)",
+    "category_id": 192001,
+    "custom_code": null,
+    "atualizado_em": "2026-10-29T17:35:35.541Z"
+  },
+  "1623925": {
+    "id": 1623925,
+    "name": "Molho de Pimenta Tipo Cabra da Peste - Chilli & Pig (140ml)",
+    "category_id": 192001,
+    "custom_code": null,
+    "atualizado_em": "2026-10-29T17:36:40.016Z"
+  },
+  "1623926": {
+    "id": 1623926,
+    "name": "Molho Barbecue - Chilli & Pig (150ml)",
+    "category_id": 192001,
+    "custom_code": null,
+    "atualizado_em": "2026-10-29T17:35:47.437Z"
+  },
+  "1623927": {
+    "id": 1623927,
+    "name": "Molho de Pimenta Jalapeño - Chilli & Pig (150ml)",
+    "category_id": 192001,
+    "custom_code": null,
+    "atualizado_em": "2026-10-29T17:35:21.872Z"
+  },
+  "1623929": {
+    "id": 1623929,
+    "name": "Molho de Pimenta Desperado - Chilli & Pig (150ml)",
+    "category_id": 192001,
+    "custom_code": null,
+    "atualizado_em": "2026-10-29T17:35:10.606Z"
+  },
+  "1623960": {
+    "id": 1623960,
+    "name": "Coenzima Q10 - MAXINUTRI (30 caps. c/ 200mg)",
+    "category_id": 192003,
+    "custom_code": null,
+    "atualizado_em": "2026-10-30T15:54:08.334Z"
+  },
+  "1623961": {
+    "id": 1623961,
+    "name": "Vitamina B12 - Maxinutri (60 caps.)",
+    "category_id": 192003,
+    "custom_code": null,
+    "atualizado_em": "2026-10-30T15:54:49.568Z"
+  },
+  "1623962": {
+    "id": 1623962,
+    "name": "Coenzima Q10 PLUS - Copapharma (60 caps. c/ 100mg)",
+    "category_id": 192003,
+    "custom_code": null,
+    "atualizado_em": "2026-10-29T20:20:10.549Z"
+  },
+  "1623963": {
+    "id": 1623963,
+    "name": "Vitamina K2 & K2-7 - Maxinutri (60 caps. c/ 125mcg)",
+    "category_id": 192003,
+    "custom_code": null,
+    "atualizado_em": "2026-10-29T20:18:36.805Z"
+  },
+  "1623964": {
+    "id": 1623964,
+    "name": "Complexo B 100% IDR - Maxinutri (60 caps.)",
+    "category_id": 192003,
+    "custom_code": null,
+    "atualizado_em": "2026-10-29T20:18:25.774Z"
+  },
+  "1623965": {
+    "id": 1623965,
+    "name": "Cisteflux Cranberry - Maxinutri (30 caps.)",
+    "category_id": 192003,
+    "custom_code": null,
+    "atualizado_em": "2026-10-30T15:54:57.451Z"
+  },
+  "1623966": {
+    "id": 1623966,
+    "name": "Carvão vegetal ativado - Supervas (60 caps.)",
+    "category_id": 192003,
+    "custom_code": null,
+    "atualizado_em": "2026-10-29T20:19:22.539Z"
+  },
+  "1623970": {
+    "id": 1623970,
+    "name": "Ferro - Maxinutri (60 caps.)",
+    "category_id": 192003,
+    "custom_code": null,
+    "atualizado_em": "2026-10-29T20:19:12.760Z"
+  },
+  "1623971": {
+    "id": 1623971,
+    "name": "Desodalina - Sanibras (60 caps. c/ 600mg)",
+    "category_id": 192003,
+    "custom_code": null,
+    "atualizado_em": "2026-10-29T20:20:39.815Z"
+  },
+  "1623972": {
+    "id": 1623972,
+    "name": "Cranberry - Herbamed (60cap c/ 500mg)",
+    "category_id": 192003,
+    "custom_code": null,
+    "atualizado_em": "2026-10-30T15:54:36.533Z"
+  },
+  "1623977": {
+    "id": 1623977,
+    "name": "Xarope PropoMAX Kids - Apis Flora (140ml)",
+    "category_id": 192003,
+    "custom_code": null,
+    "atualizado_em": "2026-10-30T15:55:01.427Z"
+  },
+  "1623980": {
+    "id": 1623980,
+    "name": "Colágeno + Vit. C - Maxinutri (60 caps. c/ 400mg)",
+    "category_id": 192003,
+    "custom_code": null,
+    "atualizado_em": "2026-10-30T15:51:03.022Z"
+  },
+  "1623981": {
+    "id": 1623981,
+    "name": "Picolinato de Cromo - Maxinutri (60 caps. c/ 250mg)",
+    "category_id": 192003,
+    "custom_code": null,
+    "atualizado_em": "2026-10-30T15:51:36.866Z"
+  },
+  "1623982": {
+    "id": 1623982,
+    "name": "Óleo de Linhaça - Maxinutri (60 caps. c/ 1000mg)",
+    "category_id": 192003,
+    "custom_code": null,
+    "atualizado_em": "2026-10-30T15:54:04.315Z"
+  },
+  "1623983": {
+    "id": 1623983,
+    "name": "Óleo De Coco - Maxinutri (60 caps. c/ 1000mg)",
+    "category_id": 192003,
+    "custom_code": null,
+    "atualizado_em": "2026-10-30T15:53:53.554Z"
+  },
+  "1623984": {
+    "id": 1623984,
+    "name": "Silício + Vit. A,C,D,E - Maxinutri (60 caps. c/ 500mg)",
+    "category_id": 192003,
+    "custom_code": null,
+    "atualizado_em": "2026-10-29T20:18:00.884Z"
+  },
+  "1623985": {
+    "id": 1623985,
+    "name": "Colágeno c/ Verisol - Maxinutri (90 caps.)",
+    "category_id": 192003,
+    "custom_code": null,
+    "atualizado_em": "2026-10-30T15:52:31.659Z"
+  },
+  "1623987": {
+    "id": 1623987,
+    "name": "HairSkin & Nails Femme - Maxinutri (90 caps.)",
+    "category_id": 192003,
+    "custom_code": null,
+    "atualizado_em": "2026-10-29T20:19:30.964Z"
+  },
+  "1623989": {
+    "id": 1623989,
+    "name": "Nutricaps Sênior - Maxinutri (60 caps.)",
+    "category_id": 192003,
+    "custom_code": null,
+    "atualizado_em": "2026-10-29T20:18:04.139Z"
+  },
+  "1623990": {
+    "id": 1623990,
+    "name": "Lisimune Lisina - Maxinutri (60 caps. c/ 500mg)",
+    "category_id": 192003,
+    "custom_code": null,
+    "atualizado_em": "2026-10-30T15:54:16.318Z"
+  },
+  "1623991": {
+    "id": 1623991,
+    "name": "Memorin - Maxinutri (60 caps.)",
+    "category_id": 192003,
+    "custom_code": null,
+    "atualizado_em": "2026-10-29T20:19:15.772Z"
+  },
+  "1623992": {
+    "id": 1623992,
+    "name": "Magnésio Treonato - Herbamed (60 caps.)",
+    "category_id": 192003,
+    "custom_code": null,
+    "atualizado_em": "2026-10-30T15:53:23.533Z"
+  },
+  "1623993": {
+    "id": 1623993,
+    "name": "Leteimax - Maxinutri (60 caps.)",
+    "category_id": 192003,
+    "custom_code": null,
+    "atualizado_em": "2026-10-29T20:19:10.018Z"
+  },
+  "1623994": {
+    "id": 1623994,
+    "name": "Dimag MDK - Maxinutri (60 caps. c/ 400mg)",
+    "category_id": 192003,
+    "custom_code": null,
+    "atualizado_em": "2026-10-29T20:19:01.564Z"
+  },
+  "1623996": {
+    "id": 1623996,
+    "name": "Mag Plus 5 - Herbamed (60 caps.)",
+    "category_id": 192003,
+    "custom_code": null,
+    "atualizado_em": "2026-10-29T20:19:41.984Z"
+  },
+  "1623997": {
+    "id": 1623997,
+    "name": "Magnésio Dimalato - Maxinutri (60 cap. c/ 400mg)",
+    "category_id": 192003,
+    "custom_code": null,
+    "atualizado_em": "2026-10-30T15:52:57.466Z"
+  },
+  "1623999": {
+    "id": 1623999,
+    "name": "Polivitaminico (A a Z) - Herbamed (60 caps.)",
+    "category_id": 192003,
+    "custom_code": null,
+    "atualizado_em": "2026-10-29T20:17:33.703Z"
+  },
+  "1624000": {
+    "id": 1624000,
+    "name": "Colágeno tipo 2 + Curcuma - Maxinutri (60 caps.)",
+    "category_id": 192003,
+    "custom_code": null,
+    "atualizado_em": "2026-10-29T20:19:36.543Z"
+  },
+  "1624001": {
+    "id": 1624001,
+    "name": "Monaliz - Sanibras (30 caps.)",
+    "category_id": 192003,
+    "custom_code": null,
+    "atualizado_em": "2026-10-29T20:17:52.647Z"
+  },
+  "1624002": {
+    "id": 1624002,
+    "name": "Coenzima Q10 - Maxinutri (60 caps.)",
+    "category_id": 192003,
+    "custom_code": null,
+    "atualizado_em": "2026-10-30T15:54:29.715Z"
+  },
+  "1624005": {
+    "id": 1624005,
+    "name": "Finisim - Maxinutri (60 caps.)",
+    "category_id": 192003,
+    "custom_code": null,
+    "atualizado_em": "2026-10-29T20:17:11.520Z"
+  },
+  "1624007": {
+    "id": 1624007,
+    "name": "Alcachofra (30g)",
+    "category_id": 192004,
+    "custom_code": null,
+    "atualizado_em": "2026-10-29T18:17:02.048Z"
+  },
+  "1624009": {
+    "id": 1624009,
+    "name": "Alfazema Suíça (20g)",
+    "category_id": 192004,
+    "custom_code": null,
+    "atualizado_em": "2026-10-29T18:16:51.266Z"
+  },
+  "1624010": {
+    "id": 1624010,
+    "name": "Anis Estrelado (15g)",
+    "category_id": 192004,
+    "custom_code": null,
+    "atualizado_em": "2026-10-29T18:19:43.116Z"
+  },
+  "1624011": {
+    "id": 1624011,
+    "name": "Artemísia (10g)",
+    "category_id": 192004,
+    "custom_code": null,
+    "atualizado_em": "2026-10-29T18:17:59.210Z"
+  },
+  "1624012": {
+    "id": 1624012,
+    "name": "Assa peixe (25g)",
+    "category_id": 192004,
+    "custom_code": null,
+    "atualizado_em": "2026-10-29T18:19:49.682Z"
+  },
+  "1624013": {
+    "id": 1624013,
+    "name": "Barbatimão (30g)",
+    "category_id": 192004,
+    "custom_code": null,
+    "atualizado_em": "2026-10-29T18:16:42.083Z"
+  },
+  "1624017": {
+    "id": 1624017,
+    "name": "Canela de Velho (20g)",
+    "category_id": 192004,
+    "custom_code": null,
+    "atualizado_em": "2026-10-29T18:14:42.082Z"
+  },
+  "1624020": {
+    "id": 1624020,
+    "name": "Carqueja (30g)",
+    "category_id": 192004,
+    "custom_code": null,
+    "atualizado_em": "2026-10-29T18:18:48.358Z"
+  },
+  "1624022": {
+    "id": 1624022,
+    "name": "Cavalinha (25g)",
+    "category_id": 192004,
+    "custom_code": null,
+    "atualizado_em": "2026-10-29T18:17:08.686Z"
+  },
+  "1624023": {
+    "id": 1624023,
+    "name": "Centella Asiática (15g)",
+    "category_id": 192004,
+    "custom_code": null,
+    "atualizado_em": "2026-10-29T18:16:35.172Z"
+  },
+  "1624024": {
+    "id": 1624024,
+    "name": "Chá Preto (20g)",
+    "category_id": 192004,
+    "custom_code": null,
+    "atualizado_em": "2026-10-29T18:17:50.249Z"
+  },
+  "1624074": {
+    "id": 1624074,
+    "name": "Chá Verde (30g)",
+    "category_id": 192004,
+    "custom_code": null,
+    "atualizado_em": "2026-10-29T18:19:33.431Z"
+  },
+  "1624080": {
+    "id": 1624080,
+    "name": "Endro (40g)",
+    "category_id": 192004,
+    "custom_code": null,
+    "atualizado_em": "2026-10-29T18:19:12.017Z"
+  },
+  "1624081": {
+    "id": 1624081,
+    "name": "Erva Baleeira (30g)",
+    "category_id": 192004,
+    "custom_code": null,
+    "atualizado_em": "2026-10-29T18:18:02.709Z"
+  },
+  "1624082": {
+    "id": 1624082,
+    "name": "Erva de São João (20g)",
+    "category_id": 192004,
+    "custom_code": null,
+    "atualizado_em": "2026-10-29T18:17:19.913Z"
+  },
+  "1624084": {
+    "id": 1624084,
+    "name": "Espinheira Santa (30g)",
+    "category_id": 192004,
+    "custom_code": null,
+    "atualizado_em": "2026-10-29T18:19:54.562Z"
+  },
+  "1624085": {
+    "id": 1624085,
+    "name": "Passiflora (Flor do Maracujá) (20g)",
+    "category_id": 192004,
+    "custom_code": null,
+    "atualizado_em": "2026-10-29T18:19:05.125Z"
+  },
+  "1624086": {
+    "id": 1624086,
+    "name": "Folha de Amora (15g)",
+    "category_id": 192004,
+    "custom_code": null,
+    "atualizado_em": "2026-10-29T18:20:53.908Z"
+  },
+  "1624088": {
+    "id": 1624088,
+    "name": "Gengibre em Raíz (100g)",
+    "category_id": 192004,
+    "custom_code": null,
+    "atualizado_em": "2026-10-29T18:15:54.982Z"
+  },
+  "1624089": {
+    "id": 1624089,
+    "name": "Ginkgo Biloba em Folhas (30g)",
+    "category_id": 192004,
+    "custom_code": null,
+    "atualizado_em": "2026-10-29T18:20:01.890Z"
+  },
+  "1624090": {
+    "id": 1624090,
+    "name": "Hibisco (40g)",
+    "category_id": 192004,
+    "custom_code": null,
+    "atualizado_em": "2026-10-29T18:18:09.202Z"
+  },
+  "1624092": {
+    "id": 1624092,
+    "name": "Ipê Roxo (15g)",
+    "category_id": 192004,
+    "custom_code": null,
+    "atualizado_em": "2026-10-29T18:18:39.691Z"
+  },
+  "1624094": {
+    "id": 1624094,
+    "name": "Macela (30g)",
+    "category_id": 192004,
+    "custom_code": null,
+    "atualizado_em": "2026-10-29T18:20:05.094Z"
+  },
+  "1624095": {
+    "id": 1624095,
+    "name": "Composto Diurético \"O Milagroso\" (100g)",
+    "category_id": 192004,
+    "custom_code": null,
+    "atualizado_em": "2026-10-29T18:19:39.946Z"
+  },
+  "1624096": {
+    "id": 1624096,
+    "name": "Mulungu (20g)",
+    "category_id": 192004,
+    "custom_code": null,
+    "atualizado_em": "2026-10-29T18:16:17.922Z"
+  },
+  "1624098": {
+    "id": 1624098,
+    "name": "Pata de Vaca (25g)",
+    "category_id": 192004,
+    "custom_code": null,
+    "atualizado_em": "2026-10-29T18:17:26.297Z"
+  },
+  "1624100": {
+    "id": 1624100,
+    "name": "Pau tenente (15g)",
+    "category_id": 192004,
+    "custom_code": null,
+    "atualizado_em": "2026-10-29T18:19:18.089Z"
+  },
+  "1624101": {
+    "id": 1624101,
+    "name": "Porangaba (15g)",
+    "category_id": 192004,
+    "custom_code": null,
+    "atualizado_em": "2026-10-29T18:21:28.501Z"
+  },
+  "1624102": {
+    "id": 1624102,
+    "name": "Quebra-Pedra (30g)",
+    "category_id": 192004,
+    "custom_code": null,
+    "atualizado_em": "2026-10-29T18:19:27.380Z"
+  },
+  "1624104": {
+    "id": 1624104,
+    "name": "Sabugueiro (20g)",
+    "category_id": 192004,
+    "custom_code": null,
+    "atualizado_em": "2026-10-29T18:14:50.537Z"
+  },
+  "1624105": {
+    "id": 1624105,
+    "name": "Sálvia (20g)",
+    "category_id": 192004,
+    "custom_code": null,
+    "atualizado_em": "2026-10-29T18:18:55.223Z"
+  },
+  "1624106": {
+    "id": 1624106,
+    "name": "Semente de Sucupira (30g)",
+    "category_id": 192004,
+    "custom_code": null,
+    "atualizado_em": "2026-10-29T18:16:09.964Z"
+  },
+  "1624107": {
+    "id": 1624107,
+    "name": "Sene 30g",
+    "category_id": 192004,
+    "custom_code": null,
+    "atualizado_em": "2026-10-29T18:23:18.582Z"
+  },
+  "1624108": {
+    "id": 1624108,
+    "name": "Tanchagem 10g",
+    "category_id": 192004,
+    "custom_code": null,
+    "atualizado_em": "2026-10-29T18:17:38.209Z"
+  },
+  "1624109": {
+    "id": 1624109,
+    "name": "Unha de gato 25g",
+    "category_id": 192004,
+    "custom_code": null,
+    "atualizado_em": "2026-10-29T18:23:24.073Z"
+  },
+  "1624111": {
+    "id": 1624111,
+    "name": "Uxi Amarelo 25g",
+    "category_id": 192004,
+    "custom_code": null,
+    "atualizado_em": "2026-10-29T18:23:28.477Z"
+  },
+  "1624112": {
+    "id": 1624112,
+    "name": "Valeriana Raiz (16g)",
+    "category_id": 192004,
+    "custom_code": null,
+    "atualizado_em": "2026-10-29T18:16:27.153Z"
+  },
+  "1624113": {
+    "id": 1624113,
+    "name": "Erva Ora Pro Nobis (30g)",
+    "category_id": 192004,
+    "custom_code": null,
+    "atualizado_em": "2026-10-29T18:23:12.059Z"
+  },
+  "1624114": {
+    "id": 1624114,
+    "name": "Quebra Pedra (30g)",
+    "category_id": 192004,
+    "custom_code": null,
+    "atualizado_em": "2026-10-29T18:15:46.365Z"
+  },
+  "1624115": {
+    "id": 1624115,
+    "name": "Chá Twinings (10 sachês)",
+    "category_id": 192004,
+    "custom_code": null,
+    "atualizado_em": "2026-10-29T20:15:40.778Z"
+  },
+  "1624116": {
+    "id": 1624116,
+    "name": "Agar-Agar (30g)",
+    "category_id": 192004,
+    "custom_code": null,
+    "atualizado_em": "2026-10-29T18:18:21.845Z"
+  },
+  "1624117": {
+    "id": 1624117,
+    "name": "Angélica (20g)",
+    "category_id": 192004,
+    "custom_code": null,
+    "atualizado_em": "2026-10-29T18:23:40.087Z"
+  },
+  "1624118": {
+    "id": 1624118,
+    "name": "Folha de Arnica (30g)",
+    "category_id": 192004,
+    "custom_code": null,
+    "atualizado_em": "2026-10-29T18:23:46.642Z"
+  },
+  "1624119": {
+    "id": 1624119,
+    "name": "Casca de Cajueiro (30g)",
+    "category_id": 192004,
+    "custom_code": null,
+    "atualizado_em": "2026-10-29T18:23:53.318Z"
+  },
+  "1624120": {
+    "id": 1624120,
+    "name": "Cana do Brejo (20g)",
+    "category_id": 192004,
+    "custom_code": null,
+    "atualizado_em": "2026-10-29T18:20:12.758Z"
+  },
+  "1624122": {
+    "id": 1624122,
+    "name": "Cardo Mariano em folha (20g)",
+    "category_id": 192004,
+    "custom_code": null,
+    "atualizado_em": "2026-10-29T18:20:20.570Z"
+  },
+  "1624123": {
+    "id": 1624123,
+    "name": "Dolomita (250g)",
+    "category_id": 192011,
+    "custom_code": null,
+    "atualizado_em": "2026-10-30T15:42:06.075Z"
+  },
+  "1624125": {
+    "id": 1624125,
+    "name": "Eucalipto (30g)",
+    "category_id": 192004,
+    "custom_code": null,
+    "atualizado_em": "2026-10-29T18:21:44.997Z"
+  },
+  "1624126": {
+    "id": 1624126,
+    "name": "Folha de Insulina (20g)",
+    "category_id": 192004,
+    "custom_code": null,
+    "atualizado_em": "2026-10-29T18:22:46.599Z"
+  },
+  "1624127": {
+    "id": 1624127,
+    "name": "Folha de Pitanga (30g)",
+    "category_id": 192004,
+    "custom_code": null,
+    "atualizado_em": "2026-10-29T18:24:00.945Z"
+  },
+  "1624128": {
+    "id": 1624128,
+    "name": "Guaçatonga (20g)",
+    "category_id": 192004,
+    "custom_code": null,
+    "atualizado_em": "2026-10-29T18:22:52.927Z"
+  },
+  "1624130": {
+    "id": 1624130,
+    "name": "Melão de São Caetano (20g)",
+    "category_id": 192004,
+    "custom_code": null,
+    "atualizado_em": "2026-10-29T18:22:34.426Z"
+  },
+  "1624131": {
+    "id": 1624131,
+    "name": "Mucuna Preta em Pó (20g)",
+    "category_id": 192004,
+    "custom_code": null,
+    "atualizado_em": "2026-10-29T18:22:58.811Z"
+  },
+  "1624133": {
+    "id": 1624133,
+    "name": "Pedra Ume em Folhas (20g)",
+    "category_id": 192004,
+    "custom_code": null,
+    "atualizado_em": "2026-10-29T18:23:03.495Z"
+  },
+  "1624134": {
+    "id": 1624134,
+    "name": "Salsa Parilha (20g)",
+    "category_id": 192004,
+    "custom_code": null,
+    "atualizado_em": "2026-10-29T18:15:22.159Z"
+  },
+  "1624135": {
+    "id": 1624135,
+    "name": "Stevia Folha (20g)",
+    "category_id": 192004,
+    "custom_code": null,
+    "atualizado_em": "2026-10-29T18:14:30.028Z"
+  },
+  "1624136": {
+    "id": 1624136,
+    "name": "Cidreira, Camomila e Melissa - Q-Vita (10 Sachês)",
+    "category_id": 192004,
+    "custom_code": null,
+    "atualizado_em": "2026-10-29T18:18:13.608Z"
+  },
+  "1624137": {
+    "id": 1624137,
+    "name": "Camomila Sabor Mel - Q-Vita (10 Sachês)",
+    "category_id": 192004,
+    "custom_code": null,
+    "atualizado_em": "2026-10-29T18:15:05.349Z"
+  },
+  "1624138": {
+    "id": 1624138,
+    "name": "Amaranto em Grão (100g)",
+    "category_id": 192011,
+    "custom_code": null,
+    "atualizado_em": "2026-10-30T15:43:39.734Z"
+  },
+  "1624139": {
+    "id": 1624139,
+    "name": "Chia em Grãos (100g)",
+    "category_id": 192011,
+    "custom_code": null,
+    "atualizado_em": "2026-10-30T15:42:09.454Z"
+  },
+  "1624141": {
+    "id": 1624141,
+    "name": "Ervilha em Grão (250g)",
+    "category_id": 192011,
+    "custom_code": null,
+    "atualizado_em": "2026-10-30T15:43:51.445Z"
+  },
+  "1624142": {
+    "id": 1624142,
+    "name": "Feno Grego em Grãos (100g)",
+    "category_id": 192022,
+    "custom_code": null,
+    "atualizado_em": "2026-10-29T18:09:45.313Z"
+  },
+  "1624143": {
+    "id": 1624143,
+    "name": "Gergelim Branco c/ Casca em Grão (120g)",
+    "category_id": 192011,
+    "custom_code": null,
+    "atualizado_em": "2026-10-30T15:42:49.590Z"
+  },
+  "1624144": {
+    "id": 1624144,
+    "name": "Gergelim Branco s/ Casca (120g)",
+    "category_id": 192011,
+    "custom_code": null,
+    "atualizado_em": "2026-10-30T16:03:47.872Z"
+  },
+  "1624145": {
+    "id": 1624145,
+    "name": "Gergelim Preto em Grão (120g)",
+    "category_id": 192011,
+    "custom_code": null,
+    "atualizado_em": "2026-10-30T16:03:37.574Z"
+  },
+  "1624146": {
+    "id": 1624146,
+    "name": "Grão de Bico (250g)",
+    "category_id": 192011,
+    "custom_code": null,
+    "atualizado_em": "2026-10-30T16:03:19.663Z"
+  },
+  "1624147": {
+    "id": 1624147,
+    "name": "Lentilha Verde (250g)",
+    "category_id": 192011,
+    "custom_code": null,
+    "atualizado_em": "2026-10-30T15:43:24.101Z"
+  },
+  "1624148": {
+    "id": 1624148,
+    "name": "Linhaça Dourada em Grãos (120g)",
+    "category_id": 192011,
+    "custom_code": null,
+    "atualizado_em": "2026-10-30T16:03:40.897Z"
+  },
+  "1624150": {
+    "id": 1624150,
+    "name": "Linhaça Marrom em Grãos (120g)",
+    "category_id": 192011,
+    "custom_code": null,
+    "atualizado_em": "2026-10-30T15:43:11.297Z"
+  },
+  "1624151": {
+    "id": 1624151,
+    "name": "Mix de Grãos (10 Grãos) (120g)",
+    "category_id": 192011,
+    "custom_code": null,
+    "atualizado_em": "2026-10-30T15:43:27.077Z"
+  },
+  "1624152": {
+    "id": 1624152,
+    "name": "Mix de Quinoas em Grão (120g)",
+    "category_id": 192011,
+    "custom_code": null,
+    "atualizado_em": "2026-10-30T15:42:12.377Z"
+  },
+  "1624153": {
+    "id": 1624153,
+    "name": "Mostarda em Grão (50g)",
+    "category_id": 192012,
+    "custom_code": null,
+    "atualizado_em": "2026-10-29T20:23:57.198Z"
+  },
+  "1624154": {
+    "id": 1624154,
+    "name": "Quinoa Branca em Grãos (120g)",
+    "category_id": 192011,
+    "custom_code": null,
+    "atualizado_em": "2026-10-30T15:42:17.798Z"
+  },
+  "1624155": {
+    "id": 1624155,
+    "name": "Semente de Abobora Verde (100g)",
+    "category_id": 192011,
+    "custom_code": null,
+    "atualizado_em": "2026-10-30T15:41:56.884Z"
+  },
+  "1624156": {
+    "id": 1624156,
+    "name": "Semente Pepita de Girassol s/ Casca (100g)",
+    "category_id": 192011,
+    "custom_code": null,
+    "atualizado_em": "2026-10-30T15:43:14.043Z"
+  },
+  "1624157": {
+    "id": 1624157,
+    "name": "Soja em Grãos (500g)",
+    "category_id": 192011,
+    "custom_code": null,
+    "atualizado_em": "2026-10-30T15:43:29.928Z"
+  },
+  "1624159": {
+    "id": 1624159,
+    "name": "Cúrcuma pura (açafrão da terra) (120g)",
+    "category_id": 192012,
+    "custom_code": null,
+    "atualizado_em": "2026-10-30T15:35:20.253Z"
+  },
+  "1624160": {
+    "id": 1624160,
+    "name": "Tempero Agarra Marido (80g)",
+    "category_id": 192012,
+    "custom_code": null,
+    "atualizado_em": "2026-10-29T20:25:54.073Z"
+  },
+  "1624161": {
+    "id": 1624161,
+    "name": "Alho Desidratado Granulado (80g)",
+    "category_id": 192012,
+    "custom_code": null,
+    "atualizado_em": "2026-10-30T15:33:53.366Z"
+  },
+  "1624162": {
+    "id": 1624162,
+    "name": "Alho em Cabeça (200g)",
+    "category_id": 192012,
+    "custom_code": null,
+    "atualizado_em": "2026-10-30T15:33:28.247Z"
+  },
+  "1624163": {
+    "id": 1624163,
+    "name": "Alho em Pó (90g)",
+    "category_id": 192012,
+    "custom_code": null,
+    "atualizado_em": "2026-10-29T20:24:43.090Z"
+  },
+  "1624164": {
+    "id": 1624164,
+    "name": "Alho Frito (80g)",
+    "category_id": 192012,
+    "custom_code": null,
+    "atualizado_em": "2026-10-29T20:24:51.459Z"
+  },
+  "1624165": {
+    "id": 1624165,
+    "name": "Tempero Ana Maria (90g)",
+    "category_id": 192012,
+    "custom_code": null,
+    "atualizado_em": "2026-10-29T20:25:22.040Z"
+  },
+  "1624167": {
+    "id": 1624167,
+    "name": "Cebola Desidratada em Flocos (60g)",
+    "category_id": 192012,
+    "custom_code": null,
+    "atualizado_em": "2026-10-29T20:24:57.166Z"
+  },
+  "1624168": {
+    "id": 1624168,
+    "name": "Cebola e Alho Desidratados (80g)",
+    "category_id": 192012,
+    "custom_code": null,
+    "atualizado_em": "2026-10-29T20:25:02.816Z"
+  },
+  "1624169": {
+    "id": 1624169,
+    "name": "Cebola em Pó (90g)",
+    "category_id": 192012,
+    "custom_code": null,
+    "atualizado_em": "2026-10-29T20:23:54.328Z"
+  },
+  "1624170": {
+    "id": 1624170,
+    "name": "Cebola, Alho e Salsa (80g)",
+    "category_id": 192012,
+    "custom_code": null,
+    "atualizado_em": "2026-10-29T20:25:05.542Z"
+  },
+  "1624171": {
+    "id": 1624171,
+    "name": "Tempero Chimichurri s/pimenta (80g)",
+    "category_id": 192012,
+    "custom_code": null,
+    "atualizado_em": "2026-10-30T15:32:18.180Z"
+  },
+  "1624172": {
+    "id": 1624172,
+    "name": "Coentro Moído (Semente de Coentro Moída) (50g)",
+    "category_id": 192012,
+    "custom_code": null,
+    "atualizado_em": "2026-10-29T20:26:37.976Z"
+  },
+  "1624174": {
+    "id": 1624174,
+    "name": "Colorau Extra s/ sal (200g)",
+    "category_id": 192012,
+    "custom_code": null,
+    "atualizado_em": "2026-10-30T15:32:20.802Z"
+  },
+  "1624175": {
+    "id": 1624175,
+    "name": "Cominho Moído c/ Coentro (90g)",
+    "category_id": 192012,
+    "custom_code": null,
+    "atualizado_em": "2026-10-30T15:35:16.925Z"
+  },
+  "1624176": {
+    "id": 1624176,
+    "name": "Cominho c/ Pimenta do Reino moídos (90g)",
+    "category_id": 192012,
+    "custom_code": null,
+    "atualizado_em": "2026-10-29T20:23:59.952Z"
+  },
+  "1624177": {
+    "id": 1624177,
+    "name": "Cominho Moído Puro (90g)",
+    "category_id": 192012,
+    "custom_code": null,
+    "atualizado_em": "2026-10-29T20:26:46.661Z"
+  },
+  "1624178": {
+    "id": 1624178,
+    "name": "Cravo em Pó (30g)",
+    "category_id": 192012,
+    "custom_code": null,
+    "atualizado_em": "2026-10-30T15:31:11.811Z"
+  },
+  "1624179": {
+    "id": 1624179,
+    "name": "Tempero Curry- sachê (20g)",
+    "category_id": 192012,
+    "custom_code": null,
+    "atualizado_em": "2026-10-29T20:25:24.665Z"
+  },
+  "1624180": {
+    "id": 1624180,
+    "name": "Tempero Dona Lita (90g)",
+    "category_id": 192012,
+    "custom_code": null,
+    "atualizado_em": "2026-10-30T15:33:14.286Z"
+  },
+  "1624182": {
+    "id": 1624182,
+    "name": "Dry Rub (80g)",
+    "category_id": 192012,
+    "custom_code": null,
+    "atualizado_em": "2026-10-29T20:24:25.583Z"
+  },
+  "1624183": {
+    "id": 1624183,
+    "name": "Tempero do Edu (90g)",
+    "category_id": 192012,
+    "custom_code": null,
+    "atualizado_em": "2026-10-30T15:31:09.113Z"
+  },
+  "1624184": {
+    "id": 1624184,
+    "name": "Erva Doce em Pó (30g)",
+    "category_id": 192012,
+    "custom_code": null,
+    "atualizado_em": "2026-10-29T20:24:05.594Z"
+  },
+  "1624186": {
+    "id": 1624186,
+    "name": "Ervas Finas (80g)",
+    "category_id": 192012,
+    "custom_code": null,
+    "atualizado_em": "2026-10-30T15:33:06.939Z"
+  },
+  "1624187": {
+    "id": 1624187,
+    "name": "Flor de Sal (50g)",
+    "category_id": 192012,
+    "custom_code": null,
+    "atualizado_em": "2026-10-30T15:33:56.284Z"
+  },
+  "1624188": {
+    "id": 1624188,
+    "name": "Tempero Fumaça em Pó (100g)",
+    "category_id": 192012,
+    "custom_code": null,
+    "atualizado_em": "2026-10-29T20:26:11.989Z"
+  },
+  "1624189": {
+    "id": 1624189,
+    "name": "Tempero Lemon Ervas (90g)",
+    "category_id": 192012,
+    "custom_code": null,
+    "atualizado_em": "2026-10-29T20:24:59.854Z"
+  },
+  "1624190": {
+    "id": 1624190,
+    "name": "Tempero Lemon Pepper (90g)",
+    "category_id": 192012,
+    "custom_code": null,
+    "atualizado_em": "2026-10-30T15:35:27.214Z"
+  },
+  "1624191": {
+    "id": 1624191,
+    "name": "Louro em Pó (30g)",
+    "category_id": 192012,
+    "custom_code": null,
+    "atualizado_em": "2026-10-29T20:26:49.369Z"
+  },
+  "1624192": {
+    "id": 1624192,
+    "name": "Manjericão (25g)",
+    "category_id": 192012,
+    "custom_code": null,
+    "atualizado_em": "2026-10-30T15:35:30.543Z"
+  },
+  "1624193": {
+    "id": 1624193,
+    "name": "Tempero Mix de Arroz (70g)",
+    "category_id": 192012,
+    "custom_code": null,
+    "atualizado_em": "2026-10-30T15:33:17.870Z"
+  },
+  "1624194": {
+    "id": 1624194,
+    "name": "Mix de Pimentas em Grãos (50g)",
+    "category_id": 192012,
+    "custom_code": null,
+    "atualizado_em": "2026-10-29T20:24:02.823Z"
+  },
+  "1624195": {
+    "id": 1624195,
+    "name": "Noz Moscada em Grão (25g)",
+    "category_id": 192012,
+    "custom_code": null,
+    "atualizado_em": "2026-10-30T15:33:09.632Z"
+  },
+  "1624196": {
+    "id": 1624196,
+    "name": "Noz Moscada em Pó (25g)",
+    "category_id": 192012,
+    "custom_code": null,
+    "atualizado_em": "2026-10-30T15:30:04.722Z"
+  },
+  "1624197": {
+    "id": 1624197,
+    "name": "Óregano (48g)",
+    "category_id": 192012,
+    "custom_code": null,
+    "atualizado_em": "2026-10-30T15:29:54.803Z"
+  },
+  "1624198": {
+    "id": 1624198,
+    "name": "Páprica Defumada (90g)",
+    "category_id": 192012,
+    "custom_code": null,
+    "atualizado_em": "2026-10-29T20:26:09.359Z"
+  },
+  "1624199": {
+    "id": 1624199,
+    "name": "Páprica Doce (90g)",
+    "category_id": 192012,
+    "custom_code": null,
+    "atualizado_em": "2026-10-29T20:25:56.932Z"
+  },
+  "1624200": {
+    "id": 1624200,
+    "name": "Páprica picante (90g)",
+    "category_id": 192012,
+    "custom_code": null,
+    "atualizado_em": "2026-10-29T20:25:59.891Z"
+  },
+  "1624201": {
+    "id": 1624201,
+    "name": "Pimenta Biquinho em Conserva (330g)",
+    "category_id": 192012,
+    "custom_code": null,
+    "atualizado_em": "2026-10-30T15:34:02.722Z"
+  },
+  "1624202": {
+    "id": 1624202,
+    "name": "Pimenta Caiena em Pó (30g)",
+    "category_id": 192012,
+    "custom_code": null,
+    "atualizado_em": "2026-10-30T15:30:00.492Z"
+  },
+  "1624205": {
+    "id": 1624205,
+    "name": "Pimenta do Reino Moída (40g)",
+    "category_id": 192012,
+    "custom_code": null,
+    "atualizado_em": "2026-10-29T20:25:08.264Z"
+  },
+  "1624206": {
+    "id": 1624206,
+    "name": "Pimenta Rosa em Grão (25g)",
+    "category_id": 192012,
+    "custom_code": null,
+    "atualizado_em": "2026-10-30T15:32:00.948Z"
+  },
+  "1624208": {
+    "id": 1624208,
+    "name": "Sal de Ervas (100g)",
+    "category_id": 192012,
+    "custom_code": null,
+    "atualizado_em": "2026-10-30T15:33:42.673Z"
+  },
+  "1624209": {
+    "id": 1624209,
+    "name": "Sal  Defumado (100g)",
+    "category_id": 192012,
+    "custom_code": null,
+    "atualizado_em": "2026-10-30T15:33:46.120Z"
+  },
+  "1624210": {
+    "id": 1624210,
+    "name": "Sal Parrilla Chimichurri (100g)",
+    "category_id": 192012,
+    "custom_code": null,
+    "atualizado_em": "2026-10-29T20:24:08.416Z"
+  },
+  "1624211": {
+    "id": 1624211,
+    "name": "Sal Rosa Fino (250g)",
+    "category_id": 192012,
+    "custom_code": null,
+    "atualizado_em": "2026-10-30T15:31:58.152Z"
+  },
+  "1624212": {
+    "id": 1624212,
+    "name": "Sal Rosa Grosso (200g)",
+    "category_id": 192012,
+    "custom_code": null,
+    "atualizado_em": "2026-10-29T20:26:41.204Z"
+  },
+  "1624213": {
+    "id": 1624213,
+    "name": "Salsa Desidratada (48g)",
+    "category_id": 192012,
+    "custom_code": null,
+    "atualizado_em": "2026-10-30T15:29:57.455Z"
+  },
+  "1624215": {
+    "id": 1624215,
+    "name": "Tomate Seco em Flocos (50g)",
+    "category_id": 192012,
+    "custom_code": null,
+    "atualizado_em": "2026-10-30T15:34:08.724Z"
+  },
+  "1624216": {
+    "id": 1624216,
+    "name": "Tempero TSN (60g)",
+    "category_id": 192012,
+    "custom_code": null,
+    "atualizado_em": "2026-10-29T20:26:02.715Z"
+  },
+  "1624218": {
+    "id": 1624218,
+    "name": "Tomilho (30g)",
+    "category_id": 192012,
+    "custom_code": null,
+    "atualizado_em": "2026-10-29T20:23:51.591Z"
+  },
+  "1624219": {
+    "id": 1624219,
+    "name": "Tempero Churras (90g)",
+    "category_id": 192012,
+    "custom_code": null,
+    "atualizado_em": "2026-10-30T15:33:33.644Z"
+  },
+  "1624220": {
+    "id": 1624220,
+    "name": "Tempero Campinote (90g)",
+    "category_id": 192012,
+    "custom_code": null,
+    "atualizado_em": "2026-10-29T20:25:44.528Z"
+  },
+  "1624221": {
+    "id": 1624221,
+    "name": "Tempero Sea Gold (para peixe e frutos do mar)(80g)",
+    "category_id": 192012,
+    "custom_code": null,
+    "atualizado_em": "2026-10-30T15:32:58.780Z"
+  },
+  "1624222": {
+    "id": 1624222,
+    "name": "Tempero Baiano (90g)",
+    "category_id": 192012,
+    "custom_code": null,
+    "atualizado_em": "2026-10-30T15:33:20.577Z"
+  },
+  "1624226": {
+    "id": 1624226,
+    "name": "Sal Marinho Vitao (1kg)",
+    "category_id": 192012,
+    "custom_code": null,
+    "atualizado_em": "2026-10-30T15:36:15.909Z"
+  },
+  "1624274": {
+    "id": 1624274,
+    "name": "Bicarbonato de Sódio (Alimentar)(180g)",
+    "category_id": 192012,
+    "custom_code": null,
+    "atualizado_em": "2026-10-30T15:31:18.932Z"
+  },
+  "1624279": {
+    "id": 1624279,
+    "name": "Farinha Panko Importada (200g)",
+    "category_id": 192011,
+    "custom_code": null,
+    "atualizado_em": "2026-10-30T15:42:20.568Z"
+  },
+  "1624281": {
+    "id": 1624281,
+    "name": "Farinha de Linhaça Dourada (120g)",
+    "category_id": 192011,
+    "custom_code": null,
+    "atualizado_em": "2026-10-30T15:43:46.056Z"
+  },
+  "1624284": {
+    "id": 1624284,
+    "name": "Polvilho Azedo (500g)",
+    "category_id": 192011,
+    "custom_code": null,
+    "atualizado_em": "2026-10-30T15:42:23.788Z"
+  },
+  "1624296": {
+    "id": 1624296,
+    "name": "Colágeno Hidrolisado s/ sabor (50g)",
+    "category_id": 192022,
+    "custom_code": null,
+    "atualizado_em": "2026-10-29T18:13:52.338Z"
+  },
+  "1624297": {
+    "id": 1624297,
+    "name": "Composto Anti-Inflamatório Crajiru - Laury (100ml)",
+    "category_id": 556648,
+    "custom_code": null,
+    "atualizado_em": "2026-10-30T15:41:05.231Z"
+  },
+  "1624298": {
+    "id": 1624298,
+    "name": "Composto Calmante Valeriana - Laury (100ml)",
+    "category_id": 556648,
+    "custom_code": null,
+    "atualizado_em": "2026-10-30T15:41:02.458Z"
+  },
+  "1624299": {
+    "id": 1624299,
+    "name": "Açafrão (Cúrcuma) Raiz In Natura (100g)",
+    "category_id": 192012,
+    "custom_code": null,
+    "atualizado_em": "2026-10-30T15:31:52.268Z"
+  },
+  "1624308": {
+    "id": 1624308,
+    "name": "Moringa Oleífera em Pó (50g)",
+    "category_id": 192022,
+    "custom_code": null,
+    "atualizado_em": "2026-10-29T18:11:47.233Z"
+  },
+  "1624318": {
+    "id": 1624318,
+    "name": "Chips de Banana (c/ Leve Sal) (100g)",
+    "category_id": 192019,
+    "custom_code": null,
+    "atualizado_em": "2026-10-29T17:30:31.047Z"
+  },
+  "1624319": {
+    "id": 1624319,
+    "name": "Chips de Batata Doce Tradicional c/ Leve Sal (100g)",
+    "category_id": 192019,
+    "custom_code": null,
+    "atualizado_em": "2026-10-29T17:32:23.772Z"
+  },
+  "1624320": {
+    "id": 1624320,
+    "name": "Chips de Jaca Liofilizado (50g)",
+    "category_id": 192019,
+    "custom_code": null,
+    "atualizado_em": "2026-10-29T17:29:20.455Z"
+  },
+  "1624321": {
+    "id": 1624321,
+    "name": "Chips de Macaxeira Tradicional c/ Leve Sal (100g)",
+    "category_id": 192019,
+    "custom_code": null,
+    "atualizado_em": "2026-10-29T17:27:27.880Z"
+  },
+  "1624322": {
+    "id": 1624322,
+    "name": "Chips de Queijo Provolone (50g)",
+    "category_id": 192019,
+    "custom_code": null,
+    "atualizado_em": "2026-10-29T17:28:01.596Z"
+  },
+  "1624324": {
+    "id": 1624324,
+    "name": "Queijo Coalho Desidratado (50g)",
+    "category_id": 192019,
+    "custom_code": null,
+    "atualizado_em": "2026-10-29T17:30:42.964Z"
+  },
+  "1624327": {
+    "id": 1624327,
+    "name": "Snacks de Milho (Sabor Mostarda e Mel) (100g)",
+    "category_id": 192019,
+    "custom_code": null,
+    "atualizado_em": "2026-10-29T17:33:00.820Z"
+  },
+  "1624328": {
+    "id": 1624328,
+    "name": "Beiju Artesanal Tradicional Desidratado (130g)",
+    "category_id": 192019,
+    "custom_code": null,
+    "atualizado_em": "2026-10-29T17:33:14.092Z"
+  },
+  "1624333": {
+    "id": 1624333,
+    "name": "Chips de Batata Doce Defumada (100g)",
+    "category_id": 192019,
+    "custom_code": null,
+    "atualizado_em": "2026-10-29T17:27:40.585Z"
+  },
+  "1624334": {
+    "id": 1624334,
+    "name": "Chips de banana (c/ Açúcar e Canela) (100g)",
+    "category_id": 192019,
+    "custom_code": null,
+    "atualizado_em": "2026-10-29T17:27:50.505Z"
+  },
+  "1624335": {
+    "id": 1624335,
+    "name": "Chips de Macaxeira (Sabor Cebola e Salsa) (100g)",
+    "category_id": 192019,
+    "custom_code": null,
+    "atualizado_em": "2026-10-29T17:30:16.752Z"
+  },
+  "1624337": {
+    "id": 1624337,
+    "name": "Chips de Macaxeira (Sabor Lemon Pepper) (100g)",
+    "category_id": 192019,
+    "custom_code": null,
+    "atualizado_em": "2026-10-29T17:31:15.375Z"
+  },
+  "1624339": {
+    "id": 1624339,
+    "name": "Pasta de Amendoim Integral c/ Mel - Power Vida (500g)",
+    "category_id": 192020,
+    "custom_code": null,
+    "atualizado_em": "2026-10-29T20:23:11.036Z"
+  },
+  "1624344": {
+    "id": 1624344,
+    "name": "Abacaxi Cristalizado (60g)",
+    "category_id": 192021,
+    "custom_code": null,
+    "atualizado_em": "2026-10-29T17:16:21.953Z"
+  },
+  "1624345": {
+    "id": 1624345,
+    "name": "Ameixa s/ Caroço (180g)",
+    "category_id": 192021,
+    "custom_code": null,
+    "atualizado_em": "2026-10-29T17:19:40.430Z"
+  },
+  "1624346": {
+    "id": 1624346,
+    "name": "Ameixa s/ Caroço (500g)",
+    "category_id": 192021,
+    "custom_code": null,
+    "atualizado_em": "2026-10-29T17:19:54.643Z"
+  },
+  "1624349": {
+    "id": 1624349,
+    "name": "Banana Passa (100g)",
+    "category_id": 192021,
+    "custom_code": null,
+    "atualizado_em": "2026-10-29T17:10:24.352Z"
+  },
+  "1624351": {
+    "id": 1624351,
+    "name": "Cereja Desidratada (100g)",
+    "category_id": 192021,
+    "custom_code": null,
+    "atualizado_em": "2026-10-29T17:10:51.038Z"
+  },
+  "1624353": {
+    "id": 1624353,
+    "name": "Damasco Turco Desidratado (100g)",
+    "category_id": 192021,
+    "custom_code": null,
+    "atualizado_em": "2026-10-29T17:13:47.329Z"
+  },
+  "1624354": {
+    "id": 1624354,
+    "name": "Frutas Cristalizadas (200g)",
+    "category_id": 192021,
+    "custom_code": null,
+    "atualizado_em": "2026-10-29T17:17:57.007Z"
+  },
+  "1624355": {
+    "id": 1624355,
+    "name": "Frutas Cristalizadas (500g)",
+    "category_id": 192021,
+    "custom_code": null,
+    "atualizado_em": "2026-10-29T17:20:09.404Z"
+  },
+  "1624356": {
+    "id": 1624356,
+    "name": "Gengibre em Lascas Cristalizado (100g)",
+    "category_id": 192021,
+    "custom_code": null,
+    "atualizado_em": "2026-10-29T17:11:51.296Z"
+  },
+  "1624357": {
+    "id": 1624357,
+    "name": "Kiwi Cristalizado (100g)",
+    "category_id": 192021,
+    "custom_code": null,
+    "atualizado_em": "2026-10-29T17:17:00.759Z"
+  },
+  "1624358": {
+    "id": 1624358,
+    "name": "Laranja Des. em Rodelas (35g)",
+    "category_id": 192021,
+    "custom_code": null,
+    "atualizado_em": "2026-10-29T17:13:31.807Z"
+  },
+  "1624360": {
+    "id": 1624360,
+    "name": "Morango Cristalizado (100g)",
+    "category_id": 192021,
+    "custom_code": null,
+    "atualizado_em": "2026-10-29T17:18:37.479Z"
+  },
+  "1624361": {
+    "id": 1624361,
+    "name": "Pera Desidratada (100g)",
+    "category_id": 192021,
+    "custom_code": null,
+    "atualizado_em": "2026-10-29T17:18:59.079Z"
+  },
+  "1624362": {
+    "id": 1624362,
+    "name": "Pêssego Desidratado (60g)",
+    "category_id": 192021,
+    "custom_code": null,
+    "atualizado_em": "2026-10-29T17:10:04.765Z"
+  },
+  "1624366": {
+    "id": 1624366,
+    "name": "Tiras de Limão Cristalizadas (100g)",
+    "category_id": 192021,
+    "custom_code": null,
+    "atualizado_em": "2026-10-29T17:17:38.057Z"
+  },
+  "1624367": {
+    "id": 1624367,
+    "name": "Uva Passa Escura (180g)",
+    "category_id": 192021,
+    "custom_code": null,
+    "atualizado_em": "2026-10-29T17:18:16.495Z"
+  },
   "1624369": {
     "id": 1624369,
     "name": "Uva Passa Escura (500g)",
     "category_id": 192021,
     "custom_code": null,
     "atualizado_em": "2026-10-29T17:08:23.104Z"
+  },
+  "1624370": {
+    "id": 1624370,
+    "name": "Uva Passa Branca (100g)",
+    "category_id": 192021,
+    "custom_code": null,
+    "atualizado_em": "2026-10-29T17:09:50.569Z"
+  },
+  "1624374": {
+    "id": 1624374,
+    "name": "Catuaba em Pó (50g)",
+    "category_id": 192022,
+    "custom_code": null,
+    "atualizado_em": "2026-10-29T18:11:30.176Z"
+  },
+  "1624375": {
+    "id": 1624375,
+    "name": "Gengibre em Pó (50g)",
+    "category_id": 192022,
+    "custom_code": null,
+    "atualizado_em": "2026-10-29T20:15:23.796Z"
+  },
+  "1624376": {
+    "id": 1624376,
+    "name": "Ginseng Coreano (50g)",
+    "category_id": 192022,
+    "custom_code": null,
+    "atualizado_em": "2026-10-29T18:13:22.906Z"
+  },
+  "1624377": {
+    "id": 1624377,
+    "name": "Guaraná em Pó (50g)",
+    "category_id": 192022,
+    "custom_code": null,
+    "atualizado_em": "2026-10-29T18:08:11.278Z"
+  },
+  "1624378": {
+    "id": 1624378,
+    "name": "Maca Peruana (50g)",
+    "category_id": 192022,
+    "custom_code": null,
+    "atualizado_em": "2026-10-29T18:10:39.545Z"
+  },
+  "1624379": {
+    "id": 1624379,
+    "name": "Marapuama (50g)",
+    "category_id": 192022,
+    "custom_code": null,
+    "atualizado_em": "2026-10-29T18:13:37.091Z"
+  },
+  "1624384": {
+    "id": 1624384,
+    "name": "Farinha de Beterraba (50g)",
+    "category_id": 192022,
+    "custom_code": null,
+    "atualizado_em": "2026-10-29T18:07:53.651Z"
+  },
+  "1624385": {
+    "id": 1624385,
+    "name": "Farinha de Uva (50g)",
+    "category_id": 192022,
+    "custom_code": null,
+    "atualizado_em": "2026-10-29T18:08:34.938Z"
+  },
+  "1624387": {
+    "id": 1624387,
+    "name": "Amêndoa Defumada (100g)",
+    "category_id": 192023,
+    "custom_code": null,
+    "atualizado_em": "2026-10-30T16:02:47.569Z"
+  },
+  "1624388": {
+    "id": 1624388,
+    "name": "Amêndoa Enconfeitada Branca (100g)",
+    "category_id": 192023,
+    "custom_code": null,
+    "atualizado_em": "2026-10-30T16:03:00.886Z"
+  },
+  "1624389": {
+    "id": 1624389,
+    "name": "Amêndoa Enconfeitada Colorida (100g)",
+    "category_id": 192023,
+    "custom_code": null,
+    "atualizado_em": "2026-10-30T16:03:04.387Z"
+  },
+  "1624390": {
+    "id": 1624390,
+    "name": "Amêndoa Laminada (100g)",
+    "category_id": 192023,
+    "custom_code": null,
+    "atualizado_em": "2026-10-30T15:49:16.018Z"
+  },
+  "1624391": {
+    "id": 1624391,
+    "name": "Amêndoa Tradicional (100g)",
+    "category_id": 192023,
+    "custom_code": null,
+    "atualizado_em": "2026-10-30T15:50:27.058Z"
+  },
+  "1624392": {
+    "id": 1624392,
+    "name": "Amendoim “Japonês” (200g)",
+    "category_id": 192023,
+    "custom_code": null,
+    "atualizado_em": "2026-10-30T15:50:06.342Z"
+  },
+  "1624393": {
+    "id": 1624393,
+    "name": "Amendoim c/ Leve Sal e Lascas de Alho Frito (200g)",
+    "category_id": 192023,
+    "custom_code": null,
+    "atualizado_em": "2026-10-30T15:49:53.372Z"
+  },
+  "1624394": {
+    "id": 1624394,
+    "name": "Amendoim s/ Casca e s/ Sal (200g)",
+    "category_id": 192023,
+    "custom_code": null,
+    "atualizado_em": "2026-10-30T15:48:50.304Z"
+  },
+  "1624395": {
+    "id": 1624395,
+    "name": "Amendoim Triturado s/ Sal (500g)",
+    "category_id": 192023,
+    "custom_code": null,
+    "atualizado_em": "2026-10-30T15:48:30.057Z"
+  },
+  "1624396": {
+    "id": 1624396,
+    "name": "Avelã (100g)",
+    "category_id": 192023,
+    "custom_code": null,
+    "atualizado_em": "2026-10-30T15:48:45.893Z"
+  },
+  "1624397": {
+    "id": 1624397,
+    "name": "Cast. de Cajú Caramelizada c/ Coco (200g)",
+    "category_id": 192023,
+    "custom_code": null,
+    "atualizado_em": "2026-10-30T16:02:40.406Z"
+  },
+  "1624398": {
+    "id": 1624398,
+    "name": "Cast. de Cajú Caramelizada c/ Coco (500g)",
+    "category_id": 192023,
+    "custom_code": null,
+    "atualizado_em": "2026-10-30T15:50:30.019Z"
+  },
+  "1624399": {
+    "id": 1624399,
+    "name": "Cast. de Cajú Caramelizada Sabor Morango (200g)",
+    "category_id": 192023,
+    "custom_code": null,
+    "atualizado_em": "2026-10-30T15:49:34.881Z"
+  },
+  "1624402": {
+    "id": 1624402,
+    "name": "Cast. de Cajú Caramelizada c/ Gergelim (200g)",
+    "category_id": 192023,
+    "custom_code": null,
+    "atualizado_em": "2026-10-30T15:50:33.834Z"
+  },
+  "1624403": {
+    "id": 1624403,
+    "name": "Cast. de Cajú Caramelizada c/ Gergelim (500g)",
+    "category_id": 192023,
+    "custom_code": null,
+    "atualizado_em": "2026-10-30T15:48:33.021Z"
+  },
+  "1624404": {
+    "id": 1624404,
+    "name": "Castanha de Barú (100g)",
+    "category_id": 192023,
+    "custom_code": null,
+    "atualizado_em": "2026-10-30T15:48:55.973Z"
+  },
+  "1624405": {
+    "id": 1624405,
+    "name": "Cast. de Cajú c/ Leve Sal (200g)",
+    "category_id": 192023,
+    "custom_code": null,
+    "atualizado_em": "2026-10-30T15:49:37.773Z"
+  },
+  "1624406": {
+    "id": 1624406,
+    "name": "Cast. de Cajú Partidas ao Meio (1Kg)",
+    "category_id": 192023,
+    "custom_code": null,
+    "atualizado_em": "2026-10-30T15:49:45.418Z"
+  },
+  "1624407": {
+    "id": 1624407,
+    "name": "Cast. de Cajú Partidas ao Meio (200g)",
+    "category_id": 192023,
+    "custom_code": null,
+    "atualizado_em": "2026-10-30T15:50:03.545Z"
+  },
+  "1624408": {
+    "id": 1624408,
+    "name": "Cast. de Cajú Partidas ao Meio (500g)",
+    "category_id": 192023,
+    "custom_code": null,
+    "atualizado_em": "2026-10-30T15:50:09.215Z"
+  },
+  "1624409": {
+    "id": 1624409,
+    "name": "Cast. de Cajú c/ Leve Sal (500g)",
+    "category_id": 192023,
+    "custom_code": null,
+    "atualizado_em": "2026-10-30T15:49:41.029Z"
+  },
+  "1624410": {
+    "id": 1624410,
+    "name": "Cast. de Cajú Inteira (Assada no Forno) (1kg)",
+    "category_id": 192023,
+    "custom_code": null,
+    "atualizado_em": "2026-10-30T15:50:00.368Z"
+  },
+  "1624411": {
+    "id": 1624411,
+    "name": "Cast. de Cajú inteira (Assada no Forno) (200g)",
+    "category_id": 192023,
+    "custom_code": null,
+    "atualizado_em": "2026-10-30T15:49:48.381Z"
+  },
+  "1624413": {
+    "id": 1624413,
+    "name": "Cast. de Cajú Inteira (Assada no Forno) (400g)",
+    "category_id": 192023,
+    "custom_code": null,
+    "atualizado_em": "2026-10-30T15:49:29.699Z"
+  },
+  "1624415": {
+    "id": 1624415,
+    "name": "Castanha do Pará (200g)",
+    "category_id": 192023,
+    "custom_code": null,
+    "atualizado_em": "2026-10-30T15:49:57.251Z"
+  },
+  "1624416": {
+    "id": 1624416,
+    "name": "Castanha do Pará (500g)",
+    "category_id": 192023,
+    "custom_code": null,
+    "atualizado_em": "2026-10-30T15:50:39.592Z"
+  },
+  "1624417": {
+    "id": 1624417,
+    "name": "Farinha de Amendoim (500g)",
+    "category_id": 192023,
+    "custom_code": null,
+    "atualizado_em": "2026-10-30T15:50:49.882Z"
+  },
+  "1624419": {
+    "id": 1624419,
+    "name": "Mix Nuts Laury (200g)",
+    "category_id": 192023,
+    "custom_code": null,
+    "atualizado_em": "2026-10-30T16:02:17.155Z"
+  },
+  "1624420": {
+    "id": 1624420,
+    "name": "Mix Nuts Golden (200g)",
+    "category_id": 192023,
+    "custom_code": null,
+    "atualizado_em": "2026-10-30T16:02:57.706Z"
+  },
+  "1624421": {
+    "id": 1624421,
+    "name": "Noz Pecan (100g)",
+    "category_id": 192023,
+    "custom_code": null,
+    "atualizado_em": "2026-10-30T15:48:25.275Z"
+  },
+  "1624422": {
+    "id": 1624422,
+    "name": "Nozes Chilenas s/ Casca (100g)",
+    "category_id": 192023,
+    "custom_code": null,
+    "atualizado_em": "2026-10-30T15:48:39.315Z"
+  },
+  "1624423": {
+    "id": 1624423,
+    "name": "Pistache c/ Sal e c/ Casca (100g)",
+    "category_id": 192023,
+    "custom_code": null,
+    "atualizado_em": "2026-10-30T15:48:35.949Z"
+  },
+  "1624424": {
+    "id": 1624424,
+    "name": "Pistache s/ Casca e s/ Sal (100g)",
+    "category_id": 192023,
+    "custom_code": null,
+    "atualizado_em": "2026-10-30T15:50:53.911Z"
+  },
+  "1624425": {
+    "id": 1624425,
+    "name": "Cast. de Cajú Brejeira Inteira (200g)",
+    "category_id": 192023,
+    "custom_code": null,
+    "atualizado_em": "2026-10-30T15:50:16.901Z"
   },
   "1624426": {
     "id": 1624426,
@@ -160,12 +2400,2651 @@
     "custom_code": null,
     "atualizado_em": "2026-10-29T17:03:34.900Z"
   },
+  "1624471": {
+    "id": 1624471,
+    "name": "Desodorante Creme (Lavanda)",
+    "category_id": 192035,
+    "custom_code": null,
+    "atualizado_em": "2026-10-29T17:56:02.306Z"
+  },
+  "1624472": {
+    "id": 1624472,
+    "name": "Desodorante Roll On (Lavanda)",
+    "category_id": 192035,
+    "custom_code": null,
+    "atualizado_em": "2026-10-29T17:56:19.077Z"
+  },
+  "1624473": {
+    "id": 1624473,
+    "name": "Argila Verde - Vegetal Face",
+    "category_id": 192035,
+    "custom_code": null,
+    "atualizado_em": "2026-10-29T17:58:31.463Z"
+  },
+  "1624474": {
+    "id": 1624474,
+    "name": "Creme Facial (Rosa Mosqueta) - Vegetal Face (100g)",
+    "category_id": 192035,
+    "custom_code": null,
+    "atualizado_em": "2026-10-29T18:01:27.458Z"
+  },
+  "1624475": {
+    "id": 1624475,
+    "name": "Creme Facial (Skin Care) - Vegetal Face (100g)",
+    "category_id": 192035,
+    "custom_code": null,
+    "atualizado_em": "2026-10-29T17:58:43.431Z"
+  },
+  "1624476": {
+    "id": 1624476,
+    "name": "Creme Facial (Copaíba) - Vegetal Face (100g)",
+    "category_id": 192035,
+    "custom_code": null,
+    "atualizado_em": "2026-10-29T18:00:49.050Z"
+  },
+  "1624477": {
+    "id": 1624477,
+    "name": "Creme Facial (Aroeira) - Vegetal Face (100g)",
+    "category_id": 192035,
+    "custom_code": null,
+    "atualizado_em": "2026-10-29T17:56:31.241Z"
+  },
+  "1624478": {
+    "id": 1624478,
+    "name": "Sabonete (Argila Negra) - Vegetal Face (90g)",
+    "category_id": 192035,
+    "custom_code": null,
+    "atualizado_em": "2026-10-29T17:59:11.653Z"
+  },
+  "1624480": {
+    "id": 1624480,
+    "name": "Sabonete (Argila Vermelha) - Vegetal Face (90g)",
+    "category_id": 192035,
+    "custom_code": null,
+    "atualizado_em": "2026-10-29T17:56:47.231Z"
+  },
+  "1624481": {
+    "id": 1624481,
+    "name": "Manteiga Hidratante Corporal Vegetal (Amêndoas) - Brasil Amêndoas (100g)",
+    "category_id": 192035,
+    "custom_code": null,
+    "atualizado_em": "2026-10-29T17:57:02.990Z"
+  },
+  "1624482": {
+    "id": 1624482,
+    "name": "Manteiga Hidratante Corporal Vegetal (Ameixa) - Brasil Amêndoas (100g)",
+    "category_id": 192035,
+    "custom_code": null,
+    "atualizado_em": "2026-10-29T17:57:33.473Z"
+  },
+  "1624486": {
+    "id": 1624486,
+    "name": "Iogurte de Coco com Banana, Mamão e Maçã Vegano - Vida Veg (500g)",
+    "category_id": 192037,
+    "custom_code": null,
+    "atualizado_em": "2026-10-29T20:23:23.257Z"
+  },
+  "1624487": {
+    "id": 1624487,
+    "name": "Queijo Mussarela de Castanha de Caju Fatiado Vegano - Vida Veg (150g)",
+    "category_id": 192037,
+    "custom_code": null,
+    "atualizado_em": "2026-10-29T20:23:26.204Z"
+  },
+  "1624488": {
+    "id": 1624488,
+    "name": "Queijo Mussarela de Castanha de Caju Vegano - Vida Veg (300g)",
+    "category_id": 192037,
+    "custom_code": null,
+    "atualizado_em": "2026-10-29T20:23:37.558Z"
+  },
+  "1624489": {
+    "id": 1624489,
+    "name": "Requeijão Defumado RequeVeg Vegano - Vida Veg (180g)",
+    "category_id": 192037,
+    "custom_code": null,
+    "atualizado_em": "2026-10-29T20:23:29.097Z"
+  },
+  "1624490": {
+    "id": 1624490,
+    "name": "Requeijão Tradicional RequeVeg Vegano - Vida Veg (180g)",
+    "category_id": 192037,
+    "custom_code": null,
+    "atualizado_em": "2026-10-29T20:23:45.882Z"
+  },
+  "1637232": {
+    "id": 1637232,
+    "name": "Cacau Premium 70% (Meio Amargo) - Laury (180g)",
+    "category_id": 191993,
+    "custom_code": null,
+    "atualizado_em": "2026-10-30T15:56:22.957Z"
+  },
+  "1637265": {
+    "id": 1637265,
+    "name": "Cálcio + Magnésio +  Zinco (c/ Vit. D) - Maxinutri (60 caps.)",
+    "category_id": 192003,
+    "custom_code": null,
+    "atualizado_em": "2026-10-30T15:53:41.190Z"
+  },
+  "1638481": {
+    "id": 1638481,
+    "name": "Vit. K2 - Herbamed (60 caps.)",
+    "category_id": 192003,
+    "custom_code": null,
+    "atualizado_em": "2026-10-30T15:53:50.792Z"
+  },
+  "1638489": {
+    "id": 1638489,
+    "name": "Óleo De Borragem - Maxinutri (60 caps. c/ 500mg)",
+    "category_id": 192003,
+    "custom_code": null,
+    "atualizado_em": "2026-10-30T15:52:28.870Z"
+  },
+  "1647538": {
+    "id": 1647538,
+    "name": "Tâmara Desidratada (100g)",
+    "category_id": 192021,
+    "custom_code": null,
+    "atualizado_em": "2026-10-29T17:15:07.563Z"
+  },
   "1647542": {
     "id": 1647542,
     "name": "Tâmara Jumbo c/ Caroço (100g)",
     "category_id": 192021,
     "custom_code": null,
     "atualizado_em": "2026-10-29T17:08:52.002Z"
+  },
+  "1662681": {
+    "id": 1662681,
+    "name": "Maltodextrina (Adoçado com Stevia) - Absolut Nutrition (1Kg)",
+    "category_id": 192022,
+    "custom_code": null,
+    "atualizado_em": "2026-10-29T18:12:00.576Z"
+  },
+  "1662912": {
+    "id": 1662912,
+    "name": "Germe de Trigo (100g)",
+    "category_id": 192022,
+    "custom_code": null,
+    "atualizado_em": "2026-10-29T18:07:38.265Z"
+  },
+  "1663083": {
+    "id": 1663083,
+    "name": "Melatonina - Maxinutri (120 caps. c/ 210mcg)",
+    "category_id": 192003,
+    "custom_code": null,
+    "atualizado_em": "2026-10-30T15:55:19.421Z"
+  },
+  "1664196": {
+    "id": 1664196,
+    "name": "Fibra de Maçã (50g)",
+    "category_id": 192022,
+    "custom_code": null,
+    "atualizado_em": "2026-10-29T18:10:54.953Z"
+  },
+  "1664905": {
+    "id": 1664905,
+    "name": "Spirulina (50g)",
+    "category_id": 192022,
+    "custom_code": null,
+    "atualizado_em": "2026-10-29T18:14:06.203Z"
+  },
+  "1666505": {
+    "id": 1666505,
+    "name": "Óleo De Côco s/ Sabor s/ Cheiro - Copra (500ml)",
+    "category_id": 191999,
+    "custom_code": null,
+    "atualizado_em": "2026-10-30T15:40:15.978Z"
+  },
+  "1666571": {
+    "id": 1666571,
+    "name": "Copra Óleo De Côco s/ Sabor - Copra (200ml)",
+    "category_id": 191999,
+    "custom_code": null,
+    "atualizado_em": "2026-10-30T15:40:18.942Z"
+  },
+  "1673789": {
+    "id": 1673789,
+    "name": "Farinha de Chia (100g)",
+    "category_id": 192011,
+    "custom_code": null,
+    "atualizado_em": "2026-10-30T15:43:20.078Z"
+  },
+  "1676176": {
+    "id": 1676176,
+    "name": "Cast. de Cajú “Crua” (500g)",
+    "category_id": 192023,
+    "custom_code": null,
+    "atualizado_em": "2026-10-30T15:50:42.537Z"
+  },
+  "1676253": {
+    "id": 1676253,
+    "name": "Cast. de Cajú “Crua” (200g)",
+    "category_id": 192023,
+    "custom_code": null,
+    "atualizado_em": "2026-10-30T15:50:36.755Z"
+  },
+  "1676262": {
+    "id": 1676262,
+    "name": "Cast. de Cajú Brejeira Inteira (1Kg)",
+    "category_id": 192023,
+    "custom_code": null,
+    "atualizado_em": "2026-10-30T15:50:24.265Z"
+  },
+  "1676266": {
+    "id": 1676266,
+    "name": "Cast. de Cajú Brejeira Inteira (500g)",
+    "category_id": 192023,
+    "custom_code": null,
+    "atualizado_em": "2026-10-30T15:50:20.686Z"
+  },
+  "1684508": {
+    "id": 1684508,
+    "name": "Crajiru do Amazonas (20g)",
+    "category_id": 192004,
+    "custom_code": null,
+    "atualizado_em": "2026-10-29T18:18:30.496Z"
+  },
+  "1687453": {
+    "id": 1687453,
+    "name": "Flocos De Coco (s/ açúcar) (100g)",
+    "category_id": 192019,
+    "custom_code": null,
+    "atualizado_em": "2026-10-29T17:34:18.951Z"
+  },
+  "1687455": {
+    "id": 1687455,
+    "name": "Lascas de Coco Des. (s/ Açúcar) (100g)",
+    "category_id": 192019,
+    "custom_code": null,
+    "atualizado_em": "2026-10-29T17:28:40.721Z"
+  },
+  "1699374": {
+    "id": 1699374,
+    "name": "Magnésio Bisglicinato - Herbamed (60 caps.)",
+    "category_id": 192003,
+    "custom_code": null,
+    "atualizado_em": "2026-10-29T20:19:28.348Z"
+  },
+  "1699382": {
+    "id": 1699382,
+    "name": "Cloreto De Magnésio P.A. - Herbamed (60 caps.)",
+    "category_id": 192003,
+    "custom_code": null,
+    "atualizado_em": "2026-10-30T15:53:01.075Z"
+  },
+  "1699386": {
+    "id": 1699386,
+    "name": "Magnésio Dimalato - Herbamed (60 caps.)",
+    "category_id": 192003,
+    "custom_code": null,
+    "atualizado_em": "2026-10-30T15:53:03.856Z"
+  },
+  "1699389": {
+    "id": 1699389,
+    "name": "MDK Plus - Herbamed (60 caps.)",
+    "category_id": 192003,
+    "custom_code": null,
+    "atualizado_em": "2026-10-29T20:18:20.105Z"
+  },
+  "1699404": {
+    "id": 1699404,
+    "name": "Magnésio Biotreonato - Herbamed (60 caps.)",
+    "category_id": 192003,
+    "custom_code": null,
+    "atualizado_em": "2026-10-29T20:20:07.824Z"
+  },
+  "1699406": {
+    "id": 1699406,
+    "name": "Mag Plus 6 (6 Magnésios) - Herbamed (60 caps.)",
+    "category_id": 192003,
+    "custom_code": null,
+    "atualizado_em": "2026-10-30T15:53:07.243Z"
+  },
+  "1707321": {
+    "id": 1707321,
+    "name": "Doce Vovó Dete Goiabada Cascão Cremosa 390g",
+    "category_id": 191994,
+    "custom_code": null,
+    "atualizado_em": "2026-10-29T17:48:46.882Z"
+  },
+  "1707323": {
+    "id": 1707323,
+    "name": "Doce Vovó Dete Mamão Com Coco 390g",
+    "category_id": 191994,
+    "custom_code": null,
+    "atualizado_em": "2026-10-29T17:48:30.958Z"
+  },
+  "1707325": {
+    "id": 1707325,
+    "name": "Doce Vovó Dete Abacaxi Com Rapadura E Cachaça 390g",
+    "category_id": 191994,
+    "custom_code": null,
+    "atualizado_em": "2026-10-29T17:49:39.917Z"
+  },
+  "1707328": {
+    "id": 1707328,
+    "name": "Doce Vovó Dete Caju 390g",
+    "category_id": 191994,
+    "custom_code": null,
+    "atualizado_em": "2026-10-29T17:49:54.328Z"
+  },
+  "1728803": {
+    "id": 1728803,
+    "name": "Leite Vegetal Castanha de Caju - A Tal da Castanha (1L)",
+    "category_id": 204573,
+    "custom_code": null,
+    "atualizado_em": "2026-10-29T17:40:09.821Z"
+  },
+  "1728810": {
+    "id": 1728810,
+    "name": "Leite Vegetal de Castanha + Cajú + Pará - A Tal da Castanha (1L)",
+    "category_id": 204573,
+    "custom_code": null,
+    "atualizado_em": "2026-10-29T17:41:30.174Z"
+  },
+  "1728811": {
+    "id": 1728811,
+    "name": "Leite Vegetal de Amêndoas - A Tal da Castanha (1L)",
+    "category_id": 204573,
+    "custom_code": null,
+    "atualizado_em": "2026-10-29T17:39:55.434Z"
+  },
+  "1728816": {
+    "id": 1728816,
+    "name": "Leite De Castanha De Caju Choconuts A Tal Da Castanha 1L",
+    "category_id": 204573,
+    "custom_code": null,
+    "atualizado_em": "2026-10-29T17:41:15.321Z"
+  },
+  "1728819": {
+    "id": 1728819,
+    "name": "Leite Vegetal Aveia + Cajú Barista - A Tal Da Castanha (1L)",
+    "category_id": 204573,
+    "custom_code": null,
+    "atualizado_em": "2026-10-29T17:44:20.671Z"
+  },
+  "1728824": {
+    "id": 1728824,
+    "name": "Leite Vegetal de Aveia - A Tal Da Castanha (1L)",
+    "category_id": 204573,
+    "custom_code": null,
+    "atualizado_em": "2026-10-29T17:42:40.832Z"
+  },
+  "1728826": {
+    "id": 1728826,
+    "name": "Leite de Amêndoa e Castanha de Caju - A Tal Da Castanha (1L)",
+    "category_id": 204573,
+    "custom_code": null,
+    "atualizado_em": "2026-10-29T17:41:58.160Z"
+  },
+  "1728829": {
+    "id": 1728829,
+    "name": "Bebida Mini Chocolate - A Tal Da Castanha (200ml)",
+    "category_id": 204573,
+    "custom_code": null,
+    "atualizado_em": "2026-10-29T17:38:32.664Z"
+  },
+  "1728839": {
+    "id": 1728839,
+    "name": "Bebida Mini Baunilha - A Tal da Castanha (200ml)",
+    "category_id": 204573,
+    "custom_code": null,
+    "atualizado_em": "2026-10-29T17:39:07.883Z"
+  },
+  "1728845": {
+    "id": 1728845,
+    "name": "Bebida Castanha de Cajú + Maçã + Banana - A Tal da Castanha (200ml)",
+    "category_id": 204573,
+    "custom_code": null,
+    "atualizado_em": "2026-10-29T17:36:59.351Z"
+  },
+  "1728847": {
+    "id": 1728847,
+    "name": "Bebida Mini Morango - A Tal da Castanha (200ml)",
+    "category_id": 204573,
+    "custom_code": null,
+    "atualizado_em": "2026-10-29T17:38:19.802Z"
+  },
+  "1729147": {
+    "id": 1729147,
+    "name": "Shake Proteico VegPro (Chocolate) - Vida Veg (250g)",
+    "category_id": 192037,
+    "custom_code": null,
+    "atualizado_em": "2026-10-29T20:23:40.418Z"
+  },
+  "1729150": {
+    "id": 1729150,
+    "name": "Iogurte de Morango Proteico VegProtein Vegano - Vida Veg (250g)",
+    "category_id": 192037,
+    "custom_code": null,
+    "atualizado_em": "2026-10-29T20:23:48.673Z"
+  },
+  "1729155": {
+    "id": 1729155,
+    "name": "Iogurte de Morango Vegano - Vida Veg (500g)",
+    "category_id": 192037,
+    "custom_code": null,
+    "atualizado_em": "2026-10-29T20:23:43.134Z"
+  },
+  "1729219": {
+    "id": 1729219,
+    "name": "Power Whey Pronto (Cappuccino) - Três Corações (260ml)",
+    "category_id": 192037,
+    "custom_code": null,
+    "atualizado_em": "2026-10-29T20:23:31.804Z"
+  },
+  "1806326": {
+    "id": 1806326,
+    "name": "Manteiga Ghee Natural - Dom Afonfo (200g)",
+    "category_id": 191999,
+    "custom_code": null,
+    "atualizado_em": "2026-10-30T15:40:35.609Z"
+  },
+  "1806335": {
+    "id": 1806335,
+    "name": "Manteiga Ghee Natural - Dom Afonfo (500g)",
+    "category_id": 191999,
+    "custom_code": null,
+    "atualizado_em": "2026-10-30T15:40:41.741Z"
+  },
+  "1806339": {
+    "id": 1806339,
+    "name": "Flocão de Milho s/ Transgênicos - Só Ouro (500g)",
+    "category_id": 191999,
+    "custom_code": null,
+    "atualizado_em": "2026-10-30T15:40:51.880Z"
+  },
+  "1858845": {
+    "id": 1858845,
+    "name": "Brigadeiro c/ Granulado - Fit Sweet (4 un.)",
+    "category_id": 191993,
+    "custom_code": null,
+    "atualizado_em": "2026-10-29T20:15:57.764Z"
+  },
+  "1874266": {
+    "id": 1874266,
+    "name": "Doce de Leite com Coco- Portão de Cambuí (400g)",
+    "category_id": 191993,
+    "custom_code": null,
+    "atualizado_em": "2026-10-29T20:15:43.984Z"
+  },
+  "1874267": {
+    "id": 1874267,
+    "name": "Doce de Leite c/ Chocolate (410g)",
+    "category_id": 191993,
+    "custom_code": null,
+    "atualizado_em": "2026-10-30T15:55:49.465Z"
+  },
+  "1874270": {
+    "id": 1874270,
+    "name": "Doce de Leite (Sem Amido) (410g)",
+    "category_id": 191993,
+    "custom_code": null,
+    "atualizado_em": "2026-10-29T20:15:46.801Z"
+  },
+  "1874273": {
+    "id": 1874273,
+    "name": "Doce de Leite (Zero Lactose) (215g)",
+    "category_id": 191993,
+    "custom_code": null,
+    "atualizado_em": "2026-10-30T15:55:57.800Z"
+  },
+  "1874282": {
+    "id": 1874282,
+    "name": "Bananada s/ Açúcar (Sabor Natural) (un.)",
+    "category_id": 191993,
+    "custom_code": null,
+    "atualizado_em": "2026-10-29T20:16:07.464Z"
+  },
+  "1874315": {
+    "id": 1874315,
+    "name": "Bananada s/ Açúcar (c/ Ameixa) (un.)",
+    "category_id": 191993,
+    "custom_code": null,
+    "atualizado_em": "2026-10-29T20:15:52.159Z"
+  },
+  "1874385": {
+    "id": 1874385,
+    "name": "Bananada Zero Açúcar (c/ Passas) (un.)",
+    "category_id": 191993,
+    "custom_code": null,
+    "atualizado_em": "2026-10-30T15:56:08.372Z"
+  },
+  "1914674": {
+    "id": 1914674,
+    "name": "Snack s/ Glúten Vegano (Sabor Requeijão) - Vitao (30g)",
+    "category_id": 192019,
+    "custom_code": null,
+    "atualizado_em": "2026-10-29T17:34:31.100Z"
+  },
+  "1914679": {
+    "id": 1914679,
+    "name": "Snack s/ Glúten Vegano (Sabor Cheddar) - Vitao (30g)",
+    "category_id": 192019,
+    "custom_code": null,
+    "atualizado_em": "2026-10-29T17:32:09.918Z"
+  },
+  "1914687": {
+    "id": 1914687,
+    "name": "Snack s/ Glúten Vegano (Sabor Pizza) - Vitao (30g)",
+    "category_id": 192019,
+    "custom_code": null,
+    "atualizado_em": "2026-10-29T17:32:35.853Z"
+  },
+  "1955721": {
+    "id": 1955721,
+    "name": "Supra Cabelos e Unhas - Herbamed (60 caps.)",
+    "category_id": 192003,
+    "custom_code": null,
+    "atualizado_em": "2026-10-29T20:17:41.844Z"
+  },
+  "1955723": {
+    "id": 1955723,
+    "name": "Supra Complexo B - Herbamed (60 caps.)",
+    "category_id": 192003,
+    "custom_code": null,
+    "atualizado_em": "2026-10-30T15:54:19.412Z"
+  },
+  "1955724": {
+    "id": 1955724,
+    "name": "Ômega 3-6-9 Mulher - Maxinutri (60 caps.)",
+    "category_id": 192003,
+    "custom_code": null,
+    "atualizado_em": "2026-10-30T15:52:40.898Z"
+  },
+  "1955727": {
+    "id": 1955727,
+    "name": "Peixonix Ômega 3 - Maxinutri (60 caps.)",
+    "category_id": 192003,
+    "custom_code": null,
+    "atualizado_em": "2026-10-30T15:55:12.182Z"
+  },
+  "1955732": {
+    "id": 1955732,
+    "name": "Cúrcuma Golden - Maxinutri (60 caps.)",
+    "category_id": 192003,
+    "custom_code": null,
+    "atualizado_em": "2026-10-30T15:53:10.360Z"
+  },
+  "1987093": {
+    "id": 1987093,
+    "name": "Brigadeiro de Colher - Fit Sweet (180g)",
+    "category_id": 191993,
+    "custom_code": null,
+    "atualizado_em": "2026-10-29T20:15:54.914Z"
+  },
+  "1987096": {
+    "id": 1987096,
+    "name": "Brigadeiro de Colher (Choc. branco) - Fit Sweet (180g)",
+    "category_id": 191993,
+    "custom_code": null,
+    "atualizado_em": "2026-10-29T20:16:31.713Z"
+  },
+  "1987098": {
+    "id": 1987098,
+    "name": "Brownie de Pote (c/ Doce de Leite) - Fit Sweet (170g)",
+    "category_id": 191993,
+    "custom_code": null,
+    "atualizado_em": "2026-10-29T20:16:54.186Z"
+  },
+  "2008426": {
+    "id": 2008426,
+    "name": "Chips de Legumes Liofilizado (50g)",
+    "category_id": 192019,
+    "custom_code": null,
+    "atualizado_em": "2026-10-29T17:30:52.558Z"
+  },
+  "2139746": {
+    "id": 2139746,
+    "name": "Feno Grego em Pó (50g)",
+    "category_id": 192022,
+    "custom_code": null,
+    "atualizado_em": "2026-10-29T18:13:01.355Z"
+  },
+  "2226356": {
+    "id": 2226356,
+    "name": "Chips de Frutas Liofilizados (50g)",
+    "category_id": 192019,
+    "custom_code": null,
+    "atualizado_em": "2026-10-29T17:31:04.014Z"
+  },
+  "2276664": {
+    "id": 2276664,
+    "name": "Whey Grego Bar (Doce de Leite) - Nutrata",
+    "category_id": 191995,
+    "custom_code": null,
+    "atualizado_em": "2026-10-30T15:28:43.211Z"
+  },
+  "2276687": {
+    "id": 2276687,
+    "name": "Whey Grego Bar (Morango c/ Chantilly) - Nutrata",
+    "category_id": 191995,
+    "custom_code": null,
+    "atualizado_em": "2026-10-29T20:21:04.015Z"
+  },
+  "2344898": {
+    "id": 2344898,
+    "name": "Biscoitinho - Lolita (100g)",
+    "category_id": 191997,
+    "custom_code": null,
+    "atualizado_em": "2026-10-30T15:39:16.049Z"
+  },
+  "2368031": {
+    "id": 2368031,
+    "name": "Whey Grego Bar (Cookies e Cream) - Nutrata",
+    "category_id": 191995,
+    "custom_code": null,
+    "atualizado_em": "2026-10-29T20:21:06.931Z"
+  },
+  "2368046": {
+    "id": 2368046,
+    "name": "Whey Grego Bar 11g (Mousse Maracuja) - Nutrata",
+    "category_id": 191995,
+    "custom_code": null,
+    "atualizado_em": "2026-10-30T15:28:59.882Z"
+  },
+  "2368050": {
+    "id": 2368050,
+    "name": "Barra Proteica Nutrata Charge Bar (45g)",
+    "category_id": 191995,
+    "custom_code": null,
+    "atualizado_em": "2026-10-30T15:28:51.827Z"
+  },
+  "2368058": {
+    "id": 2368058,
+    "name": "Whey Grego Bar (Dark Caramelizada) - Nutrata",
+    "category_id": 191995,
+    "custom_code": null,
+    "atualizado_em": "2026-10-29T20:20:55.286Z"
+  },
+  "2368071": {
+    "id": 2368071,
+    "name": "Whey Grego Bar (Brownie c/ Chocolate) - Nutrata",
+    "category_id": 191995,
+    "custom_code": null,
+    "atualizado_em": "2026-10-29T20:36:37.881Z"
+  },
+  "2368158": {
+    "id": 2368158,
+    "name": "Cranberry - Maxinutri (60 caps.)",
+    "category_id": 192003,
+    "custom_code": null,
+    "atualizado_em": "2026-10-29T20:18:28.493Z"
+  },
+  "2368196": {
+    "id": 2368196,
+    "name": "Dimag - Maxinutri (60 caps. c/ 400mg)",
+    "category_id": 192003,
+    "custom_code": null,
+    "atualizado_em": "2026-10-30T15:55:22.393Z"
+  },
+  "2487331": {
+    "id": 2487331,
+    "name": "Protein Crisp Bar (Ovomaltine) - Integramedica",
+    "category_id": 191995,
+    "custom_code": null,
+    "atualizado_em": "2026-10-29T20:36:40.777Z"
+  },
+  "2564981": {
+    "id": 2564981,
+    "name": "Óleo de Alho - Maxinutri (60 caps. c/ 250mg)",
+    "category_id": 192003,
+    "custom_code": null,
+    "atualizado_em": "2026-10-29T20:18:39.534Z"
+  },
+  "2565004": {
+    "id": 2565004,
+    "name": "Óleo de Chia - Maxinutri (60 caps. c/ 500mg)",
+    "category_id": 192003,
+    "custom_code": null,
+    "atualizado_em": "2026-10-29T20:17:58.089Z"
+  },
+  "2565011": {
+    "id": 2565011,
+    "name": "Cúrcuma - Herbamed (60 caps. c/ 500mg)",
+    "category_id": 192003,
+    "custom_code": null,
+    "atualizado_em": "2026-10-30T15:53:13.889Z"
+  },
+  "2573317": {
+    "id": 2573317,
+    "name": "Barra Proteica Crisp Bar (Brownie de Chocolate) - Integralmedica (45g)",
+    "category_id": 191995,
+    "custom_code": null,
+    "atualizado_em": "2026-10-29T20:37:00.237Z"
+  },
+  "2607897": {
+    "id": 2607897,
+    "name": "Mel Composto 7 Ervas - Nectar Plus (290g)",
+    "category_id": 192000,
+    "custom_code": null,
+    "atualizado_em": "2026-10-29T20:22:42.630Z"
+  },
+  "2607920": {
+    "id": 2607920,
+    "name": "Pólen Apícola Desidratado - Nectar Plus (115g)",
+    "category_id": 192000,
+    "custom_code": null,
+    "atualizado_em": "2026-10-29T20:22:45.515Z"
+  },
+  "2676238": {
+    "id": 2676238,
+    "name": "Granola Tradicional (A Granel) (400g)",
+    "category_id": 191998,
+    "custom_code": null,
+    "atualizado_em": "2026-10-30T15:29:30.698Z"
+  },
+  "2682140": {
+    "id": 2682140,
+    "name": "Psyllium - Herbamed (60 caps.)",
+    "category_id": 192003,
+    "custom_code": null,
+    "atualizado_em": "2026-10-29T20:17:14.272Z"
+  },
+  "2729341": {
+    "id": 2729341,
+    "name": "Leite de Coco em Pó Vegano (500g)",
+    "category_id": 204573,
+    "custom_code": null,
+    "atualizado_em": "2026-10-29T17:38:56.309Z"
+  },
+  "2729533": {
+    "id": 2729533,
+    "name": "Deslac - Maxinutri (30 caps.)",
+    "category_id": 192003,
+    "custom_code": null,
+    "atualizado_em": "2026-10-29T20:18:22.908Z"
+  },
+  "2737468": {
+    "id": 2737468,
+    "name": "Pão Folha de Macaxeira - Brotar",
+    "category_id": 320575,
+    "custom_code": null,
+    "atualizado_em": "2026-10-29T17:24:27.013Z"
+  },
+  "2737484": {
+    "id": 2737484,
+    "name": "Pão de Mandioqueijo - Brotar",
+    "category_id": 320575,
+    "custom_code": null,
+    "atualizado_em": "2026-10-29T17:24:43.970Z"
+  },
+  "2737628": {
+    "id": 2737628,
+    "name": "Coxinha de Macaxeira c/ Frango - Brotar",
+    "category_id": 320575,
+    "custom_code": null,
+    "atualizado_em": "2026-10-29T17:26:32.702Z"
+  },
+  "2737646": {
+    "id": 2737646,
+    "name": "Pastel de Macaxeira c/ Frango - Brotar",
+    "category_id": 320575,
+    "custom_code": null,
+    "atualizado_em": "2026-10-29T17:27:06.797Z"
+  },
+  "2766489": {
+    "id": 2766489,
+    "name": "Doce de Leite (Zero Adição de Açúcar) (250g)",
+    "category_id": 191993,
+    "custom_code": null,
+    "atualizado_em": "2026-10-30T15:56:14.595Z"
+  },
+  "2776757": {
+    "id": 2776757,
+    "name": "Pão para Hambúrguer (Gergelim)",
+    "category_id": 320575,
+    "custom_code": null,
+    "atualizado_em": "2026-10-29T17:24:14.005Z"
+  },
+  "2776765": {
+    "id": 2776765,
+    "name": "Pão p/ Hambúrguer (Inhame)",
+    "category_id": 320575,
+    "custom_code": null,
+    "atualizado_em": "2026-10-29T17:26:19.698Z"
+  },
+  "2776767": {
+    "id": 2776767,
+    "name": "Pão Funcional (Gergelim)",
+    "category_id": 320575,
+    "custom_code": null,
+    "atualizado_em": "2026-10-29T17:24:57.387Z"
+  },
+  "2776833": {
+    "id": 2776833,
+    "name": "Pão Funcional (Inhame)",
+    "category_id": 320575,
+    "custom_code": null,
+    "atualizado_em": "2026-10-29T17:24:03.289Z"
+  },
+  "2776994": {
+    "id": 2776994,
+    "name": "Amendoim  c/ Leve Sal s/ Casca (200g)",
+    "category_id": 192023,
+    "custom_code": null,
+    "atualizado_em": "2026-10-30T15:49:00.900Z"
+  },
+  "2780532": {
+    "id": 2780532,
+    "name": "Queijo Parmesão Vegano - Vida Veg (150g)",
+    "category_id": 192037,
+    "custom_code": null,
+    "atualizado_em": "2026-10-29T20:23:14.523Z"
+  },
+  "2780534": {
+    "id": 2780534,
+    "name": "Mousse de Chocolate - Vida Veg",
+    "category_id": 192037,
+    "custom_code": null,
+    "atualizado_em": "2026-10-29T20:23:17.269Z"
+  },
+  "2780535": {
+    "id": 2780535,
+    "name": "Manteiga de Castanha de Cajú - Vida Veg (200g)",
+    "category_id": 192037,
+    "custom_code": null,
+    "atualizado_em": "2026-10-29T20:23:20.373Z"
+  },
+  "2780536": {
+    "id": 2780536,
+    "name": "Queijo Mussarela de Castanha De Cajú (Fatiado) - Vida Veg (150g)",
+    "category_id": 192037,
+    "custom_code": null,
+    "atualizado_em": "2026-10-29T20:23:34.633Z"
+  },
+  "2840414": {
+    "id": 2840414,
+    "name": "Psyllium Legítimo (100g)",
+    "category_id": 192011,
+    "custom_code": null,
+    "atualizado_em": "2026-10-30T15:43:33.494Z"
+  },
+  "2881258": {
+    "id": 2881258,
+    "name": "Barrinha (Banana, Nozes e Damasco) - Supino",
+    "category_id": 191995,
+    "custom_code": null,
+    "atualizado_em": "2026-10-29T20:21:18.429Z"
+  },
+  "2881259": {
+    "id": 2881259,
+    "name": "Barrinha (Banana e Ameixa) - Supino",
+    "category_id": 191995,
+    "custom_code": null,
+    "atualizado_em": "2026-10-29T20:21:35.375Z"
+  },
+  "2881260": {
+    "id": 2881260,
+    "name": "Barrinha (Banana, Maçã e Canela) - Supino",
+    "category_id": 191995,
+    "custom_code": null,
+    "atualizado_em": "2026-10-29T20:21:38.237Z"
+  },
+  "2881261": {
+    "id": 2881261,
+    "name": "Barrinha (Banana) - Supino",
+    "category_id": 191995,
+    "custom_code": null,
+    "atualizado_em": "2026-10-29T20:21:41.291Z"
+  },
+  "2881262": {
+    "id": 2881262,
+    "name": "Barrinha (Banana e Chocolate ao Leite) - Banana Brasil Kids",
+    "category_id": 191995,
+    "custom_code": null,
+    "atualizado_em": "2026-10-29T20:22:02.587Z"
+  },
+  "2881263": {
+    "id": 2881263,
+    "name": "Barrinha (Banana e Uva) - Banana Brasil Kids",
+    "category_id": 191995,
+    "custom_code": null,
+    "atualizado_em": "2026-10-29T20:21:44.316Z"
+  },
+  "2881265": {
+    "id": 2881265,
+    "name": "Barrinha (Banana com Morango) - Banana Brasil Kids",
+    "category_id": 191995,
+    "custom_code": null,
+    "atualizado_em": "2026-10-29T20:21:47.418Z"
+  },
+  "2881266": {
+    "id": 2881266,
+    "name": "Barrinha de Aveia (Morango com Chocolate) - Fibritos",
+    "category_id": 191995,
+    "custom_code": null,
+    "atualizado_em": "2026-10-29T20:21:13.624Z"
+  },
+  "2881268": {
+    "id": 2881268,
+    "name": "Barrinha de Aveia (Castanha) - Fibritos",
+    "category_id": 191995,
+    "custom_code": null,
+    "atualizado_em": "2026-10-30T15:28:01.203Z"
+  },
+  "2881269": {
+    "id": 2881269,
+    "name": "Barrinha de Aveia (Ameixa Preta) - Fibritos",
+    "category_id": 191995,
+    "custom_code": null,
+    "atualizado_em": "2026-10-29T20:36:43.970Z"
+  },
+  "2881270": {
+    "id": 2881270,
+    "name": "Barrinha de Aveia (Frutas Vermelhas) - Fibritos",
+    "category_id": 191995,
+    "custom_code": null,
+    "atualizado_em": "2026-10-30T15:28:04.974Z"
+  },
+  "2881272": {
+    "id": 2881272,
+    "name": "Barra Banana Brasil (Cobertura de Chocolate ao Leite) - Supino",
+    "category_id": 191995,
+    "custom_code": null,
+    "atualizado_em": "2026-10-30T15:28:07.882Z"
+  },
+  "2881273": {
+    "id": 2881273,
+    "name": "Barra Banana Brasil (Ameixa e Cobertura de Chocolate ao Leite) - Supino",
+    "category_id": 191995,
+    "custom_code": null,
+    "atualizado_em": "2026-10-30T15:28:11.119Z"
+  },
+  "2881274": {
+    "id": 2881274,
+    "name": "Barra Banana Brasil (Frutas Zero e Cobertura de Chocolate ao Leite) - Supino",
+    "category_id": 191995,
+    "custom_code": null,
+    "atualizado_em": "2026-10-30T15:28:14.738Z"
+  },
+  "2881340": {
+    "id": 2881340,
+    "name": "Mini Coxinhas de Macaxeira c/ Frango - Brotar (Grande)",
+    "category_id": 320575,
+    "custom_code": null,
+    "atualizado_em": "2026-10-29T17:21:01.049Z"
+  },
+  "2881341": {
+    "id": 2881341,
+    "name": "Mini Coxinhas - Brotar (Pequeno)",
+    "category_id": 320575,
+    "custom_code": null,
+    "atualizado_em": "2026-10-29T17:26:56.081Z"
+  },
+  "2881342": {
+    "id": 2881342,
+    "name": "Pizza Brotinho de Macaxeira (Calabresa c/ Milho) - Brotar",
+    "category_id": 320575,
+    "custom_code": null,
+    "atualizado_em": "2026-10-29T17:23:51.853Z"
+  },
+  "2881343": {
+    "id": 2881343,
+    "name": "Pizza Brotinho de Macaxeira (Frango) - Brotar",
+    "category_id": 320575,
+    "custom_code": null,
+    "atualizado_em": "2026-10-29T17:21:48.020Z"
+  },
+  "2881344": {
+    "id": 2881344,
+    "name": "Mini Pastel de Macaxeira c/ Frango - Brotar (300g)",
+    "category_id": 320575,
+    "custom_code": null,
+    "atualizado_em": "2026-10-29T17:22:01.361Z"
+  },
+  "2881345": {
+    "id": 2881345,
+    "name": "Pão de Forma s/ Glúten (Tradicional) - Vitalin (300g)",
+    "category_id": 320575,
+    "custom_code": null,
+    "atualizado_em": "2026-10-29T17:26:04.061Z"
+  },
+  "2881346": {
+    "id": 2881346,
+    "name": "Pão de Forma s/ Glúten (Gergelim e Linhaça) - Vitalin (300g)",
+    "category_id": 320575,
+    "custom_code": null,
+    "atualizado_em": "2026-10-29T17:25:54.041Z"
+  },
+  "2881347": {
+    "id": 2881347,
+    "name": "Pão de Forma s/ Glúten (Frutas e Sementes) - Vitalin (300g)",
+    "category_id": 320575,
+    "custom_code": null,
+    "atualizado_em": "2026-10-29T17:26:45.259Z"
+  },
+  "2881349": {
+    "id": 2881349,
+    "name": "Pão Vegano (Seridó)",
+    "category_id": 320575,
+    "custom_code": null,
+    "atualizado_em": "2026-10-29T17:25:23.766Z"
+  },
+  "2881350": {
+    "id": 2881350,
+    "name": "Pão Vegano (Ricota)",
+    "category_id": 320575,
+    "custom_code": null,
+    "atualizado_em": "2026-10-29T17:22:33.230Z"
+  },
+  "2881351": {
+    "id": 2881351,
+    "name": "Pão Vegano (Frango c/ Parmesão)",
+    "category_id": 320575,
+    "custom_code": null,
+    "atualizado_em": "2026-10-29T17:25:37.271Z"
+  },
+  "2881352": {
+    "id": 2881352,
+    "name": "Pão Vegano (Canela)",
+    "category_id": 320575,
+    "custom_code": null,
+    "atualizado_em": "2026-10-29T17:23:40.305Z"
+  },
+  "2881353": {
+    "id": 2881353,
+    "name": "Pão Vegano (Creme de Avelã)",
+    "category_id": 320575,
+    "custom_code": null,
+    "atualizado_em": "2026-10-29T17:23:25.326Z"
+  },
+  "2881354": {
+    "id": 2881354,
+    "name": "Pão Vegano (Abacaxi c/ Coco)",
+    "category_id": 320575,
+    "custom_code": null,
+    "atualizado_em": "2026-10-29T17:21:13.057Z"
+  },
+  "2881358": {
+    "id": 2881358,
+    "name": "Pão Vegano (Sertanejo)",
+    "category_id": 320575,
+    "custom_code": null,
+    "atualizado_em": "2026-10-29T17:25:10.760Z"
+  },
+  "2881366": {
+    "id": 2881366,
+    "name": "Aveia Flocos Finos s/ Glúten - Vitalin (200g)",
+    "category_id": 192011,
+    "custom_code": null,
+    "atualizado_em": "2026-10-30T15:42:46.082Z"
+  },
+  "2881367": {
+    "id": 2881367,
+    "name": "Aveia Flocos Grossos s/ Glúten - Vitalin (200g)",
+    "category_id": 192011,
+    "custom_code": null,
+    "atualizado_em": "2026-10-30T16:03:08.009Z"
+  },
+  "2881397": {
+    "id": 2881397,
+    "name": "Mini Pão de Queijo (Queijo Parmesão) - Biosoft (100g)",
+    "category_id": 191997,
+    "custom_code": null,
+    "atualizado_em": "2026-10-30T15:37:42.063Z"
+  },
+  "2881411": {
+    "id": 2881411,
+    "name": "Blueberry Des. (50g)",
+    "category_id": 192021,
+    "custom_code": null,
+    "atualizado_em": "2026-10-29T17:11:30.458Z"
+  },
+  "2881412": {
+    "id": 2881412,
+    "name": "Cranberry Des. (100g)",
+    "category_id": 192021,
+    "custom_code": null,
+    "atualizado_em": "2026-10-29T17:09:18.385Z"
+  },
+  "2881414": {
+    "id": 2881414,
+    "name": "GojiBerry Des. (100g)",
+    "category_id": 192021,
+    "custom_code": null,
+    "atualizado_em": "2026-10-29T17:19:27.028Z"
+  },
+  "2881433": {
+    "id": 2881433,
+    "name": "Cogneuro - Copapharma (60 caps.)",
+    "category_id": 192003,
+    "custom_code": null,
+    "atualizado_em": "2026-10-29T20:17:02.963Z"
+  },
+  "2881449": {
+    "id": 2881449,
+    "name": "Albumina - Uêvo (420g)",
+    "category_id": 192003,
+    "custom_code": null,
+    "atualizado_em": "2026-10-30T15:54:53.094Z"
+  },
+  "2881479": {
+    "id": 2881479,
+    "name": "Bolinho de Chocolate - Belive (45g)",
+    "category_id": 191997,
+    "custom_code": null,
+    "atualizado_em": "2026-10-30T15:37:48.952Z"
+  },
+  "2881480": {
+    "id": 2881480,
+    "name": "Bolinho de Laranja - Belive (45g)",
+    "category_id": 191997,
+    "custom_code": null,
+    "atualizado_em": "2026-10-30T15:37:58.557Z"
+  },
+  "2881481": {
+    "id": 2881481,
+    "name": "Cookies (Double Chocolate) - Belive (67g)",
+    "category_id": 191997,
+    "custom_code": null,
+    "atualizado_em": "2026-10-30T15:37:54.135Z"
+  },
+  "2881482": {
+    "id": 2881482,
+    "name": "Cookies (Baunilha e Chocolate) - Belive (67g)",
+    "category_id": 191997,
+    "custom_code": null,
+    "atualizado_em": "2026-10-30T15:38:01.292Z"
+  },
+  "2881483": {
+    "id": 2881483,
+    "name": "Brownie Protein (Chocolate c/ Avelã) - Belive (40g)",
+    "category_id": 191997,
+    "custom_code": null,
+    "atualizado_em": "2026-10-30T15:38:04.264Z"
+  },
+  "2881484": {
+    "id": 2881484,
+    "name": "Brownie Protein (Double Chocolate) - Belive (40g)",
+    "category_id": 191997,
+    "custom_code": null,
+    "atualizado_em": "2026-10-30T15:38:07.523Z"
+  },
+  "2881485": {
+    "id": 2881485,
+    "name": "Pipocão Gourmet s/ Glúten Vegano (Caramelo Salgado) - Natural Life (90g)",
+    "category_id": 191997,
+    "custom_code": null,
+    "atualizado_em": "2026-10-30T15:39:18.957Z"
+  },
+  "2881486": {
+    "id": 2881486,
+    "name": "Chips Arroz Integral e Milho s/ Glúten (Queijo Nacho) - Natural Life (70g)",
+    "category_id": 191997,
+    "custom_code": null,
+    "atualizado_em": "2026-10-30T15:37:27.371Z"
+  },
+  "2881487": {
+    "id": 2881487,
+    "name": "Biscoito Funcional s/ Glúten (Mel c/ Cobertura de Chocolate) - Natural Life (140g)",
+    "category_id": 191997,
+    "custom_code": null,
+    "atualizado_em": "2026-10-30T15:37:33.401Z"
+  },
+  "2881488": {
+    "id": 2881488,
+    "name": "Biscoito de Maizena Vegano s/ Glúten - Natural Life (112g)",
+    "category_id": 191997,
+    "custom_code": null,
+    "atualizado_em": "2026-10-30T15:37:36.304Z"
+  },
+  "2881490": {
+    "id": 2881490,
+    "name": "Biscoito de Arroz Integral Mini s/ Glúten Vegano - Natural Life (80g)",
+    "category_id": 191997,
+    "custom_code": null,
+    "atualizado_em": "2026-10-29T20:27:20.395Z"
+  },
+  "2881491": {
+    "id": 2881491,
+    "name": "Mini Crackers (Páprica) - Natural Life",
+    "category_id": 191997,
+    "custom_code": null,
+    "atualizado_em": "2026-10-30T15:38:10.220Z"
+  },
+  "2881492": {
+    "id": 2881492,
+    "name": "Mini Crackers (Cebola & Salsa) - Natural Life",
+    "category_id": 191997,
+    "custom_code": null,
+    "atualizado_em": "2026-10-30T15:39:21.700Z"
+  },
+  "2881493": {
+    "id": 2881493,
+    "name": "Mini Crackers (Manteiga) - Natural Life",
+    "category_id": 191997,
+    "custom_code": null,
+    "atualizado_em": "2026-10-30T15:38:13.031Z"
+  },
+  "2881494": {
+    "id": 2881494,
+    "name": "Porquinhos Kids (Chocolate Duo) - Natural Life",
+    "category_id": 191997,
+    "custom_code": null,
+    "atualizado_em": "2026-10-30T15:38:16.002Z"
+  },
+  "2881496": {
+    "id": 2881496,
+    "name": "Panda Kids (Doce de Leite) - Natural Life",
+    "category_id": 191997,
+    "custom_code": null,
+    "atualizado_em": "2026-10-30T15:38:19.987Z"
+  },
+  "2881497": {
+    "id": 2881497,
+    "name": "Rice Cracker (Original) - Natural Life",
+    "category_id": 191997,
+    "custom_code": null,
+    "atualizado_em": "2026-10-30T15:39:53.187Z"
+  },
+  "2881498": {
+    "id": 2881498,
+    "name": "Rice Cracker (Barbecue) - Natural Life",
+    "category_id": 191997,
+    "custom_code": null,
+    "atualizado_em": "2026-10-30T15:37:45.905Z"
+  },
+  "2881500": {
+    "id": 2881500,
+    "name": "Biscoito de Maizena Vegano s; Glúten - Natural Life (112g)",
+    "category_id": 191997,
+    "custom_code": null,
+    "atualizado_em": "2026-10-30T15:38:48.565Z"
+  },
+  "2881505": {
+    "id": 2881505,
+    "name": "Bichinhos Kids (Morango) - Natural Life",
+    "category_id": 191997,
+    "custom_code": null,
+    "atualizado_em": "2026-10-30T15:38:51.800Z"
+  },
+  "2881506": {
+    "id": 2881506,
+    "name": "Tubes Free Nut's s/ Glúten (Pasta de Amendoim) - Natural Life (50g)",
+    "category_id": 191997,
+    "custom_code": null,
+    "atualizado_em": "2026-10-30T15:37:30.167Z"
+  },
+  "2985154": {
+    "id": 2985154,
+    "name": "Cookie artesanal s/glúten e s/lactose (Chocolate com Avelã) 100g",
+    "category_id": 191997,
+    "custom_code": null,
+    "atualizado_em": "2026-10-30T15:38:57.801Z"
+  },
+  "2985191": {
+    "id": 2985191,
+    "name": "Cookie artesanal s/glúten e s/lactose (Limão suave) 100g",
+    "category_id": 191997,
+    "custom_code": null,
+    "atualizado_em": "2026-10-30T15:36:23.975Z"
+  },
+  "2985200": {
+    "id": 2985200,
+    "name": "Cookie artesanal s/glúten e s/lactose (Olho de sogra) 100g",
+    "category_id": 191997,
+    "custom_code": null,
+    "atualizado_em": "2026-10-30T15:39:01.444Z"
+  },
+  "2985209": {
+    "id": 2985209,
+    "name": "Cookie artesanal s/glúten e s/lactose (Gotas de chocolate ) 100g",
+    "category_id": 191997,
+    "custom_code": null,
+    "atualizado_em": "2026-10-30T15:36:31.923Z"
+  },
+  "2985223": {
+    "id": 2985223,
+    "name": "Cookie artesanal s/glúten e s/lactose (Coco) 100g",
+    "category_id": 191997,
+    "custom_code": null,
+    "atualizado_em": "2026-10-30T15:36:35.716Z"
+  },
+  "3031848": {
+    "id": 3031848,
+    "name": "Espinafre em Pó (50g)",
+    "category_id": 192022,
+    "custom_code": null,
+    "atualizado_em": "2026-10-29T18:11:17.993Z"
+  },
+  "3031852": {
+    "id": 3031852,
+    "name": "Farinha da Semente da Melancia (50g)",
+    "category_id": 192022,
+    "custom_code": null,
+    "atualizado_em": "2026-10-29T18:09:20.442Z"
+  },
+  "3031854": {
+    "id": 3031854,
+    "name": "Tribulus Terrestris (50g)",
+    "category_id": 192022,
+    "custom_code": null,
+    "atualizado_em": "2026-10-29T18:12:46.196Z"
+  },
+  "3031857": {
+    "id": 3031857,
+    "name": "Albumina - Naturovos (420g)",
+    "category_id": 192003,
+    "custom_code": null,
+    "atualizado_em": "2026-10-30T15:51:53.830Z"
+  },
+  "3031893": {
+    "id": 3031893,
+    "name": "Chips de Queijo Coalho c/ Goiabada (50g)",
+    "category_id": 192019,
+    "custom_code": null,
+    "atualizado_em": "2026-10-29T17:33:30.245Z"
+  },
+  "3031895": {
+    "id": 3031895,
+    "name": "Chips de Queijo do Reino (50g)",
+    "category_id": 192019,
+    "custom_code": null,
+    "atualizado_em": "2026-10-29T17:28:27.386Z"
+  },
+  "3031897": {
+    "id": 3031897,
+    "name": "Amaranto em Flocos",
+    "category_id": 192011,
+    "custom_code": null,
+    "atualizado_em": "2026-10-30T16:03:22.675Z"
+  },
+  "3056972": {
+    "id": 3056972,
+    "name": "Tahine Pasta de Gergelim (200g)",
+    "category_id": 191993,
+    "custom_code": null,
+    "atualizado_em": "2026-10-30T15:55:43.815Z"
+  },
+  "3065423": {
+    "id": 3065423,
+    "name": "Tiras de Laranja Cristalizadas (100g)",
+    "category_id": 192021,
+    "custom_code": null,
+    "atualizado_em": "2026-10-29T17:14:09.315Z"
+  },
+  "3065471": {
+    "id": 3065471,
+    "name": "Trigo p/ Kibe (500g)",
+    "category_id": 192011,
+    "custom_code": null,
+    "atualizado_em": "2026-10-30T16:03:53.380Z"
+  },
+  "3065472": {
+    "id": 3065472,
+    "name": "Fécula de Batata (250g)",
+    "category_id": 192011,
+    "custom_code": null,
+    "atualizado_em": "2026-10-30T16:03:57.587Z"
+  },
+  "3065477": {
+    "id": 3065477,
+    "name": "Pimenta Branca Moída (30g)",
+    "category_id": 192012,
+    "custom_code": null,
+    "atualizado_em": "2026-10-29T20:25:12.088Z"
+  },
+  "3065484": {
+    "id": 3065484,
+    "name": "Macadâmia s/ Casca e s/ Sal (100g)",
+    "category_id": 192023,
+    "custom_code": null,
+    "atualizado_em": "2026-10-30T15:49:13.206Z"
+  },
+  "3065502": {
+    "id": 3065502,
+    "name": "Farinha de Maracujá (100g)",
+    "category_id": 192011,
+    "custom_code": null,
+    "atualizado_em": "2026-10-30T16:03:10.733Z"
+  },
+  "3065519": {
+    "id": 3065519,
+    "name": "Mix de Nuts Agridoce (100g)",
+    "category_id": 192023,
+    "custom_code": null,
+    "atualizado_em": "2026-10-30T15:49:25.307Z"
+  },
+  "3070963": {
+    "id": 3070963,
+    "name": "Pincbar (Amendoim) (14g)",
+    "category_id": 191995,
+    "custom_code": null,
+    "atualizado_em": "2026-10-29T20:21:24.179Z"
+  },
+  "3070964": {
+    "id": 3070964,
+    "name": "Pincbar (Morango) (15g)",
+    "category_id": 191995,
+    "custom_code": null,
+    "atualizado_em": "2026-10-29T20:22:08.294Z"
+  },
+  "3070965": {
+    "id": 3070965,
+    "name": "Pincbar (Pistache) (15g)",
+    "category_id": 191995,
+    "custom_code": null,
+    "atualizado_em": "2026-10-29T20:21:50.313Z"
+  },
+  "3070966": {
+    "id": 3070966,
+    "name": "Pincbar (Chocolate) (14g)",
+    "category_id": 191995,
+    "custom_code": null,
+    "atualizado_em": "2026-10-29T20:21:53.221Z"
+  },
+  "3070967": {
+    "id": 3070967,
+    "name": "Pincbar (Chocolate Salt Sea) (15g)",
+    "category_id": 191995,
+    "custom_code": null,
+    "atualizado_em": "2026-10-29T20:21:29.783Z"
+  },
+  "3070968": {
+    "id": 3070968,
+    "name": "Pincbar (Manga e Maracujá) (14g)",
+    "category_id": 191995,
+    "custom_code": null,
+    "atualizado_em": "2026-10-29T20:21:56.046Z"
+  },
+  "3070969": {
+    "id": 3070969,
+    "name": "Pincbar (Caramelo Salgado) (15g)",
+    "category_id": 191995,
+    "custom_code": null,
+    "atualizado_em": "2026-10-30T15:28:18.708Z"
+  },
+  "3070970": {
+    "id": 3070970,
+    "name": "Pincbar (Beijinho) (14g)",
+    "category_id": 191995,
+    "custom_code": null,
+    "atualizado_em": "2026-10-29T20:22:11.830Z"
+  },
+  "3070971": {
+    "id": 3070971,
+    "name": "Pincbar (Chocolate Branco) (14g)",
+    "category_id": 191995,
+    "custom_code": null,
+    "atualizado_em": "2026-10-30T15:28:23.382Z"
+  },
+  "3070972": {
+    "id": 3070972,
+    "name": "Pincbar (Limão Siciliano) (15g)",
+    "category_id": 191995,
+    "custom_code": null,
+    "atualizado_em": "2026-10-29T20:21:58.987Z"
+  },
+  "3070975": {
+    "id": 3070975,
+    "name": "Goldenberry Des. (Fisális) (100g)",
+    "category_id": 192021,
+    "custom_code": null,
+    "atualizado_em": "2026-10-29T17:14:36.979Z"
+  },
+  "3070980": {
+    "id": 3070980,
+    "name": "Maçã Desidratada em Rodelas (50g)",
+    "category_id": 192021,
+    "custom_code": null,
+    "atualizado_em": "2026-10-29T17:14:22.920Z"
+  },
+  "3070981": {
+    "id": 3070981,
+    "name": "Farinha da Felicidade (100g)",
+    "category_id": 192022,
+    "custom_code": null,
+    "atualizado_em": "2026-10-29T18:09:00.723Z"
+  },
+  "3070982": {
+    "id": 3070982,
+    "name": "Maca Peruana Black (50g)",
+    "category_id": 192022,
+    "custom_code": null,
+    "atualizado_em": "2026-10-29T18:13:11.472Z"
+  },
+  "3070983": {
+    "id": 3070983,
+    "name": "Maca Peruana Vermelha (50g)",
+    "category_id": 192022,
+    "custom_code": null,
+    "atualizado_em": "2026-10-29T18:12:14.991Z"
+  },
+  "3070985": {
+    "id": 3070985,
+    "name": "Farinha de Semente de Abóbora (100g)",
+    "category_id": 192011,
+    "custom_code": null,
+    "atualizado_em": "2026-10-30T15:43:54.224Z"
+  },
+  "3071001": {
+    "id": 3071001,
+    "name": "Carvão Vegetal Ativado (200g)",
+    "category_id": 192011,
+    "custom_code": null,
+    "atualizado_em": "2026-10-30T15:42:26.385Z"
+  },
+  "3071002": {
+    "id": 3071002,
+    "name": "Gelatina s/ Sabor (100g)",
+    "category_id": 192011,
+    "custom_code": null,
+    "atualizado_em": "2026-10-30T15:44:06.101Z"
+  },
+  "3071008": {
+    "id": 3071008,
+    "name": "Farinha Especial s/ Glúten (100g)",
+    "category_id": 192011,
+    "custom_code": null,
+    "atualizado_em": "2026-10-30T15:44:09.604Z"
+  },
+  "3071010": {
+    "id": 3071010,
+    "name": "Farinha de Coco (100g)",
+    "category_id": 192011,
+    "custom_code": null,
+    "atualizado_em": "2026-10-30T16:04:04.135Z"
+  },
+  "3071011": {
+    "id": 3071011,
+    "name": "Farinha de Amêndoa (100g)",
+    "category_id": 192011,
+    "custom_code": null,
+    "atualizado_em": "2026-10-30T15:43:05.164Z"
+  },
+  "3076520": {
+    "id": 3076520,
+    "name": "Mostarda em Pó (50g)",
+    "category_id": 192012,
+    "custom_code": null,
+    "atualizado_em": "2026-10-29T20:27:00.757Z"
+  },
+  "3093866": {
+    "id": 3093866,
+    "name": "Mamão Crist. em Cubos “Jujuba Natural” (50g)",
+    "category_id": 192021,
+    "custom_code": null,
+    "atualizado_em": "2026-10-29T17:20:42.038Z"
+  },
+  "3112492": {
+    "id": 3112492,
+    "name": "Cebola Crispy (50g)",
+    "category_id": 192012,
+    "custom_code": null,
+    "atualizado_em": "2026-10-29T20:25:19.311Z"
+  },
+  "3112545": {
+    "id": 3112545,
+    "name": "Sal Negro Refinado (Sal do Himalaia) (100g)",
+    "category_id": 192012,
+    "custom_code": null,
+    "atualizado_em": "2026-10-29T20:26:43.951Z"
+  },
+  "3112554": {
+    "id": 3112554,
+    "name": "Pimenta Calabresa Moída (30g)",
+    "category_id": 192012,
+    "custom_code": null,
+    "atualizado_em": "2026-10-29T20:26:20.489Z"
+  },
+  "3112602": {
+    "id": 3112602,
+    "name": "Pimenta Jamaica em Pó (30g)",
+    "category_id": 192012,
+    "custom_code": null,
+    "atualizado_em": "2026-10-29T20:26:23.350Z"
+  },
+  "3112620": {
+    "id": 3112620,
+    "name": "Colágeno Hidrolisado em Pó (Sabor Laranja) (50g)",
+    "category_id": 192022,
+    "custom_code": null,
+    "atualizado_em": "2026-10-29T18:12:28.942Z"
+  },
+  "3112642": {
+    "id": 3112642,
+    "name": "Leite de Coco Vegano em Pó (100g)",
+    "category_id": 204573,
+    "custom_code": null,
+    "atualizado_em": "2026-10-29T17:38:43.668Z"
+  },
+  "3112652": {
+    "id": 3112652,
+    "name": "Leite de Coco em Pó Vegano (1Kg)",
+    "category_id": 204573,
+    "custom_code": null,
+    "atualizado_em": "2026-10-29T17:39:43.562Z"
+  },
+  "3132158": {
+    "id": 3132158,
+    "name": "Barrinha de Proteína YoPRO - Nutrata (15g)",
+    "category_id": 191995,
+    "custom_code": null,
+    "atualizado_em": "2026-10-29T20:21:10.234Z"
+  },
+  "3203197": {
+    "id": 3203197,
+    "name": "Mel de Cana - Brejeira (250g)",
+    "category_id": 192000,
+    "custom_code": null,
+    "atualizado_em": "2026-10-29T20:23:07.794Z"
+  },
+  "3203203": {
+    "id": 3203203,
+    "name": "Rapadura c/ Amendoim (180g)",
+    "category_id": 191993,
+    "custom_code": null,
+    "atualizado_em": "2026-10-29T20:16:10.698Z"
+  },
+  "3203206": {
+    "id": 3203206,
+    "name": "Rapadurinha Preta (Gotas) (200g)",
+    "category_id": 191993,
+    "custom_code": null,
+    "atualizado_em": "2026-10-30T15:56:45.276Z"
+  },
+  "3203207": {
+    "id": 3203207,
+    "name": "Rapadura Preta (Barras) (470g)",
+    "category_id": 191993,
+    "custom_code": null,
+    "atualizado_em": "2026-10-29T20:16:39.701Z"
+  },
+  "3203208": {
+    "id": 3203208,
+    "name": "Rapadura Preta (180g)",
+    "category_id": 191993,
+    "custom_code": null,
+    "atualizado_em": "2026-10-30T15:56:11.754Z"
+  },
+  "3203209": {
+    "id": 3203209,
+    "name": "Rapadurinha (Gotas) (Sabor Café) (200g)",
+    "category_id": 191993,
+    "custom_code": null,
+    "atualizado_em": "2026-10-30T15:56:39.344Z"
+  },
+  "3203211": {
+    "id": 3203211,
+    "name": "Rapadura c/ Amendoim (500g)",
+    "category_id": 191993,
+    "custom_code": null,
+    "atualizado_em": "2026-10-29T20:16:42.801Z"
+  },
+  "3203214": {
+    "id": 3203214,
+    "name": "Rapadura c/ Amendoim (Barras) (470g)",
+    "category_id": 191993,
+    "custom_code": null,
+    "atualizado_em": "2026-10-29T20:16:23.388Z"
+  },
+  "3203215": {
+    "id": 3203215,
+    "name": "Rapadura c/ Coco (Barras) (470g)",
+    "category_id": 191993,
+    "custom_code": null,
+    "atualizado_em": "2026-10-29T20:16:37.107Z"
+  },
+  "3203217": {
+    "id": 3203217,
+    "name": "Rapadura Batida (450g)",
+    "category_id": 191993,
+    "custom_code": null,
+    "atualizado_em": "2026-10-30T15:56:20.283Z"
+  },
+  "3203219": {
+    "id": 3203219,
+    "name": "Doce de Rapadura c/ Coco (300g)",
+    "category_id": 191993,
+    "custom_code": null,
+    "atualizado_em": "2026-10-30T15:56:32.437Z"
+  },
+  "3203220": {
+    "id": 3203220,
+    "name": "Rapadura Preta (470g)",
+    "category_id": 191993,
+    "custom_code": null,
+    "atualizado_em": "2026-10-29T20:15:49.518Z"
+  },
+  "3212434": {
+    "id": 3212434,
+    "name": "Mini Pão de Queijo (Queijo Nacho) - Biosoft (100g)",
+    "category_id": 191997,
+    "custom_code": null,
+    "atualizado_em": "2026-10-30T15:37:39.169Z"
+  },
+  "3265395": {
+    "id": 3265395,
+    "name": "Feminicap - Nectar Plus (80 caps)",
+    "category_id": 192003,
+    "custom_code": null,
+    "atualizado_em": "2026-10-30T15:52:01.229Z"
+  },
+  "3265399": {
+    "id": 3265399,
+    "name": "Reducap - NectarPlus (80 caps.)",
+    "category_id": 192003,
+    "custom_code": null,
+    "atualizado_em": "2026-10-29T20:17:39.109Z"
+  },
+  "3265400": {
+    "id": 3265400,
+    "name": "Óleo de Avestruz - Nectar Plus (60 caps.)",
+    "category_id": 192003,
+    "custom_code": null,
+    "atualizado_em": "2026-10-30T15:53:18.783Z"
+  },
+  "3265421": {
+    "id": 3265421,
+    "name": "Composto 7 Ervas - Nectar Plus (200g)",
+    "category_id": 192000,
+    "custom_code": null,
+    "atualizado_em": "2026-10-29T20:22:34.325Z"
+  },
+  "3265429": {
+    "id": 3265429,
+    "name": "Composto XI-Plus - Nectar Plus (200g)",
+    "category_id": 192000,
+    "custom_code": null,
+    "atualizado_em": "2026-10-29T20:22:36.941Z"
+  },
+  "3265477": {
+    "id": 3265477,
+    "name": "Composto Alho Plus - Nectar Plus (200g)",
+    "category_id": 192000,
+    "custom_code": null,
+    "atualizado_em": "2026-10-29T20:22:39.798Z"
+  },
+  "3273648": {
+    "id": 3273648,
+    "name": "GELEIA VOVO DETE NATALINA  MORANGO 240G",
+    "category_id": 191994,
+    "custom_code": null,
+    "atualizado_em": "2026-10-29T20:15:20.510Z"
+  },
+  "3273656": {
+    "id": 3273656,
+    "name": "GELEIA VOVO DETE NATALINA MANGA 240G",
+    "category_id": 191994,
+    "custom_code": null,
+    "atualizado_em": "2026-10-29T17:53:08.298Z"
+  },
+  "3273683": {
+    "id": 3273683,
+    "name": "GELEIA VOVO DETE ZERO AÇUCAR 240G MORANGO C-GERGELIM",
+    "category_id": 191994,
+    "custom_code": null,
+    "atualizado_em": "2026-10-29T17:51:07.888Z"
+  },
+  "3273692": {
+    "id": 3273692,
+    "name": "GELEIA VOVO DETE MORANGO C/ DAMASCO 240G",
+    "category_id": 191994,
+    "custom_code": null,
+    "atualizado_em": "2026-10-29T17:46:33.839Z"
+  },
+  "3273694": {
+    "id": 3273694,
+    "name": "GELEIA VOVO DETE MORANGO C/ DAMASCO 240G ZERO AÇUCAR",
+    "category_id": 191994,
+    "custom_code": null,
+    "atualizado_em": "2026-10-29T17:54:29.810Z"
+  },
+  "3273719": {
+    "id": 3273719,
+    "name": "GELEIA VOVO DETE MORANGO C/ VINHO BORDO 240G",
+    "category_id": 191994,
+    "custom_code": null,
+    "atualizado_em": "2026-10-29T17:45:39.619Z"
+  },
+  "3273744": {
+    "id": 3273744,
+    "name": "GELEIA VOVO DETE MORANGO C/NOZES ZERO AÇUCAR 240G",
+    "category_id": 191994,
+    "custom_code": null,
+    "atualizado_em": "2026-10-29T17:53:49.412Z"
+  },
+  "3273748": {
+    "id": 3273748,
+    "name": "GELEIA VOVO DETE MORANGO C/CHIA ZERO AÇUCAR 240G",
+    "category_id": 191994,
+    "custom_code": null,
+    "atualizado_em": "2026-10-29T17:53:28.093Z"
+  },
+  "3273751": {
+    "id": 3273751,
+    "name": "GELEIA VOVO DETE BANANA C/CHOCOLATE MEIO AMARGO",
+    "category_id": 191994,
+    "custom_code": null,
+    "atualizado_em": "2026-10-29T17:54:12.260Z"
+  },
+  "3275222": {
+    "id": 3275222,
+    "name": "Antepasto Relish de Pepino - Adriana Carvalho (200g)",
+    "category_id": 191994,
+    "custom_code": null,
+    "atualizado_em": "2026-10-29T17:55:02.884Z"
+  },
+  "3288374": {
+    "id": 3288374,
+    "name": "Biotina - Maxinutri (60 caps.)",
+    "category_id": 192003,
+    "custom_code": null,
+    "atualizado_em": "2026-10-30T15:51:48.516Z"
+  },
+  "3288547": {
+    "id": 3288547,
+    "name": "NAC - Vitafor (30 caps.)",
+    "category_id": 192003,
+    "custom_code": null,
+    "atualizado_em": "2026-10-29T20:19:25.414Z"
+  },
+  "3288566": {
+    "id": 3288566,
+    "name": "TopSlim Thermo - Herbamed (60 caps.)",
+    "category_id": 192003,
+    "custom_code": null,
+    "atualizado_em": "2026-10-29T20:17:55.409Z"
+  },
+  "3288580": {
+    "id": 3288580,
+    "name": "Colágeno tipo 2 + Magnésio + Vit. D3 - Herbamed (30 caps.)",
+    "category_id": 192003,
+    "custom_code": null,
+    "atualizado_em": "2026-10-29T20:19:33.649Z"
+  },
+  "3288584": {
+    "id": 3288584,
+    "name": "Berberina - Fortlife (60 caps. c/ 1500mg)",
+    "category_id": 192003,
+    "custom_code": null,
+    "atualizado_em": "2026-10-29T20:17:31.048Z"
+  },
+  "3288587": {
+    "id": 3288587,
+    "name": "Amora Miúra - Forlife (60 caps. c/ 1000mg)",
+    "category_id": 192003,
+    "custom_code": null,
+    "atualizado_em": "2026-10-29T20:17:47.299Z"
+  },
+  "3288590": {
+    "id": 3288590,
+    "name": "Cúrcuma + Piperina + Colágeno Tipo 2 - Fortlife (60caps. c/ 1000mg)",
+    "category_id": 192003,
+    "custom_code": null,
+    "atualizado_em": "2026-10-29T20:20:49.231Z"
+  },
+  "3288591": {
+    "id": 3288591,
+    "name": "Creatina (100% pura) - Herbamed (300g)",
+    "category_id": 577851,
+    "custom_code": null,
+    "atualizado_em": "2026-10-30T16:01:30.230Z"
+  },
+  "3324540": {
+    "id": 3324540,
+    "name": "Mistura p/ Brownie Integral s/ Glúten (270g)",
+    "category_id": 192011,
+    "custom_code": null,
+    "atualizado_em": "2026-10-30T15:44:03.088Z"
+  },
+  "3379343": {
+    "id": 3379343,
+    "name": "Cafeína - Herbamed (60 caps. c/ 200mg)",
+    "category_id": 192003,
+    "custom_code": null,
+    "atualizado_em": "2026-10-29T20:17:25.574Z"
+  },
+  "3379352": {
+    "id": 3379352,
+    "name": "Prostaline - Maxinutri (60 caps. c/ 1000mg)",
+    "category_id": 192003,
+    "custom_code": null,
+    "atualizado_em": "2026-10-30T15:54:26.733Z"
+  },
+  "3379376": {
+    "id": 3379376,
+    "name": "Óleo de Semente Abóbora + Vit. E (60 caps. c/ 1000mg)",
+    "category_id": 192003,
+    "custom_code": null,
+    "atualizado_em": "2026-10-30T15:51:26.343Z"
+  },
+  "3413016": {
+    "id": 3413016,
+    "name": "Mel de Abelha - Nectar Plus (720g)",
+    "category_id": 192000,
+    "custom_code": null,
+    "atualizado_em": "2026-10-29T20:23:02.217Z"
+  },
+  "3413018": {
+    "id": 3413018,
+    "name": "Mel de Abelha - Nectar Plus (290g)",
+    "category_id": 192000,
+    "custom_code": null,
+    "atualizado_em": "2026-10-29T20:22:59.295Z"
+  },
+  "3436088": {
+    "id": 3436088,
+    "name": "Manteiga Ghee - Paz da Natureza (350ml)",
+    "category_id": 191999,
+    "custom_code": null,
+    "atualizado_em": "2026-10-30T15:59:37.380Z"
+  },
+  "3436089": {
+    "id": 3436089,
+    "name": "Manteiga Ghee - Paz da Natureza (600ml)",
+    "category_id": 191999,
+    "custom_code": null,
+    "atualizado_em": "2026-10-30T15:40:38.889Z"
+  },
+  "3436090": {
+    "id": 3436090,
+    "name": "Manteiga Ghee - Paz da Natureza (240ml)",
+    "category_id": 191999,
+    "custom_code": null,
+    "atualizado_em": "2026-10-30T15:59:09.265Z"
+  },
+  "3460320": {
+    "id": 3460320,
+    "name": "Pasta de Amendoim Integral - Power Vida (500g)",
+    "category_id": 192020,
+    "custom_code": null,
+    "atualizado_em": "2026-10-30T15:29:39.468Z"
+  },
+  "3460547": {
+    "id": 3460547,
+    "name": "Zinco + Quelato - Maxinutri (60 caps. c/ 28mg)",
+    "category_id": 192003,
+    "custom_code": null,
+    "atualizado_em": "2026-10-29T20:18:42.351Z"
+  },
+  "3495313": {
+    "id": 3495313,
+    "name": "Sal do Sertão Integral de Mossoró (1Kg)",
+    "category_id": 192012,
+    "custom_code": null,
+    "atualizado_em": "2026-10-29T20:26:31.959Z"
+  },
+  "3518864": {
+    "id": 3518864,
+    "name": "Vit. C - Maxinutri (60caps. c/ 1000mg)",
+    "category_id": 192003,
+    "custom_code": null,
+    "atualizado_em": "2026-10-29T20:17:20.199Z"
+  },
+  "3523212": {
+    "id": 3523212,
+    "name": "Creme de Cebola s/ Glúten (80g)",
+    "category_id": 192012,
+    "custom_code": null,
+    "atualizado_em": "2026-10-30T15:31:49.441Z"
+  },
+  "3523227": {
+    "id": 3523227,
+    "name": "Tempero Costelinha s/ Glúten (80g)",
+    "category_id": 192012,
+    "custom_code": null,
+    "atualizado_em": "2026-10-30T15:32:53.648Z"
+  },
+  "3523244": {
+    "id": 3523244,
+    "name": "Tempero Para Pipoca (50g)",
+    "category_id": 192012,
+    "custom_code": null,
+    "atualizado_em": "2026-10-29T20:27:04.395Z"
+  },
+  "3523258": {
+    "id": 3523258,
+    "name": "Tempero Bife Acebolado (50g)",
+    "category_id": 192012,
+    "custom_code": null,
+    "atualizado_em": "2026-10-29T20:26:26.367Z"
+  },
+  "3523262": {
+    "id": 3523262,
+    "name": "Tempero Fit Frango (50g)",
+    "category_id": 192012,
+    "custom_code": null,
+    "atualizado_em": "2026-10-30T15:30:08.552Z"
+  },
+  "3523269": {
+    "id": 3523269,
+    "name": "Tempero para batata rústica e salada (50g)",
+    "category_id": 192012,
+    "custom_code": null,
+    "atualizado_em": "2026-10-30T15:34:11.679Z"
+  },
+  "3523271": {
+    "id": 3523271,
+    "name": "Tempero “Carne no Molho” (50g)",
+    "category_id": 192012,
+    "custom_code": null,
+    "atualizado_em": "2026-10-30T15:34:27.922Z"
+  },
+  "3523277": {
+    "id": 3523277,
+    "name": "Têmpera e Empana s/ Glúten (50g)",
+    "category_id": 192012,
+    "custom_code": null,
+    "atualizado_em": "2026-10-30T15:34:31.050Z"
+  },
+  "3523294": {
+    "id": 3523294,
+    "name": "Tempero para Frango Assado (100g)",
+    "category_id": 192012,
+    "custom_code": null,
+    "atualizado_em": "2026-10-30T15:36:12.809Z"
+  },
+  "3523296": {
+    "id": 3523296,
+    "name": "Tempero Chipotle s/ Glúten (50g)",
+    "category_id": 192012,
+    "custom_code": null,
+    "atualizado_em": "2026-10-30T15:34:34.078Z"
+  },
+  "3523300": {
+    "id": 3523300,
+    "name": "Tempero Fit Carne s/ Glúten (50g)",
+    "category_id": 192012,
+    "custom_code": null,
+    "atualizado_em": "2026-10-30T15:34:37.909Z"
+  },
+  "3523307": {
+    "id": 3523307,
+    "name": "Tempero para Hambúrguer (100g)",
+    "category_id": 192012,
+    "custom_code": null,
+    "atualizado_em": "2026-10-29T20:26:29.150Z"
+  },
+  "3523328": {
+    "id": 3523328,
+    "name": "Tempero para Churrasco (100g)",
+    "category_id": 192012,
+    "custom_code": null,
+    "atualizado_em": "2026-10-29T20:26:34.768Z"
+  },
+  "3523330": {
+    "id": 3523330,
+    "name": "Tempero “X- tudo” s/ Glúten (50g)",
+    "category_id": 192012,
+    "custom_code": null,
+    "atualizado_em": "2026-10-30T15:34:43.995Z"
+  },
+  "3602472": {
+    "id": 3602472,
+    "name": "Guaraná do Amazonas - Nectar Plus (60 caps.)",
+    "category_id": 192003,
+    "custom_code": null,
+    "atualizado_em": "2026-10-30T15:52:07.605Z"
+  },
+  "3602489": {
+    "id": 3602489,
+    "name": "Clorella - Nectar Plus (80 caps.)",
+    "category_id": 192003,
+    "custom_code": null,
+    "atualizado_em": "2026-10-29T20:19:59.067Z"
+  },
+  "3602726": {
+    "id": 3602726,
+    "name": "Tribulus + Maca Peruana + Salsaparrilha - Nectar Plus (80caps. c/ 1000mg)",
+    "category_id": 192003,
+    "custom_code": null,
+    "atualizado_em": "2026-10-30T15:52:25.156Z"
+  },
+  "3684713": {
+    "id": 3684713,
+    "name": "Vinagre de Maçã - Puro Pomal (400ml)",
+    "category_id": 191999,
+    "custom_code": null,
+    "atualizado_em": "2026-10-30T15:40:32.662Z"
+  },
+  "3700037": {
+    "id": 3700037,
+    "name": "Silicio - Maxinutri (60 caps. c/ 100mg)",
+    "category_id": 192003,
+    "custom_code": null,
+    "atualizado_em": "2026-10-30T15:54:23.106Z"
+  },
+  "3700043": {
+    "id": 3700043,
+    "name": "Morosil Laranja Moro - Fortlife (60 caps. c/ 1000mg)",
+    "category_id": 192003,
+    "custom_code": null,
+    "atualizado_em": "2026-10-29T20:17:28.337Z"
+  },
+  "3707767": {
+    "id": 3707767,
+    "name": "Cacau em Pó Premium - Laury (180g)",
+    "category_id": 191993,
+    "custom_code": null,
+    "atualizado_em": "2026-10-29T20:16:26.127Z"
+  },
+  "3831613": {
+    "id": 3831613,
+    "name": "Ora Pro Nóbis + Cúrcuma + Gengibre - Nectar Plus (80 caps. c/ 1000mg)",
+    "category_id": 192003,
+    "custom_code": null,
+    "atualizado_em": "2026-10-30T15:55:28.115Z"
+  },
+  "3869169": {
+    "id": 3869169,
+    "name": "Cast. de Caju Caramelizada Sabor Açaí (200g)",
+    "category_id": 192023,
+    "custom_code": null,
+    "atualizado_em": "2026-10-30T15:49:22.541Z"
+  },
+  "3874951": {
+    "id": 3874951,
+    "name": "Fibra Essencial Premium- 5 componentes (325g)",
+    "category_id": 192011,
+    "custom_code": null,
+    "atualizado_em": "2026-10-30T16:03:13.620Z"
+  },
+  "3895515": {
+    "id": 3895515,
+    "name": "Gel de massagem - Herbamed (200g)",
+    "category_id": 556648,
+    "custom_code": null,
+    "atualizado_em": "2026-10-30T16:00:00.274Z"
+  },
+  "3895543": {
+    "id": 3895543,
+    "name": "Óleo de Semente de Abóbora - Herbamed (60 caps. c/ 500mg)",
+    "category_id": 192003,
+    "custom_code": null,
+    "atualizado_em": "2026-10-30T15:51:18.388Z"
+  },
+  "3895547": {
+    "id": 3895547,
+    "name": "Vitamina E - Herbamed (60 caps. c/ 400mg)",
+    "category_id": 192003,
+    "custom_code": null,
+    "atualizado_em": "2026-10-30T15:53:47.867Z"
+  },
+  "3895548": {
+    "id": 3895548,
+    "name": "Suplemento  Sênior 50+ - Herbamed (60 caps.)",
+    "category_id": 192003,
+    "custom_code": null,
+    "atualizado_em": "2026-10-30T15:52:21.852Z"
+  },
+  "3895552": {
+    "id": 3895552,
+    "name": "Colágeno Tipo 2 + Hialorônico + Curcuma - Herbamed (60 caps.)",
+    "category_id": 192003,
+    "custom_code": null,
+    "atualizado_em": "2026-10-29T20:17:36.420Z"
+  },
+  "3895560": {
+    "id": 3895560,
+    "name": "Vitamina B12 (Metilcobalamina) - Herbamed (60 caps.)",
+    "category_id": 192003,
+    "custom_code": null,
+    "atualizado_em": "2026-10-30T15:55:25.327Z"
+  },
+  "3895570": {
+    "id": 3895570,
+    "name": "Supra Zinco Quelato - Herbamed (60 caps. c/ 29,59mg)",
+    "category_id": 192003,
+    "custom_code": null,
+    "atualizado_em": "2026-10-29T20:19:39.243Z"
+  },
+  "3895581": {
+    "id": 3895581,
+    "name": "Supra Vitamina K2 - Herbamed (60 caps. c/ 125mg)",
+    "category_id": 192003,
+    "custom_code": null,
+    "atualizado_em": "2026-10-30T15:51:58.424Z"
+  },
+  "3895600": {
+    "id": 3895600,
+    "name": "NAC - Strong (60 caps. c/ 750mg)",
+    "category_id": 192003,
+    "custom_code": null,
+    "atualizado_em": "2026-10-29T20:17:49.979Z"
+  },
+  "4033451": {
+    "id": 4033451,
+    "name": "L-triptofano + Vitaminas - Herbamed (60 caps. c/ 500mg)",
+    "category_id": 192003,
+    "custom_code": null,
+    "atualizado_em": "2026-10-30T15:55:06.650Z"
+  },
+  "4033512": {
+    "id": 4033512,
+    "name": "Vitamina D3 2000Ui - Herbamed (60 caps. c/ 400mg)",
+    "category_id": 192003,
+    "custom_code": null,
+    "atualizado_em": "2026-10-30T15:52:48.194Z"
+  },
+  "4033546": {
+    "id": 4033546,
+    "name": "Vitamina D3 2000Ui - Herbamed (20ml)",
+    "category_id": 192003,
+    "custom_code": null,
+    "atualizado_em": "2026-10-30T15:54:46.834Z"
+  },
+  "4033578": {
+    "id": 4033578,
+    "name": "Biotina - Herbamed (60 caps. c/ 45mcg)",
+    "category_id": 192003,
+    "custom_code": null,
+    "atualizado_em": "2026-10-29T20:17:06.575Z"
+  },
+  "4041891": {
+    "id": 4041891,
+    "name": "Amora Miúra - Nectar Plus (80 caps. c/ 1000mg)",
+    "category_id": 192003,
+    "custom_code": null,
+    "atualizado_em": "2026-10-29T20:17:44.522Z"
+  },
+  "4171411": {
+    "id": 4171411,
+    "name": "Vitamina B12 + Vit. C - Alphapure (60 caps.)",
+    "category_id": 192003,
+    "custom_code": null,
+    "atualizado_em": "2026-10-29T20:18:31.305Z"
+  },
+  "4223822": {
+    "id": 4223822,
+    "name": "Chips de Morango Liofilizado (25g)",
+    "category_id": 192019,
+    "custom_code": null,
+    "atualizado_em": "2026-10-29T17:28:52.597Z"
+  },
+  "4254608": {
+    "id": 4254608,
+    "name": "Castanha de Cajú “Quebradinha” (200g)",
+    "category_id": 192023,
+    "custom_code": null,
+    "atualizado_em": "2026-10-30T16:02:50.651Z"
+  },
+  "4254621": {
+    "id": 4254621,
+    "name": "Castanha de Cajú “Quebradinha” (500g)",
+    "category_id": 192023,
+    "custom_code": null,
+    "atualizado_em": "2026-10-30T16:02:54.894Z"
+  },
+  "4254647": {
+    "id": 4254647,
+    "name": "Cast. de Cajú Caramelizada Sabor Maracujá (200g)",
+    "category_id": 192023,
+    "custom_code": null,
+    "atualizado_em": "2026-10-30T16:02:31.235Z"
+  },
+  "4254718": {
+    "id": 4254718,
+    "name": "Cast. de Cajú Caramelizada Sabor Café (200g)",
+    "category_id": 192023,
+    "custom_code": null,
+    "atualizado_em": "2026-10-30T16:02:34.187Z"
+  },
+  "4286022": {
+    "id": 4286022,
+    "name": "Cúrcuma longa - Nectar Plus (80 caps.)",
+    "category_id": 192003,
+    "custom_code": null,
+    "atualizado_em": "2026-10-30T15:54:13.433Z"
+  },
+  "4286025": {
+    "id": 4286025,
+    "name": "Castanha da Índia - Fortlife (60 caps.)",
+    "category_id": 192003,
+    "custom_code": null,
+    "atualizado_em": "2026-10-29T20:20:22.992Z"
+  },
+  "4286038": {
+    "id": 4286038,
+    "name": "Óleo de Coco Extravirgem (Spray) - Nectar Plus (100ml)",
+    "category_id": 191999,
+    "custom_code": null,
+    "atualizado_em": "2026-10-30T15:59:30.466Z"
+  },
+  "4286174": {
+    "id": 4286174,
+    "name": "Óleo de Babosa - Bella-Oil (100ml)",
+    "category_id": 192035,
+    "custom_code": null,
+    "atualizado_em": "2026-10-29T18:02:42.075Z"
+  },
+  "4286206": {
+    "id": 4286206,
+    "name": "Óleo de Copaíba - Bella-Oil (100ml)",
+    "category_id": 192035,
+    "custom_code": null,
+    "atualizado_em": "2026-10-29T18:01:54.589Z"
+  },
+  "4286211": {
+    "id": 4286211,
+    "name": "Óleo de Ojon - Bella-Oil (30ml)",
+    "category_id": 192035,
+    "custom_code": null,
+    "atualizado_em": "2026-10-29T18:03:06.831Z"
+  },
+  "4286218": {
+    "id": 4286218,
+    "name": "Óleo de Olíbano - Bella-Oil (30ml)",
+    "category_id": 192035,
+    "custom_code": null,
+    "atualizado_em": "2026-10-29T18:02:08.895Z"
+  },
+  "4286220": {
+    "id": 4286220,
+    "name": "Óleo de Rícino 100% Puro - Bella Phytus (30ml)",
+    "category_id": 192035,
+    "custom_code": null,
+    "atualizado_em": "2026-10-29T17:59:32.911Z"
+  },
+  "4286227": {
+    "id": 4286227,
+    "name": "Gel de Sucupira Dr House - Bella Phytus (120ml)",
+    "category_id": 192035,
+    "custom_code": null,
+    "atualizado_em": "2026-10-29T17:57:39.225Z"
+  },
+  "4286232": {
+    "id": 4286232,
+    "name": "Creme de Lanolina EllaMamy - Bella Phytus (50g)",
+    "category_id": 192035,
+    "custom_code": null,
+    "atualizado_em": "2026-10-29T18:01:45.436Z"
+  },
+  "4286253": {
+    "id": 4286253,
+    "name": "Óleo de Rosa Mosqueta 100% Puro - Bella Phytus (30ml)",
+    "category_id": 192035,
+    "custom_code": null,
+    "atualizado_em": "2026-10-29T18:02:22.907Z"
+  },
+  "4287365": {
+    "id": 4287365,
+    "name": "Óleo de Coco Extravirgem - Copra (200ml)",
+    "category_id": 191999,
+    "custom_code": null,
+    "atualizado_em": "2026-10-30T15:59:05.928Z"
+  },
+  "4287391": {
+    "id": 4287391,
+    "name": "Óleo de Coco Extravirgem - Copra (500ml)",
+    "category_id": 191999,
+    "custom_code": null,
+    "atualizado_em": "2026-10-30T15:59:33.218Z"
+  },
+  "4312966": {
+    "id": 4312966,
+    "name": "Colágeno Verisol + Vitaminas - Herbamed (60 caps.)",
+    "category_id": 192003,
+    "custom_code": null,
+    "atualizado_em": "2026-10-30T15:52:15.060Z"
+  },
+  "4325685": {
+    "id": 4325685,
+    "name": "Amêndoa Banhada c/ Cacau 70% (s/ Glúten) (50g)",
+    "category_id": 191993,
+    "custom_code": null,
+    "atualizado_em": "2026-10-29T20:16:45.922Z"
+  },
+  "4325686": {
+    "id": 4325686,
+    "name": "Tâmara Banhada c/ Cacau 70% (s/ Gluten) (50g)",
+    "category_id": 191993,
+    "custom_code": null,
+    "atualizado_em": "2026-10-30T15:56:35.324Z"
+  },
+  "4325687": {
+    "id": 4325687,
+    "name": "Banana Banhada c/ Cacau 70% (s/ Glúten) (50g)",
+    "category_id": 191993,
+    "custom_code": null,
+    "atualizado_em": "2026-10-29T20:16:48.538Z"
+  },
+  "4325689": {
+    "id": 4325689,
+    "name": "Castanha Banhada c/ Cacau 70% (s/ Glúten) (50g)",
+    "category_id": 191993,
+    "custom_code": null,
+    "atualizado_em": "2026-10-29T20:16:51.278Z"
+  },
+  "4325690": {
+    "id": 4325690,
+    "name": "Morango cristalizado Banhado c/ Cacau 70% (s/ Glúten) (50g)",
+    "category_id": 191993,
+    "custom_code": null,
+    "atualizado_em": "2026-10-29T20:16:59.781Z"
+  },
+  "4325691": {
+    "id": 4325691,
+    "name": "Gotas de Cacau 70% (s/ Glúten) (50g)",
+    "category_id": 191993,
+    "custom_code": null,
+    "atualizado_em": "2026-10-30T15:55:39.223Z"
+  },
+  "4374056": {
+    "id": 4374056,
+    "name": "Cacau em Pó Comum (Zero Açúcar) (200g)",
+    "category_id": 191993,
+    "custom_code": null,
+    "atualizado_em": "2026-10-30T15:56:17.500Z"
+  },
+  "4374057": {
+    "id": 4374057,
+    "name": "Cacau em Pó Comum 70% (Meio Amargo) (200g)",
+    "category_id": 191993,
+    "custom_code": null,
+    "atualizado_em": "2026-10-29T20:16:29.003Z"
+  },
+  "4374077": {
+    "id": 4374077,
+    "name": "Óleo De Ojon Capilar e Facial 100% Puro - BellaPhytus (30ml)",
+    "category_id": 191999,
+    "custom_code": null,
+    "atualizado_em": "2026-10-30T15:59:21.141Z"
+  },
+  "4374081": {
+    "id": 4374081,
+    "name": "Óleo De Olíbano e Óleo De Ojon - BellaPhytus (30ml)",
+    "category_id": 191999,
+    "custom_code": null,
+    "atualizado_em": "2026-10-30T15:40:00.785Z"
+  },
+  "4374082": {
+    "id": 4374082,
+    "name": "Ellamamy Creme de Lanolina Bisnaga - BellaPhytus (50g)",
+    "category_id": 191999,
+    "custom_code": null,
+    "atualizado_em": "2026-10-30T15:39:58.018Z"
+  },
+  "4374090": {
+    "id": 4374090,
+    "name": "Óleo De Rosa Mosqueta Spray - BellaPhytus (30ml)",
+    "category_id": 191999,
+    "custom_code": null,
+    "atualizado_em": "2026-10-30T15:59:12.015Z"
+  },
+  "4374102": {
+    "id": 4374102,
+    "name": "Óleo De Rícino 100% Puro - BellaPhytus (30ml)",
+    "category_id": 191999,
+    "custom_code": null,
+    "atualizado_em": "2026-10-30T15:40:56.704Z"
+  },
+  "4374109": {
+    "id": 4374109,
+    "name": "Óleo de Babosa Aloe Vera - BellaPhytus (100ml)",
+    "category_id": 191999,
+    "custom_code": null,
+    "atualizado_em": "2026-10-30T15:59:23.834Z"
+  },
+  "4374113": {
+    "id": 4374113,
+    "name": "Óleo de Copaíba - BellaPhytus (30ml)",
+    "category_id": 191999,
+    "custom_code": null,
+    "atualizado_em": "2026-10-30T15:59:18.347Z"
+  },
+  "4433369": {
+    "id": 4433369,
+    "name": "Chips de Quiabo Liofilizado (50g)",
+    "category_id": 192019,
+    "custom_code": null,
+    "atualizado_em": "2026-10-29T17:29:32.364Z"
+  },
+  "4433589": {
+    "id": 4433589,
+    "name": "Chips Queijo Parmesão em Cubos (50g)",
+    "category_id": 192019,
+    "custom_code": null,
+    "atualizado_em": "2026-10-29T17:28:14.793Z"
+  },
+  "4532180": {
+    "id": 4532180,
+    "name": "Supra Colágeno Tipo 2 Ultra - Herbamed (60 caps.)",
+    "category_id": 192003,
+    "custom_code": null,
+    "atualizado_em": "2026-10-30T15:52:37.627Z"
+  },
+  "4577644": {
+    "id": 4577644,
+    "name": "Calcium Maxx D3 - Maxinutri (60 caps.)",
+    "category_id": 192003,
+    "custom_code": null,
+    "atualizado_em": "2026-10-30T15:54:39.947Z"
+  },
+  "4577648": {
+    "id": 4577648,
+    "name": "Nutricaps Mulher Polivitaminico - Maxinutri (60 caps.)",
+    "category_id": 192003,
+    "custom_code": null,
+    "atualizado_em": "2026-10-30T15:52:04.405Z"
+  },
+  "4586384": {
+    "id": 4586384,
+    "name": "Melaleuca Solução Aquosa - Bella Phytus (30ml)",
+    "category_id": 192035,
+    "custom_code": null,
+    "atualizado_em": "2026-10-29T17:59:57.699Z"
+  },
+  "4605726": {
+    "id": 4605726,
+    "name": "Rosa Mosqueta em Creme - Bella Phytus (100ml)",
+    "category_id": 192035,
+    "custom_code": null,
+    "atualizado_em": "2026-10-29T18:00:12.959Z"
+  },
+  "4605749": {
+    "id": 4605749,
+    "name": "Ômega 3-6-9 - Herbamed (60 caps. c/ 1000mg)",
+    "category_id": 192003,
+    "custom_code": null,
+    "atualizado_em": "2026-10-29T20:19:56.354Z"
+  },
+  "4605807": {
+    "id": 4605807,
+    "name": "Hair Skin Nails Vits. e Minerais - Herbamed (60 caps.)",
+    "category_id": 192003,
+    "custom_code": null,
+    "atualizado_em": "2026-10-30T15:52:34.542Z"
+  },
+  "4605876": {
+    "id": 4605876,
+    "name": "Ferro + Ácido Fólico + Vit. B12 - Nectar Plus (60 caps.)",
+    "category_id": 192003,
+    "custom_code": null,
+    "atualizado_em": "2026-10-29T20:20:20.224Z"
+  },
+  "4605882": {
+    "id": 4605882,
+    "name": "Óleo de Linhaça - Nectar Plus (80 caps.)",
+    "category_id": 192003,
+    "custom_code": null,
+    "atualizado_em": "2026-10-30T15:53:58.454Z"
+  },
+  "4605885": {
+    "id": 4605885,
+    "name": "Espinheira Santa - Nectar Plus (80 caps.)",
+    "category_id": 192003,
+    "custom_code": null,
+    "atualizado_em": "2026-10-30T15:51:45.198Z"
+  },
+  "4605888": {
+    "id": 4605888,
+    "name": "Óleo de Prímula - Nectar Plus (60 caps.)",
+    "category_id": 192003,
+    "custom_code": null,
+    "atualizado_em": "2026-10-29T20:19:19.569Z"
+  },
+  "4606304": {
+    "id": 4606304,
+    "name": "Barra de Proteína (Banoffe) - BOLD (21g)",
+    "category_id": 191995,
+    "custom_code": null,
+    "atualizado_em": "2026-10-29T20:21:32.573Z"
+  },
+  "4606309": {
+    "id": 4606309,
+    "name": "Barra de Proteína (Pistache) - BOLD (21g)",
+    "category_id": 191995,
+    "custom_code": null,
+    "atualizado_em": "2026-10-30T15:28:29.000Z"
+  },
+  "4606310": {
+    "id": 4606310,
+    "name": "Barra de Proteína (Cookies Black) - BOLD (21g)",
+    "category_id": 191995,
+    "custom_code": null,
+    "atualizado_em": "2026-10-29T20:21:26.945Z"
+  },
+  "4606314": {
+    "id": 4606314,
+    "name": "Barra de Proteína (Torta de Limão) - BOLD (21g)",
+    "category_id": 191995,
+    "custom_code": null,
+    "atualizado_em": "2026-10-29T20:21:21.426Z"
+  },
+  "4606319": {
+    "id": 4606319,
+    "name": "Barra de Proteína (Mousse de Maracujá) - BOLD (21g)",
+    "category_id": 191995,
+    "custom_code": null,
+    "atualizado_em": "2026-10-30T15:28:35.083Z"
+  },
+  "4607569": {
+    "id": 4607569,
+    "name": "Doce de Leite c/ Choc. (Cubos) (200g)",
+    "category_id": 191993,
+    "custom_code": null,
+    "atualizado_em": "2026-10-30T15:55:31.063Z"
+  },
+  "4607570": {
+    "id": 4607570,
+    "name": "Doce de Leite Zero Lactose (Cubos) (165g)",
+    "category_id": 191993,
+    "custom_code": null,
+    "atualizado_em": "2026-10-29T20:16:04.186Z"
+  },
+  "4607572": {
+    "id": 4607572,
+    "name": "Doce de Leite c/ Cocada (Cubos) (165g)",
+    "category_id": 191993,
+    "custom_code": null,
+    "atualizado_em": "2026-10-30T15:55:33.861Z"
+  },
+  "4607573": {
+    "id": 4607573,
+    "name": "Doce de Leite c/ Amendoim (Cubos) (200g)",
+    "category_id": 191993,
+    "custom_code": null,
+    "atualizado_em": "2026-10-29T20:16:00.502Z"
+  },
+  "4607574": {
+    "id": 4607574,
+    "name": "Doce de Leite c/ Ameixa (Cubos) (200g)",
+    "category_id": 191993,
+    "custom_code": null,
+    "atualizado_em": "2026-10-29T20:16:20.078Z"
   },
   "4630267": {
     "id": 4630267,
@@ -180,5 +5059,1405 @@
     "category_id": 192024,
     "custom_code": null,
     "atualizado_em": "2026-10-29T17:00:03.556Z"
+  },
+  "4644427": {
+    "id": 4644427,
+    "name": "Gastrin Composto - Nectar Plus (90 caps.)",
+    "category_id": 192003,
+    "custom_code": null,
+    "atualizado_em": "2026-10-30T15:51:29.330Z"
+  },
+  "4644431": {
+    "id": 4644431,
+    "name": "Calmazin - Nectar Plus (90 caps.)",
+    "category_id": 192003,
+    "custom_code": null,
+    "atualizado_em": "2026-10-29T20:20:02.258Z"
+  },
+  "4658686": {
+    "id": 4658686,
+    "name": "Elixir de Inhame (500ml)",
+    "category_id": 556648,
+    "custom_code": null,
+    "atualizado_em": "2026-10-30T15:41:36.737Z"
+  },
+  "4658687": {
+    "id": 4658687,
+    "name": "Golden Shot (un)",
+    "category_id": 562968,
+    "custom_code": null,
+    "atualizado_em": "2026-10-29T18:05:19.662Z"
+  },
+  "4658689": {
+    "id": 4658689,
+    "name": "Spray De Própolis Menta - Nectar Plus",
+    "category_id": 556648,
+    "custom_code": null,
+    "atualizado_em": "2026-10-30T15:41:39.661Z"
+  },
+  "4658690": {
+    "id": 4658690,
+    "name": "Pomada Canela de Velho (150g)",
+    "category_id": 556648,
+    "custom_code": null,
+    "atualizado_em": "2026-10-30T15:41:30.611Z"
+  },
+  "4658691": {
+    "id": 4658691,
+    "name": "Tintura De Algodoeiro (100ml)",
+    "category_id": 556648,
+    "custom_code": null,
+    "atualizado_em": "2026-10-30T15:41:33.477Z"
+  },
+  "4658692": {
+    "id": 4658692,
+    "name": "Extrato de Própolis Verde s/ Álcool - Apis Flora (30ml)",
+    "category_id": 556648,
+    "custom_code": null,
+    "atualizado_em": "2026-10-30T15:41:07.864Z"
+  },
+  "4658693": {
+    "id": 4658693,
+    "name": "Spray Extra Forte - Nectar Plus (35ml)",
+    "category_id": 556648,
+    "custom_code": null,
+    "atualizado_em": "2026-10-30T15:41:42.806Z"
+  },
+  "4658694": {
+    "id": 4658694,
+    "name": "Óleo De Rosa Mosqueta - Nectar Plus",
+    "category_id": 556648,
+    "custom_code": null,
+    "atualizado_em": "2026-10-30T15:41:45.750Z"
+  },
+  "4658695": {
+    "id": 4658695,
+    "name": "Melatonina Líquida Acalentus (15ml)",
+    "category_id": 556648,
+    "custom_code": null,
+    "atualizado_em": "2026-10-30T15:59:53.279Z"
+  },
+  "4658696": {
+    "id": 4658696,
+    "name": "Óleo de Rícino - Nectar Plus (30ml)",
+    "category_id": 556648,
+    "custom_code": null,
+    "atualizado_em": "2026-10-30T15:41:27.859Z"
+  },
+  "4658697": {
+    "id": 4658697,
+    "name": "Fibra Essencial Premium (325g)",
+    "category_id": 556648,
+    "custom_code": null,
+    "atualizado_em": "2026-10-30T15:41:25.166Z"
+  },
+  "4658698": {
+    "id": 4658698,
+    "name": "Óleo Essencial de Alecrim - Nectar Plus (15ml)",
+    "category_id": 556648,
+    "custom_code": null,
+    "atualizado_em": "2026-10-30T15:59:47.631Z"
+  },
+  "4658699": {
+    "id": 4658699,
+    "name": "Óleo Essencial de Eucalipto - Nectar Plus (15ml)",
+    "category_id": 556648,
+    "custom_code": null,
+    "atualizado_em": "2026-10-30T15:41:22.259Z"
+  },
+  "4658700": {
+    "id": 4658700,
+    "name": "Óleo Essencial de Hortelã - Nectar Plus (15ml)",
+    "category_id": 556648,
+    "custom_code": null,
+    "atualizado_em": "2026-10-30T15:41:16.441Z"
+  },
+  "4658701": {
+    "id": 4658701,
+    "name": "Óleo Vegetal de Copaíba - Nectar Plus (30ml)",
+    "category_id": 556648,
+    "custom_code": null,
+    "atualizado_em": "2026-10-30T15:41:19.110Z"
+  },
+  "4658704": {
+    "id": 4658704,
+    "name": "Antigripal Mega Turbo (220g)",
+    "category_id": 556648,
+    "custom_code": null,
+    "atualizado_em": "2026-10-30T15:59:42.081Z"
+  },
+  "4658706": {
+    "id": 4658706,
+    "name": "Polivitamínico Infantil Propomax Kids - Apis Flora (140ml)",
+    "category_id": 556648,
+    "custom_code": null,
+    "atualizado_em": "2026-10-30T15:41:13.756Z"
+  },
+  "4658707": {
+    "id": 4658707,
+    "name": "Natus Ervas (500ml)",
+    "category_id": 556648,
+    "custom_code": null,
+    "atualizado_em": "2026-10-30T15:41:10.814Z"
+  },
+  "4658708": {
+    "id": 4658708,
+    "name": "Extrato de Própolis Verde 70% - Apis Flora (30ml)",
+    "category_id": 556648,
+    "custom_code": null,
+    "atualizado_em": "2026-10-30T15:59:50.453Z"
+  },
+  "4658711": {
+    "id": 4658711,
+    "name": "Leite de Coco em Pó - Copra (100g)",
+    "category_id": 204573,
+    "custom_code": null,
+    "atualizado_em": "2026-10-29T17:45:06.916Z"
+  },
+  "4691180": {
+    "id": 4691180,
+    "name": "AVISO IMPORTANTE!",
+    "category_id": 561445,
+    "custom_code": null,
+    "atualizado_em": "2026-10-30T15:58:54.956Z"
+  },
+  "4703655": {
+    "id": 4703655,
+    "name": "Kit “Mulher Maravilha” (Energéticos Naturais)",
+    "category_id": 562968,
+    "custom_code": null,
+    "atualizado_em": "2026-10-29T18:06:09.883Z"
+  },
+  "4714635": {
+    "id": 4714635,
+    "name": "Kit “agora vai!” (O Milagroso + Mix de Fibras)",
+    "category_id": 562968,
+    "custom_code": null,
+    "atualizado_em": "2026-10-29T18:06:55.907Z"
+  },
+  "4714646": {
+    "id": 4714646,
+    "name": "Kit “Lanche do mês” (Granola + Pasta de Amendoim + Mix de Nuts + Chips de Macaxeira)",
+    "category_id": 562968,
+    "custom_code": null,
+    "atualizado_em": "2026-10-29T18:04:23.692Z"
+  },
+  "4714691": {
+    "id": 4714691,
+    "name": "Kit “Frutas chips” (Frutas + Legumes + Quiabo)",
+    "category_id": 562968,
+    "custom_code": null,
+    "atualizado_em": "2026-10-29T18:03:39.239Z"
+  },
+  "4714725": {
+    "id": 4714725,
+    "name": "Kit “Mix de  grãos” (10 grãos)",
+    "category_id": 562968,
+    "custom_code": null,
+    "atualizado_em": "2026-10-29T18:06:40.614Z"
+  },
+  "4714760": {
+    "id": 4714760,
+    "name": "Kit “soninho gostoso” (Ervas Calmantes)",
+    "category_id": 562968,
+    "custom_code": null,
+    "atualizado_em": "2026-10-29T18:05:49.971Z"
+  },
+  "4714806": {
+    "id": 4714806,
+    "name": "Kit “Libido, força e Vigor” (16 Energéticos Naturais)",
+    "category_id": 562968,
+    "custom_code": null,
+    "atualizado_em": "2026-10-29T18:07:16.088Z"
+  },
+  "4748470": {
+    "id": 4748470,
+    "name": "Cast. de Cajú c/ Leve Sal (1kg)",
+    "category_id": 192023,
+    "custom_code": null,
+    "atualizado_em": "2026-10-30T15:50:12.808Z"
+  },
+  "4748559": {
+    "id": 4748559,
+    "name": "Amendoim s/ Casca e s/ Sal (500g)",
+    "category_id": 192023,
+    "custom_code": null,
+    "atualizado_em": "2026-10-30T15:50:46.856Z"
+  },
+  "4750267": {
+    "id": 4750267,
+    "name": "Farinha de Linhaça Marrom (120g)",
+    "category_id": 192011,
+    "custom_code": null,
+    "atualizado_em": "2026-10-30T16:03:16.668Z"
+  },
+  "4750753": {
+    "id": 4750753,
+    "name": "Quinoa Branca em Flocos (100g)",
+    "category_id": 192011,
+    "custom_code": null,
+    "atualizado_em": "2026-10-30T15:43:42.566Z"
+  },
+  "4751427": {
+    "id": 4751427,
+    "name": "Extrato de Soja s/ Sabor (200g)",
+    "category_id": 192022,
+    "custom_code": null,
+    "atualizado_em": "2026-10-29T18:10:00.439Z"
+  },
+  "4751457": {
+    "id": 4751457,
+    "name": "Farinha de Aveia (450g)",
+    "category_id": 192011,
+    "custom_code": null,
+    "atualizado_em": "2026-10-30T15:43:17.073Z"
+  },
+  "4751458": {
+    "id": 4751458,
+    "name": "Farelo de Aveia (450g)",
+    "category_id": 192011,
+    "custom_code": null,
+    "atualizado_em": "2026-10-30T15:43:08.182Z"
+  },
+  "4751459": {
+    "id": 4751459,
+    "name": "Aveia em Flocos Grossos (450g)",
+    "category_id": 192011,
+    "custom_code": null,
+    "atualizado_em": "2026-10-30T16:03:25.797Z"
+  },
+  "4751460": {
+    "id": 4751460,
+    "name": "Aveia em Flocos Finos (450g)",
+    "category_id": 192011,
+    "custom_code": null,
+    "atualizado_em": "2026-10-30T15:42:52.242Z"
+  },
+  "4751463": {
+    "id": 4751463,
+    "name": "Leite de Coco Vegano em Pó (100g)",
+    "category_id": 192011,
+    "custom_code": null,
+    "atualizado_em": "2026-10-30T15:42:34.197Z"
+  },
+  "4751469": {
+    "id": 4751469,
+    "name": "Levedura Nutricional (100g)",
+    "category_id": 192011,
+    "custom_code": null,
+    "atualizado_em": "2026-10-30T15:42:56.214Z"
+  },
+  "4751471": {
+    "id": 4751471,
+    "name": "Fuba de milho “Temperada” (300g)",
+    "category_id": 192011,
+    "custom_code": null,
+    "atualizado_em": "2026-10-30T16:04:01.169Z"
+  },
+  "4751560": {
+    "id": 4751560,
+    "name": "Farinha de Aveia s/ Glúten - Vitalin (200g)",
+    "category_id": 192011,
+    "custom_code": null,
+    "atualizado_em": "2026-10-30T16:03:28.788Z"
+  },
+  "4751583": {
+    "id": 4751583,
+    "name": "Farinha de Arroz (250g)",
+    "category_id": 192011,
+    "custom_code": null,
+    "atualizado_em": "2026-10-30T16:03:32.638Z"
+  },
+  "4751601": {
+    "id": 4751601,
+    "name": "Farinha de Batata Doce (200g)",
+    "category_id": 192011,
+    "custom_code": null,
+    "atualizado_em": "2026-10-30T15:43:57.298Z"
+  },
+  "4751617": {
+    "id": 4751617,
+    "name": "Leite De Coco Vegano em Pó (300g)",
+    "category_id": 192011,
+    "custom_code": null,
+    "atualizado_em": "2026-10-30T15:42:36.998Z"
+  },
+  "4757543": {
+    "id": 4757543,
+    "name": "Limão Des. em Rodelas (35g)",
+    "category_id": 192021,
+    "custom_code": null,
+    "atualizado_em": "2026-10-29T17:16:37.457Z"
+  },
+  "4757572": {
+    "id": 4757572,
+    "name": "Caju Des. (Cajú Passa) (100g)",
+    "category_id": 192021,
+    "custom_code": null,
+    "atualizado_em": "2026-10-29T17:16:07.558Z"
+  },
+  "4757586": {
+    "id": 4757586,
+    "name": "Zimbro em Grãos (30g)",
+    "category_id": 192012,
+    "custom_code": null,
+    "atualizado_em": "2026-10-29T20:24:20.182Z"
+  },
+  "4795214": {
+    "id": 4795214,
+    "name": "OmegaFor Plus - Vitafor (60 caps.)",
+    "category_id": 192003,
+    "custom_code": null,
+    "atualizado_em": "2026-10-29T20:18:09.147Z"
+  },
+  "4795215": {
+    "id": 4795215,
+    "name": "Omegafor Plus - Vitafor (240 caps. c/ 1000mg)",
+    "category_id": 192003,
+    "custom_code": null,
+    "atualizado_em": "2026-10-29T20:19:50.699Z"
+  },
+  "4795216": {
+    "id": 4795216,
+    "name": "Ômegafor Plus - Vitafor (120 caps. c/ 1000mg)",
+    "category_id": 192003,
+    "custom_code": null,
+    "atualizado_em": "2026-10-29T20:20:04.998Z"
+  },
+  "4795217": {
+    "id": 4795217,
+    "name": "Simfort Plus - Vitafor (30 caps.)",
+    "category_id": 192003,
+    "custom_code": null,
+    "atualizado_em": "2026-10-30T15:54:43.377Z"
+  },
+  "4795219": {
+    "id": 4795219,
+    "name": "Sleepfor - Vitafor (60 caps.)",
+    "category_id": 192003,
+    "custom_code": null,
+    "atualizado_em": "2026-10-29T20:18:58.858Z"
+  },
+  "4795220": {
+    "id": 4795220,
+    "name": "Curcuma Plus - Vitafor (30 caps)",
+    "category_id": 192003,
+    "custom_code": null,
+    "atualizado_em": "2026-10-30T15:53:29.241Z"
+  },
+  "4795221": {
+    "id": 4795221,
+    "name": "Curcuma Plus Vitafor - (60 caps.)",
+    "category_id": 192003,
+    "custom_code": null,
+    "atualizado_em": "2026-10-30T15:53:35.441Z"
+  },
+  "4795222": {
+    "id": 4795222,
+    "name": "Colagentek II - Vitafor (60 caps.)",
+    "category_id": 192003,
+    "custom_code": null,
+    "atualizado_em": "2026-10-29T20:17:22.830Z"
+  },
+  "4795224": {
+    "id": 4795224,
+    "name": "Colagentek Protein - Vitafor (450g)",
+    "category_id": 577851,
+    "custom_code": null,
+    "atualizado_em": "2026-10-30T16:00:17.150Z"
+  },
+  "4795227": {
+    "id": 4795227,
+    "name": "Coenzima Q10 - Vitafor (120 caps.)",
+    "category_id": 192003,
+    "custom_code": null,
+    "atualizado_em": "2026-10-29T20:19:47.894Z"
+  },
+  "4795230": {
+    "id": 4795230,
+    "name": "Creatina (100% pura) - Vitafor (300g)",
+    "category_id": 577851,
+    "custom_code": null,
+    "atualizado_em": "2026-10-30T16:01:49.385Z"
+  },
+  "4795234": {
+    "id": 4795234,
+    "name": "Mega DHA - Vitafor (60 caps.)",
+    "category_id": 192003,
+    "custom_code": null,
+    "atualizado_em": "2026-10-29T20:19:53.648Z"
+  },
+  "4795235": {
+    "id": 4795235,
+    "name": "Magnésio Plus - Vitafor (90 caps.)",
+    "category_id": 192003,
+    "custom_code": null,
+    "atualizado_em": "2026-10-29T20:19:44.858Z"
+  },
+  "4795236": {
+    "id": 4795236,
+    "name": "Vit. D3 + K2 - Vitafor (20ml)",
+    "category_id": 192003,
+    "custom_code": null,
+    "atualizado_em": "2026-10-29T20:18:45.150Z"
+  },
+  "4795237": {
+    "id": 4795237,
+    "name": "Vit.D3 - Vitafor (30ml)",
+    "category_id": 192003,
+    "custom_code": null,
+    "atualizado_em": "2026-10-29T20:19:07.289Z"
+  },
+  "4795240": {
+    "id": 4795240,
+    "name": "Melatonina - Vitafor (20ml)",
+    "category_id": 192003,
+    "custom_code": null,
+    "atualizado_em": "2026-10-30T15:51:09.584Z"
+  },
+  "4795243": {
+    "id": 4795243,
+    "name": "Extrato de própolis - Vitafor (20ml)",
+    "category_id": 192003,
+    "custom_code": null,
+    "atualizado_em": "2026-10-29T20:18:34.032Z"
+  },
+  "4797450": {
+    "id": 4797450,
+    "name": "Ômega-GLA Triplo - Maxinutri (60 caps. c/ 1000mg)",
+    "category_id": 192003,
+    "custom_code": null,
+    "atualizado_em": "2026-10-30T15:52:43.693Z"
+  },
+  "4797505": {
+    "id": 4797505,
+    "name": "Testo Jack - Alphapure (60 caps.)",
+    "category_id": 192003,
+    "custom_code": null,
+    "atualizado_em": "2026-10-29T20:20:37.016Z"
+  },
+  "4808293": {
+    "id": 4808293,
+    "name": "Ômega 3 Ultra DHA (1600 DHA + 300 EPA) - Absolut (90 caps.)",
+    "category_id": 577851,
+    "custom_code": null,
+    "atualizado_em": "2026-10-30T16:01:36.645Z"
+  },
+  "4808354": {
+    "id": 4808354,
+    "name": "Colágeno em Pó - Absolut (300g)",
+    "category_id": 577851,
+    "custom_code": null,
+    "atualizado_em": "2026-10-30T16:01:02.855Z"
+  },
+  "4808384": {
+    "id": 4808384,
+    "name": "Creatina (100% pura) - Absolut (150g)",
+    "category_id": 577851,
+    "custom_code": null,
+    "atualizado_em": "2026-10-30T16:02:12.395Z"
+  },
+  "4808391": {
+    "id": 4808391,
+    "name": "Glutamina - Absolut (150g)",
+    "category_id": 577851,
+    "custom_code": null,
+    "atualizado_em": "2026-10-30T16:00:44.406Z"
+  },
+  "4808397": {
+    "id": 4808397,
+    "name": "Glutamina - Absolut (300g)",
+    "category_id": 577851,
+    "custom_code": null,
+    "atualizado_em": "2026-10-30T16:00:03.329Z"
+  },
+  "4808443": {
+    "id": 4808443,
+    "name": "Pasta de Amendoim c/ Whey - Absolut (500g)",
+    "category_id": 192020,
+    "custom_code": null,
+    "atualizado_em": "2026-10-30T15:29:42.924Z"
+  },
+  "4808471": {
+    "id": 4808471,
+    "name": "Pré Treino Body - Absolut (200g)",
+    "category_id": 577851,
+    "custom_code": null,
+    "atualizado_em": "2026-10-30T16:02:05.667Z"
+  },
+  "4808487": {
+    "id": 4808487,
+    "name": "Whey 100% Zero Lactose - Absolut (900g)",
+    "category_id": 577851,
+    "custom_code": null,
+    "atualizado_em": "2026-10-30T16:07:05.849Z"
+  },
+  "4808503": {
+    "id": 4808503,
+    "name": "Whey High (Pote)  - Absolut (900g)",
+    "category_id": 577851,
+    "custom_code": null,
+    "atualizado_em": "2026-10-30T16:00:51.433Z"
+  },
+  "4808522": {
+    "id": 4808522,
+    "name": "Whey 3W Minot (Refil) - Absolut (900g)",
+    "category_id": 577851,
+    "custom_code": null,
+    "atualizado_em": "2026-10-30T16:01:59.079Z"
+  },
+  "4808587": {
+    "id": 4808587,
+    "name": "Whey High (Refil) - Absolut (900g)",
+    "category_id": 577851,
+    "custom_code": null,
+    "atualizado_em": "2026-10-30T16:00:58.295Z"
+  },
+  "4808789": {
+    "id": 4808789,
+    "name": "Hipercalórico - Absolut (3Kg)",
+    "category_id": 577851,
+    "custom_code": null,
+    "atualizado_em": "2026-10-30T16:01:06.505Z"
+  },
+  "4808801": {
+    "id": 4808801,
+    "name": "Creatina (100% pura) - Absolut (300g)",
+    "category_id": 577851,
+    "custom_code": null,
+    "atualizado_em": "2026-10-30T16:02:08.555Z"
+  },
+  "4809618": {
+    "id": 4809618,
+    "name": "Kit “Super treino” (Creatina + Pré Treino)",
+    "category_id": 562968,
+    "custom_code": null,
+    "atualizado_em": "2026-10-29T18:04:53.201Z"
+  },
+  "4810742": {
+    "id": 4810742,
+    "name": "Isofort Plant - Vitafor (450g)",
+    "category_id": 577851,
+    "custom_code": null,
+    "atualizado_em": "2026-10-30T16:01:39.711Z"
+  },
+  "4817312": {
+    "id": 4817312,
+    "name": "Iso Beef - Absolut (900g)",
+    "category_id": 577851,
+    "custom_code": null,
+    "atualizado_em": "2026-10-30T16:01:54.009Z"
+  },
+  "4822326": {
+    "id": 4822326,
+    "name": "Chips de Queijo Parmesão (Pedaços) (50g)",
+    "category_id": 192019,
+    "custom_code": null,
+    "atualizado_em": "2026-10-29T17:34:54.134Z"
+  },
+  "4822329": {
+    "id": 4822329,
+    "name": "Chips de Queijo do Reino c/ Goiabada (50g)",
+    "category_id": 192019,
+    "custom_code": null,
+    "atualizado_em": "2026-10-29T17:33:40.507Z"
+  },
+  "4822336": {
+    "id": 4822336,
+    "name": "Chips de Queijo Provolone c/ Goiabada (50g)",
+    "category_id": 192019,
+    "custom_code": null,
+    "atualizado_em": "2026-10-29T17:34:07.764Z"
+  },
+  "4834978": {
+    "id": 4834978,
+    "name": "Farelo de aveia s/gluten Vitalin (200g)",
+    "category_id": 192011,
+    "custom_code": null,
+    "atualizado_em": "2026-10-30T15:42:01.687Z"
+  },
+  "4843429": {
+    "id": 4843429,
+    "name": "Cardamomo Bagas (25g)",
+    "category_id": 192004,
+    "custom_code": null,
+    "atualizado_em": "2026-10-29T18:15:31.519Z"
+  },
+  "4843431": {
+    "id": 4843431,
+    "name": "Cardamomo Bagas (25g) (Cópia)",
+    "category_id": 192011,
+    "custom_code": null,
+    "atualizado_em": "2026-10-30T15:42:39.731Z"
+  },
+  "4846196": {
+    "id": 4846196,
+    "name": "Farinha de grão de bico (200g)",
+    "category_id": 192011,
+    "custom_code": null,
+    "atualizado_em": "2026-10-30T15:42:42.632Z"
+  },
+  "4872390": {
+    "id": 4872390,
+    "name": "Chips de Kiwi liofilizado (50g)",
+    "category_id": 192019,
+    "custom_code": null,
+    "atualizado_em": "2026-10-29T17:29:05.545Z"
+  },
+  "4894693": {
+    "id": 4894693,
+    "name": "TORRADA DE (INHAME) 250G",
+    "category_id": 320575,
+    "custom_code": null,
+    "atualizado_em": "2026-10-29T17:27:17.551Z"
+  },
+  "4913398": {
+    "id": 4913398,
+    "name": "Goma Xantana (50g)",
+    "category_id": 192011,
+    "custom_code": null,
+    "atualizado_em": "2026-10-30T15:44:12.525Z"
+  },
+  "4927115": {
+    "id": 4927115,
+    "name": "Açai em Pó (50g)",
+    "category_id": 192022,
+    "custom_code": null,
+    "atualizado_em": "2026-10-29T18:14:20.014Z"
+  },
+  "4965765": {
+    "id": 4965765,
+    "name": "Funcho (30g)",
+    "category_id": 192004,
+    "custom_code": null,
+    "atualizado_em": "2026-10-29T20:15:35.064Z"
+  },
+  "5005338": {
+    "id": 5005338,
+    "name": "Levedo Cerveja (50g)",
+    "category_id": 192022,
+    "custom_code": null,
+    "atualizado_em": "2026-10-29T18:10:23.038Z"
+  },
+  "5041123": {
+    "id": 5041123,
+    "name": "Tempero Chimichurri s/ Pimenta - Sachê (20g)",
+    "category_id": 606358,
+    "custom_code": null,
+    "atualizado_em": "2026-10-30T15:44:17.412Z"
+  },
+  "5041129": {
+    "id": 5041129,
+    "name": "Tempero Agarra Marido - Sachê (20g)",
+    "category_id": 606358,
+    "custom_code": null,
+    "atualizado_em": "2026-10-30T15:44:47.204Z"
+  },
+  "5041134": {
+    "id": 5041134,
+    "name": "Tempero do Edu - Sachê (20g)",
+    "category_id": 606358,
+    "custom_code": null,
+    "atualizado_em": "2026-10-30T15:44:30.206Z"
+  },
+  "5041138": {
+    "id": 5041138,
+    "name": "Alho Frito - Sachê (20g)",
+    "category_id": 606358,
+    "custom_code": null,
+    "atualizado_em": "2026-10-30T15:46:22.200Z"
+  },
+  "5041142": {
+    "id": 5041142,
+    "name": "Alho Desidratado Granulado - Sachê (20g)",
+    "category_id": 606358,
+    "custom_code": null,
+    "atualizado_em": "2026-10-30T15:44:40.975Z"
+  },
+  "5041150": {
+    "id": 5041150,
+    "name": "Tempero Ana Maria - Sachê (20g)",
+    "category_id": 606358,
+    "custom_code": null,
+    "atualizado_em": "2026-10-30T15:44:37.448Z"
+  },
+  "5041153": {
+    "id": 5041153,
+    "name": "Tempero Baiano - Sachê (20g)",
+    "category_id": 606358,
+    "custom_code": null,
+    "atualizado_em": "2026-10-30T15:46:09.303Z"
+  },
+  "5041159": {
+    "id": 5041159,
+    "name": "Bicarbonato de Sódio (Alimentar) - Sachê (40g)",
+    "category_id": 606358,
+    "custom_code": null,
+    "atualizado_em": "2026-10-30T15:44:53.410Z"
+  },
+  "5041160": {
+    "id": 5041160,
+    "name": "Tempero Campinote - Sachê (20g)",
+    "category_id": 606358,
+    "custom_code": null,
+    "atualizado_em": "2026-10-30T15:44:33.049Z"
+  },
+  "5041162": {
+    "id": 5041162,
+    "name": "Cebola e Alho Desidratados - Sachê (20g)",
+    "category_id": 606358,
+    "custom_code": null,
+    "atualizado_em": "2026-10-30T15:44:22.665Z"
+  },
+  "5041187": {
+    "id": 5041187,
+    "name": "Cebola Desidratada - Sachê (20g)",
+    "category_id": 606358,
+    "custom_code": null,
+    "atualizado_em": "2026-10-30T15:45:10.382Z"
+  },
+  "5041188": {
+    "id": 5041188,
+    "name": "Tempero Cebola, Alho e Salsa - Sachê (20g)",
+    "category_id": 606358,
+    "custom_code": null,
+    "atualizado_em": "2026-10-30T16:04:07.022Z"
+  },
+  "5041190": {
+    "id": 5041190,
+    "name": "Tempero Churras - Sachê (20g)",
+    "category_id": 606358,
+    "custom_code": null,
+    "atualizado_em": "2026-10-30T15:45:25.218Z"
+  },
+  "5041196": {
+    "id": 5041196,
+    "name": "Colorau Extra s/ Sal - Sachê (30g)",
+    "category_id": 606358,
+    "custom_code": null,
+    "atualizado_em": "2026-10-30T15:45:44.319Z"
+  },
+  "5041198": {
+    "id": 5041198,
+    "name": "Creme de Cebola - Sachê (20g)",
+    "category_id": 606358,
+    "custom_code": null,
+    "atualizado_em": "2026-10-30T15:45:17.736Z"
+  },
+  "5041204": {
+    "id": 5041204,
+    "name": "Tempero Curry - Sachê (20g)",
+    "category_id": 606358,
+    "custom_code": null,
+    "atualizado_em": "2026-10-30T15:45:59.475Z"
+  },
+  "5041205": {
+    "id": 5041205,
+    "name": "Cúrcuma Pura (Açafrão da Terra) - Sachê (20g)",
+    "category_id": 606358,
+    "custom_code": null,
+    "atualizado_em": "2026-10-30T15:45:38.293Z"
+  },
+  "5041210": {
+    "id": 5041210,
+    "name": "Tempero Donalita - Sachê (20g)",
+    "category_id": 606358,
+    "custom_code": null,
+    "atualizado_em": "2026-10-30T15:45:05.757Z"
+  },
+  "5041211": {
+    "id": 5041211,
+    "name": "Tempero Dry Rub - Sachê (20g)",
+    "category_id": 606358,
+    "custom_code": null,
+    "atualizado_em": "2026-10-30T15:45:34.280Z"
+  },
+  "5041213": {
+    "id": 5041213,
+    "name": "Tempero Ervas Finas - Sachê (20g)",
+    "category_id": 606358,
+    "custom_code": null,
+    "atualizado_em": "2026-10-30T15:44:50.435Z"
+  },
+  "5041221": {
+    "id": 5041221,
+    "name": "Tempero Lemon Ervas - Sachê (20g)",
+    "category_id": 606358,
+    "custom_code": null,
+    "atualizado_em": "2026-10-30T15:44:43.911Z"
+  },
+  "5041229": {
+    "id": 5041229,
+    "name": "Tempero Lemon Pepper - Sachê (20g)",
+    "category_id": 606358,
+    "custom_code": null,
+    "atualizado_em": "2026-10-30T15:45:00.594Z"
+  },
+  "5041231": {
+    "id": 5041231,
+    "name": "Tempero Mix de Arroz - Sachê (20g)",
+    "category_id": 606358,
+    "custom_code": null,
+    "atualizado_em": "2026-10-30T15:44:27.185Z"
+  },
+  "5041235": {
+    "id": 5041235,
+    "name": "Orégano - Sachê (20g)",
+    "category_id": 606358,
+    "custom_code": null,
+    "atualizado_em": "2026-10-30T15:44:56.316Z"
+  },
+  "5043216": {
+    "id": 5043216,
+    "name": "Cominho c/ Pimenta do Reino Moídos - Sachê (20g)",
+    "category_id": 606358,
+    "custom_code": null,
+    "atualizado_em": "2026-10-30T15:46:48.724Z"
+  },
+  "5043218": {
+    "id": 5043218,
+    "name": "Cominho Moído - Sachê (20g)",
+    "category_id": 606358,
+    "custom_code": null,
+    "atualizado_em": "2026-10-30T15:46:51.780Z"
+  },
+  "5043220": {
+    "id": 5043220,
+    "name": "Tempero Fumaça em Pó - Sachê (20g)",
+    "category_id": 606358,
+    "custom_code": null,
+    "atualizado_em": "2026-10-30T15:46:42.508Z"
+  },
+  "5043222": {
+    "id": 5043222,
+    "name": "Louro em Folhas - Sachê (10g)",
+    "category_id": 606358,
+    "custom_code": null,
+    "atualizado_em": "2026-10-30T15:46:45.785Z"
+  },
+  "5043223": {
+    "id": 5043223,
+    "name": "Pimenta do Reino em Grãos - Sachê (20g)",
+    "category_id": 606358,
+    "custom_code": null,
+    "atualizado_em": "2026-10-30T15:46:32.808Z"
+  },
+  "5043227": {
+    "id": 5043227,
+    "name": "Salsa Desidratada - Sachê (10g)",
+    "category_id": 606358,
+    "custom_code": null,
+    "atualizado_em": "2026-10-30T15:47:04.086Z"
+  },
+  "5043235": {
+    "id": 5043235,
+    "name": "Coentro Moído - Sachê (20g)",
+    "category_id": 606358,
+    "custom_code": null,
+    "atualizado_em": "2026-10-30T15:47:01.185Z"
+  },
+  "5043240": {
+    "id": 5043240,
+    "name": "Páprica Defumada - Sachê (20g)",
+    "category_id": 606358,
+    "custom_code": null,
+    "atualizado_em": "2026-10-30T15:46:17.629Z"
+  },
+  "5043243": {
+    "id": 5043243,
+    "name": "Páprica Picante - Sachê (20g)",
+    "category_id": 606358,
+    "custom_code": null,
+    "atualizado_em": "2026-10-30T15:47:34.922Z"
+  },
+  "5043246": {
+    "id": 5043246,
+    "name": "Páprica Doce - Sachê (20g)",
+    "category_id": 606358,
+    "custom_code": null,
+    "atualizado_em": "2026-10-30T15:47:47.611Z"
+  },
+  "5043247": {
+    "id": 5043247,
+    "name": "Pimenta Calabresa - Sachê (20g)",
+    "category_id": 606358,
+    "custom_code": null,
+    "atualizado_em": "2026-10-30T15:47:22.548Z"
+  },
+  "5043250": {
+    "id": 5043250,
+    "name": "Tempero Sea Gold - Sachê (20g)",
+    "category_id": 606358,
+    "custom_code": null,
+    "atualizado_em": "2026-10-30T15:48:17.791Z"
+  },
+  "5043253": {
+    "id": 5043253,
+    "name": "Tempero TSN - Sachê (20g)",
+    "category_id": 606358,
+    "custom_code": null,
+    "atualizado_em": "2026-10-30T15:48:20.635Z"
+  },
+  "5043275": {
+    "id": 5043275,
+    "name": "Boldo do Chile - Sachê (8g)",
+    "category_id": 606358,
+    "custom_code": null,
+    "atualizado_em": "2026-10-30T15:47:53.335Z"
+  },
+  "5043276": {
+    "id": 5043276,
+    "name": "Camomila - Sachê (10g)",
+    "category_id": 606358,
+    "custom_code": null,
+    "atualizado_em": "2026-10-30T15:47:25.392Z"
+  },
+  "5043279": {
+    "id": 5043279,
+    "name": "Canela em Casca - Sachê (14g)",
+    "category_id": 606358,
+    "custom_code": null,
+    "atualizado_em": "2026-10-30T15:47:41.911Z"
+  },
+  "5043280": {
+    "id": 5043280,
+    "name": "Canela em Pó - Sachê (25g)",
+    "category_id": 606358,
+    "custom_code": null,
+    "atualizado_em": "2026-10-30T15:47:50.223Z"
+  },
+  "5043281": {
+    "id": 5043281,
+    "name": "Capim Santo - Sachê (10g)",
+    "category_id": 606358,
+    "custom_code": null,
+    "atualizado_em": "2026-10-30T15:48:00.165Z"
+  },
+  "5043283": {
+    "id": 5043283,
+    "name": "Cravo em Grãos - Sachê (12g)",
+    "category_id": 606358,
+    "custom_code": null,
+    "atualizado_em": "2026-10-30T15:47:57.321Z"
+  },
+  "5043287": {
+    "id": 5043287,
+    "name": "Erva Doce em Grãos - Sachê (25g)",
+    "category_id": 606358,
+    "custom_code": null,
+    "atualizado_em": "2026-10-30T15:47:44.715Z"
+  },
+  "5043288": {
+    "id": 5043288,
+    "name": "Hortelã Desidratado - Sachê (10g)",
+    "category_id": 606358,
+    "custom_code": null,
+    "atualizado_em": "2026-10-30T15:48:07.297Z"
+  },
+  "5043291": {
+    "id": 5043291,
+    "name": "Melissa (Cidreira) - Sachê (8g)",
+    "category_id": 606358,
+    "custom_code": null,
+    "atualizado_em": "2026-10-30T15:48:12.163Z"
+  },
+  "5043299": {
+    "id": 5043299,
+    "name": "Alecrim Desidratado - Sachê (10g)",
+    "category_id": 606358,
+    "custom_code": null,
+    "atualizado_em": "2026-10-30T15:48:03.770Z"
+  },
+  "5043301": {
+    "id": 5043301,
+    "name": "Alecrim des. (sachê 10g)",
+    "category_id": 192004,
+    "custom_code": null,
+    "atualizado_em": "2026-10-29T18:21:37.167Z"
+  },
+  "5043302": {
+    "id": 5043302,
+    "name": "Melissa (cidreira) (sachê 8g)",
+    "category_id": 192004,
+    "custom_code": null,
+    "atualizado_em": "2026-10-29T18:21:00.723Z"
+  },
+  "5043303": {
+    "id": 5043303,
+    "name": "Hortelã des. (sachê 10g)",
+    "category_id": 192004,
+    "custom_code": null,
+    "atualizado_em": "2026-10-29T18:20:27.418Z"
+  },
+  "5043304": {
+    "id": 5043304,
+    "name": "Erva doce em grãos (sachê 25g)",
+    "category_id": 192004,
+    "custom_code": null,
+    "atualizado_em": "2026-10-29T18:22:39.686Z"
+  },
+  "5043305": {
+    "id": 5043305,
+    "name": "Cravo em grãos (sachê 12g)",
+    "category_id": 192004,
+    "custom_code": null,
+    "atualizado_em": "2026-10-29T18:20:39.802Z"
+  },
+  "5043308": {
+    "id": 5043308,
+    "name": "Capim santo (sachê 10g)",
+    "category_id": 192004,
+    "custom_code": null,
+    "atualizado_em": "2026-10-29T20:15:29.504Z"
+  },
+  "5043310": {
+    "id": 5043310,
+    "name": "Canela em pó (sachê 25g)",
+    "category_id": 192004,
+    "custom_code": null,
+    "atualizado_em": "2026-10-29T20:15:32.306Z"
+  },
+  "5043312": {
+    "id": 5043312,
+    "name": "Canela em casca (sachê 14g)",
+    "category_id": 192004,
+    "custom_code": null,
+    "atualizado_em": "2026-10-29T18:20:33.192Z"
+  },
+  "5043314": {
+    "id": 5043314,
+    "name": "Camomila (sachê 10g)",
+    "category_id": 192004,
+    "custom_code": null,
+    "atualizado_em": "2026-10-29T20:15:26.855Z"
+  },
+  "5043328": {
+    "id": 5043328,
+    "name": "Boldo (sachê 8g)",
+    "category_id": 192004,
+    "custom_code": null,
+    "atualizado_em": "2026-10-29T20:15:37.910Z"
+  },
+  "5043348": {
+    "id": 5043348,
+    "name": "Canela em pó (sachê 25g)",
+    "category_id": 192012,
+    "custom_code": null,
+    "atualizado_em": "2026-10-30T15:35:23.847Z"
+  },
+  "5043351": {
+    "id": 5043351,
+    "name": "Louro em folhas (sachê 10g)",
+    "category_id": 192012,
+    "custom_code": null,
+    "atualizado_em": "2026-10-30T15:35:49.187Z"
+  },
+  "5043356": {
+    "id": 5043356,
+    "name": "Tempero Costelinha - Sachê (20g)",
+    "category_id": 606358,
+    "custom_code": null,
+    "atualizado_em": "2026-10-30T15:46:14.918Z"
+  },
+  "5176465": {
+    "id": 5176465,
+    "name": "Damasco banhado c/ cacau 70% (s/Gluten) (50g)",
+    "category_id": 191993,
+    "custom_code": null,
+    "atualizado_em": "2026-10-29T20:16:34.526Z"
+  },
+  "5177740": {
+    "id": 5177740,
+    "name": "Morango Liofilizado Banhado c/ Cacau 70% (s/ Glúten e s/ lactose) (50g)",
+    "category_id": 191993,
+    "custom_code": null,
+    "atualizado_em": "2026-10-29T20:16:56.887Z"
+  },
+  "5179410": {
+    "id": 5179410,
+    "name": "Chá-Verde 250mg 60 Cápsulas FortLife",
+    "category_id": 192003,
+    "custom_code": null,
+    "atualizado_em": "2026-10-29T20:20:31.574Z"
+  },
+  "5179580": {
+    "id": 5179580,
+    "name": "Ginkgo Biloba 120mg 60 Cápsulas Fortlife - Fortlife Pharma",
+    "category_id": 192003,
+    "custom_code": null,
+    "atualizado_em": "2026-10-29T20:20:34.307Z"
+  },
+  "5179643": {
+    "id": 5179643,
+    "name": "Silimarina 250mg 60 Cápsulas - Fortlife",
+    "category_id": 192003,
+    "custom_code": null,
+    "atualizado_em": "2026-10-29T20:20:28.641Z"
+  },
+  "5256657": {
+    "id": 5256657,
+    "name": "CASTANHA DA INDIA 80 CAPS",
+    "category_id": 192003,
+    "custom_code": null,
+    "atualizado_em": "2026-10-30T15:51:12.413Z"
+  },
+  "5266590": {
+    "id": 5266590,
+    "name": "Bicarbonato de Sódio (Alimentar) - Sachê (40g)",
+    "category_id": 192012,
+    "custom_code": null,
+    "atualizado_em": "2026-10-30T15:32:48.315Z"
+  },
+  "5266591": {
+    "id": 5266591,
+    "name": "Tempero Costelinha s/gluten - Sachê (20g)",
+    "category_id": 192012,
+    "custom_code": null,
+    "atualizado_em": "2026-10-30T15:33:01.692Z"
+  },
+  "5266593": {
+    "id": 5266593,
+    "name": "Creme de Cebola s/gluten- Sachê (20g)",
+    "category_id": 192012,
+    "custom_code": null,
+    "atualizado_em": "2026-10-30T15:30:16.251Z"
+  },
+  "5266594": {
+    "id": 5266594,
+    "name": "Tempero Chimichurri s/ Pimenta - Sachê (20g)",
+    "category_id": 192012,
+    "custom_code": null,
+    "atualizado_em": "2026-10-30T15:31:41.293Z"
+  },
+  "5266596": {
+    "id": 5266596,
+    "name": "Tempero do Edu - Sachê (20g)",
+    "category_id": 192012,
+    "custom_code": null,
+    "atualizado_em": "2026-10-29T20:25:27.597Z"
+  },
+  "5266598": {
+    "id": 5266598,
+    "name": "Tempero Ana Maria - Sachê (20g)",
+    "category_id": 192012,
+    "custom_code": null,
+    "atualizado_em": "2026-10-30T15:31:26.900Z"
+  },
+  "5266599": {
+    "id": 5266599,
+    "name": "Tempero TSN - Sachê (20g)",
+    "category_id": 192012,
+    "custom_code": null,
+    "atualizado_em": "2026-10-29T20:25:30.388Z"
+  },
+  "5266600": {
+    "id": 5266600,
+    "name": "Tempero Donalita - Sachê (20g)",
+    "category_id": 192012,
+    "custom_code": null,
+    "atualizado_em": "2026-10-30T15:30:24.012Z"
+  },
+  "5266602": {
+    "id": 5266602,
+    "name": "Tempero Ervas Finas - Sachê (20g)",
+    "category_id": 192012,
+    "custom_code": null,
+    "atualizado_em": "2026-10-30T15:35:13.026Z"
+  },
+  "5266605": {
+    "id": 5266605,
+    "name": "Cebola, Alho e Salsa - Sachê (20g)",
+    "category_id": 192012,
+    "custom_code": null,
+    "atualizado_em": "2026-10-30T15:30:52.141Z"
+  },
+  "5266607": {
+    "id": 5266607,
+    "name": "Cebola e Alho Desidratados - Sachê (20g)",
+    "category_id": 192012,
+    "custom_code": null,
+    "atualizado_em": "2026-10-30T15:32:15.297Z"
+  },
+  "5266608": {
+    "id": 5266608,
+    "name": "Cebola Desidratada em flocos - Sachê (20g)",
+    "category_id": 192012,
+    "custom_code": null,
+    "atualizado_em": "2026-10-29T20:25:33.228Z"
+  },
+  "5266609": {
+    "id": 5266609,
+    "name": "Alho Desidratado Granulado - Sachê (20g)",
+    "category_id": 192012,
+    "custom_code": null,
+    "atualizado_em": "2026-10-29T20:24:48.811Z"
+  },
+  "5266610": {
+    "id": 5266610,
+    "name": "Alho Frito - Sachê (20g)",
+    "category_id": 192012,
+    "custom_code": null,
+    "atualizado_em": "2026-10-30T15:30:58.752Z"
+  },
+  "5266611": {
+    "id": 5266611,
+    "name": "Cúrcuma Pura (Açafrão da Terra) - Sachê (20g)",
+    "category_id": 192012,
+    "custom_code": null,
+    "atualizado_em": "2026-10-30T15:32:11.571Z"
+  },
+  "5266613": {
+    "id": 5266613,
+    "name": "Páprica Doce - Sachê (20g)",
+    "category_id": 192012,
+    "custom_code": null,
+    "atualizado_em": "2026-10-30T15:31:36.300Z"
+  },
+  "5266615": {
+    "id": 5266615,
+    "name": "Páprica Picante - Sachê (20g)",
+    "category_id": 192012,
+    "custom_code": null,
+    "atualizado_em": "2026-10-29T20:26:06.503Z"
+  },
+  "5266617": {
+    "id": 5266617,
+    "name": "Páprica Defumada - Sachê (20g)",
+    "category_id": 192012,
+    "custom_code": null,
+    "atualizado_em": "2026-10-29T20:24:45.862Z"
+  },
+  "5266620": {
+    "id": 5266620,
+    "name": "Colorau Extra s/ Sal - Sachê (30g)",
+    "category_id": 192012,
+    "custom_code": null,
+    "atualizado_em": "2026-10-29T20:24:54.314Z"
+  },
+  "5266621": {
+    "id": 5266621,
+    "name": "Tempero Fumaça em Pó - Sachê (20g)",
+    "category_id": 192012,
+    "custom_code": null,
+    "atualizado_em": "2026-10-29T20:26:54.958Z"
+  },
+  "5266623": {
+    "id": 5266623,
+    "name": "Tempero Churras - Sachê (20g)",
+    "category_id": 192012,
+    "custom_code": null,
+    "atualizado_em": "2026-10-29T20:24:28.568Z"
+  },
+  "5266624": {
+    "id": 5266624,
+    "name": "Tempero Lemon Pepper - Sachê (20g)",
+    "category_id": 192012,
+    "custom_code": null,
+    "atualizado_em": "2026-10-30T15:31:03.396Z"
+  },
+  "5266625": {
+    "id": 5266625,
+    "name": "Tempero Lemon Ervas - Sachê (20g)",
+    "category_id": 192012,
+    "custom_code": null,
+    "atualizado_em": "2026-10-29T20:25:36.051Z"
+  },
+  "5266626": {
+    "id": 5266626,
+    "name": "Tempero Baiano - Sachê (20g)",
+    "category_id": 192012,
+    "custom_code": null,
+    "atualizado_em": "2026-10-29T20:25:38.963Z"
+  },
+  "5266628": {
+    "id": 5266628,
+    "name": "Tempero Campinote - Sachê (20g)",
+    "category_id": 192012,
+    "custom_code": null,
+    "atualizado_em": "2026-10-29T20:25:47.222Z"
+  },
+  "5266631": {
+    "id": 5266631,
+    "name": "Tempero Mix de Arroz - Sachê (20g)",
+    "category_id": 192012,
+    "custom_code": null,
+    "atualizado_em": "2026-10-29T20:25:51.214Z"
+  },
+  "5266632": {
+    "id": 5266632,
+    "name": "Orégano - Sachê (20g)",
+    "category_id": 192012,
+    "custom_code": null,
+    "atualizado_em": "2026-10-29T20:24:22.803Z"
+  },
+  "5266633": {
+    "id": 5266633,
+    "name": "Cominho c/ Pimenta do Reino Moídos - Sachê (20g)",
+    "category_id": 192012,
+    "custom_code": null,
+    "atualizado_em": "2026-10-29T20:26:57.835Z"
+  },
+  "5266634": {
+    "id": 5266634,
+    "name": "Cominho Moído puro - Sachê (20g)",
+    "category_id": 192012,
+    "custom_code": null,
+    "atualizado_em": "2026-10-30T15:34:48.520Z"
+  },
+  "5266638": {
+    "id": 5266638,
+    "name": "Pimenta do Reino em Grãos - Sachê (20g)",
+    "category_id": 192012,
+    "custom_code": null,
+    "atualizado_em": "2026-10-29T20:24:31.185Z"
+  },
+  "5266639": {
+    "id": 5266639,
+    "name": "Pimenta Calabresa - Sachê (20g)",
+    "category_id": 192012,
+    "custom_code": null,
+    "atualizado_em": "2026-10-30T15:31:06.162Z"
+  },
+  "5266640": {
+    "id": 5266640,
+    "name": "Salsa Desidratada - Sachê (10g) (Cópia)",
+    "category_id": 192012,
+    "custom_code": null,
+    "atualizado_em": "2026-10-30T15:34:53.442Z"
+  },
+  "5266643": {
+    "id": 5266643,
+    "name": "Coentro Moído(semente de coentro moída) - Sachê (20g)",
+    "category_id": 192012,
+    "custom_code": null,
+    "atualizado_em": "2026-10-30T15:34:58.174Z"
+  },
+  "5266645": {
+    "id": 5266645,
+    "name": "Tempero Sea Gold(para peixe e frutos do mar) Sachê (20g)",
+    "category_id": 192012,
+    "custom_code": null,
+    "atualizado_em": "2026-10-30T15:31:44.227Z"
+  },
+  "5266681": {
+    "id": 5266681,
+    "name": "Tempero Agarra Marido - Sachê (20g)",
+    "category_id": 192012,
+    "custom_code": null,
+    "atualizado_em": "2026-10-29T20:25:41.832Z"
+  },
+  "5266838": {
+    "id": 5266838,
+    "name": "Tempero Dry Rub - Sachê (20g)",
+    "category_id": 192012,
+    "custom_code": null,
+    "atualizado_em": "2026-10-29T20:26:52.037Z"
+  },
+  "5285453": {
+    "id": 5285453,
+    "name": "Creatina Hardcore Integralmedica 300g",
+    "category_id": 192003,
+    "custom_code": null,
+    "atualizado_em": "2026-10-29T20:20:25.833Z"
   }
 }
