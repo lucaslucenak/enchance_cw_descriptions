@@ -10,7 +10,7 @@ dotenv.config();
 // CONFIGURAÇÕES E CREDENCIAIS
 // ==========================================
 const CARDAPIO_WEB_BASE = 'https://api.cardapioweb.com/api/v1';
-const COMPANY_ID = process.env.CARDAPIO_WEB_COMPANY_ID || '61766';
+const COMPANY_ID = process.env.CARDAPIO_WEB_COMPANY_ID;
 const CW_TOKEN = process.argv[2] || process.env.CARDAPIO_WEB_TOKEN;
 const GEMINI_API_KEY = process.env.GEMINI_API_KEY;
 
